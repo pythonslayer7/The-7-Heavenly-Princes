@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/businessGirl.rpy", line 11: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    menu:
+    ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Thu Nov 25 00:28:27 2021
