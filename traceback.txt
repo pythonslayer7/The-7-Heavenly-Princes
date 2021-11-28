@@ -1,48 +1,26 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/princess.rpy", line 117, in script
-    "在人群中，我在角落好像看到一人。 他微微一笑，和我相视时，让我不敢相信原来他会出现在这里。"
-IOError: Couldn't find file 'audio/main_menu.mp3'.
+  File "game/princess.rpy", line 482, in script
+    $ six_1 -= 10
+  File "game/princess.rpy", line 482, in <module>
+    $ six_1 -= 10
+NameError: name 'six_1' is not defined
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/princess.rpy", line 117, in script
-    "在人群中，我在角落好像看到一人。 他微微一笑，和我相视时，让我不敢相信原来他会出现在这里。"
-  File "C:\Users\Dashuang\Desktop\renpy-7.3.5-sdk\renpy\ast.py", line 708, in execute
-    renpy.exports.say(who, what, *args, **kwargs)
-  File "C:\Users\Dashuang\Desktop\renpy-7.3.5-sdk\renpy\exports.py", line 1345, in say
-    who(what, *args, **kwargs)
-  File "C:\Users\Dashuang\Desktop\renpy-7.3.5-sdk\renpy\character.py", line 1142, in __call__
-    self.do_display(who, what, cb_args=self.cb_args, **display_args)
-  File "C:\Users\Dashuang\Desktop\renpy-7.3.5-sdk\renpy\character.py", line 842, in do_display
-    **display_args)
-  File "C:\Users\Dashuang\Desktop\renpy-7.3.5-sdk\renpy\character.py", line 591, in display_say
-    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
-  File "C:\Users\Dashuang\Desktop\renpy-7.3.5-sdk\renpy\ui.py", line 297, in interact
-    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
-  File "C:\Users\Dashuang\Desktop\renpy-7.3.5-sdk\renpy\display\core.py", line 2702, in interact
-    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, **kwargs)
-  File "C:\Users\Dashuang\Desktop\renpy-7.3.5-sdk\renpy\display\core.py", line 3130, in interact_core
-    renpy.audio.audio.interact()
-  File "C:\Users\Dashuang\Desktop\renpy-7.3.5-sdk\renpy\audio\audio.py", line 1107, in interact
-    periodic()
-  File "C:\Users\Dashuang\Desktop\renpy-7.3.5-sdk\renpy\audio\audio.py", line 1060, in periodic
-    six.reraise(exc[0], exc[1], exc[2])
-  File "C:\Users\Dashuang\Desktop\renpy-7.3.5-sdk\renpy\audio\audio.py", line 1038, in periodic_thread_main
-    periodic_pass()
-  File "C:\Users\Dashuang\Desktop\renpy-7.3.5-sdk\renpy\audio\audio.py", line 979, in periodic_pass
-    c.periodic()
-  File "C:\Users\Dashuang\Desktop\renpy-7.3.5-sdk\renpy\audio\audio.py", line 457, in periodic
-    topf = load(self.file_prefix + filename + self.file_suffix)
-  File "C:\Users\Dashuang\Desktop\renpy-7.3.5-sdk\renpy\audio\audio.py", line 73, in load
-    rv = renpy.loader.load(fn)
-  File "C:\Users\Dashuang\Desktop\renpy-7.3.5-sdk\renpy\loader.py", line 576, in load
-    raise IOError("Couldn't find file '%s'." % name)
-IOError: Couldn't find file 'audio/main_menu.mp3'.
+  File "game/princess.rpy", line 482, in script
+    $ six_1 -= 10
+  File "C:\Users\Emma Liang\Desktop\renpy-7.1.3-sdk.7z\renpy-7.1.3-sdk\renpy\ast.py", line 881, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Emma Liang\Desktop\renpy-7.1.3-sdk.7z\renpy-7.1.3-sdk\renpy\python.py", line 1913, in py_exec_bytecode
+    exec bytecode in globals, locals
+  File "game/princess.rpy", line 482, in <module>
+    $ six_1 -= 10
+NameError: name 'six_1' is not defined
 
 Windows-8-6.2.9200
-Ren'Py 7.3.5.606
+Ren'Py 7.1.3.1092
 风流倜傥七仙君 1.0
-Mon Jan 11 00:49:54 2021
+Sat Nov 27 21:07:21 2021

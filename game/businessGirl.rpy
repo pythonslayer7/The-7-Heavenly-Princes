@@ -97,7 +97,7 @@ image creditscroll:
 "\n{b}English Translation:{/b} \nEllie Lau and Mayflower Studio Games \n"
 "\n{b}Script written by:{/b} \nMayflower Studio Games \n "
 "\n{b}XinQiJi Poem Translation by: {/b} \n许渊冲 \n "
-"\n{b}Music:{/b} \n许诗茵 \n麥振鴻 \nAdrian Von Ziegler \n宫西希 \n汪睿 \n秦时明月歌曲 \n聂薇 \n"
+"\n{b}Music:{/b} \n许诗茵 \n麥振鴻 \nAdrian Von Ziegler \n宫西希 \n汪睿 \n秦时明月歌曲 \n聂薇 \n曾经艺也 \n大话西游三大唐东 \n变奏的梦想 \nきずな \n"
 "\n{b}Drama:{/b} \nThe Untamed \nThe Return of Condor Heroes \nNoble Aspirations \nThe Fairies of Liao Zhai \nThe Longest day in Chang'an \nAshes of Love \nRise of Phoenixes \nHappy Mitan \nMy Own Swordsman \nThe Magic Blade \nEternal Love \nEverybody Stand By2 \nIncisive Great Teacher \nA Weaver on the Horizon \nThe Glory of Tang Dynasty \nBattle Through the Heavens \n"
 "\n{b}Audio:{/b} Royalty Free Music\n"
 "\n{b}Special Thanks:{/b} \nEvelyn Chin \nEllie Lau \nThe Asian Drama Community"], outlines=[(1, "#fff", 0, 0)])

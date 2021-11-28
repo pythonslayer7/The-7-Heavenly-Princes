@@ -34,6 +34,17 @@ init:
     define dude7 = Character(_("少年" ))
     define dude8 = Character(_("陌生男子"))
     define mc2 = Character(_("萧瑀"))
+    define dking = Character(_("龙王"))
+    define monkey = Character(_("斗战胜佛"))
+    define pig = Character(_("净坛使者"))
+    define wes = Character(_("南海三太子"))
+    define w = Character(_("王昌"))
+    define sjj = Character(_("少将军" ))
+    define p1 = Character(_("普男一" ))
+    define p2 = Character(_("普男二" ))
+    define p3 = Character(_("普男三" ))
+    
+
 # 游戏在此开始。
 
 label splashscreen:
@@ -55,6 +66,7 @@ label start:
     $ five_l = 0
     $ six_l = 0
     $ dr_l = 0
+    $ friend_x = 0
     $ virtue = 0
     $ det = 0
     play music "audio/music0.mp3"
