@@ -589,11 +589,12 @@ w "公主，冤枉啊。我也是逼不得已！"
 show p6 with dissolve
 mc_1 "还不把他带下去?!"
 "现在我胸口一堆怒火，明显对这次的相亲很不满意。"
-play music "audio/qsmy.mp3"
-show bg1 with dissolve
 "本来以为找到了一个还不错的人，原来还有这么多事。"
 "奈何我认识的人也不多，到底如何才能找到对的驸马呢?"
-"只有三十天了啊。于是我发令下去让整个西梁未成婚的男子都来测试看看能不能做驸马。"
+"只有三十天了啊。"
+play music "audio/changan.ogg"
+show bg1 with dissolve
+"于是我发令下去让整个西梁未成婚的男子都来测试看看能不能做驸马。"
 "虽然不能强迫让男子来报名，但是报名的人都能得到一笔钱。"
 "可是这其实才是噩梦的开始。"
 scene crowd with dissolve
