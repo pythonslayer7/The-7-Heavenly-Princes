@@ -2,13 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/businessGirl.rpy", line 169: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
-    scene five21 with dissolve
-    ^
-
-File "game/businessGirl.rpy", line 173: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
-    scene five21 with dissolve
-    ^
+File "game/businessGirl.rpy", line 319: expected statement.
+    four17 with dissolve
+           ^
 
 Ren'Py Version: Ren'Py 7.3.5.606
-Sun Nov 28 02:43:02 2021
+Sun Nov 28 22:17:18 2021
