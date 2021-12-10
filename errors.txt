@@ -2,9 +2,7 @@
 errors listed below, and try again.
 
 
-File "game/businessGirl.rpy", line 319: expected statement.
-    four17 with dissolve
-           ^
+File "game/script.rpy", line 13: indentation mismatch.
 
 Ren'Py Version: Ren'Py 7.3.5.606
-Sun Nov 28 22:17:18 2021
+Fri Dec 10 03:46:56 2021

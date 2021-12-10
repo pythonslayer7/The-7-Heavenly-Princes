@@ -1,5 +1,14 @@
 ﻿# 游戏的脚本可置于此文件中。
 
+# Imagemaps
+screen chooseRoute:
+    imagemap:
+        ground "routeChoiceUnhover.png"
+        hover "routeChoice1.png"
+
+        hotspot(1, 2, 398, 533)  action Jump ("scene_b") hovered [Play ("sound", "audio/swoosh.mp3")] focus_mask True
+        hotspot(522, 2, 436, 531) action Jump ("scene_a") hovered [Play ("sound", "audio/swoosh.mp3")] focus_mask True
+
 # 声明此游戏使用的角色。颜色参数可使角色姓名着色。
 init:
     $ style.default.font = "NotoSerifSC-Regular.otf"
@@ -195,12 +204,9 @@ label start:
         dude2 "还记得在五百年前的蟠桃宴会上，仙子给我留了一个蟠桃。"
         dude2 "如今我就做个人情，让你自己选以后要成为什么人。"
         "仙子，走什么线？"
-        menu:
-            "刁蛮公主线（大郎，二郎，六郎）":
-                jump scene_a
-            "小家碧玉线（三郎，四郎，五郎）":
-                jump scene_b
+        call screen chooseRoute with dissolve
     label scene_a:
+        hide chooseRoute
         play music "audio/music_2.mp3"
         scene 53
         "这一世我成为了西凉国的公主。从小就锦衣玉食，也非常受到父皇和母后的疼爱。"
@@ -948,6 +954,7 @@ label start:
                 "大郎好感 +15"
                 jump p_2
     label scene_b:
+    hide screen chooseRoute
     scene mc2_2
     play music "audio/qsmy.mp3"
     "喝完孟婆汤后，我的意识渐渐消失。这一世，我生在一个平凡的商人家中，父母还算恩爱，虽然有时会吵吵架。"
