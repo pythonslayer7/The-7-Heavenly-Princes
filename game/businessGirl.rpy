@@ -1,7 +1,33 @@
+# Cropped images
+image three1a:
+        "three1.jpg"
+        xalign 0.2 yalign 0.2
+image three2a:
+        "three2.jpg"
+        xalign 0.2 yalign 0.2
+image three27a:
+        "three27.jpg"
+        xalign 0.25 yalign 0.20
+image three28a:
+        "three28.jpg"
+        xalign 0.25 yalign 0.20
+image three1b:
+        "three1.jpg"
+        xalign 0.55 yalign 0.55
+image three5a:
+    "three5.jpg"
+    xalign 0.2 yalign 0.2
+image threeCrop1:
+    "threeCrop.jpg"
+    xalign 0.45 yalign 0.45
+image four32a:
+    "four32.jpg"
+    xalign 0.25 yalign 0.25
 label part1:
     play music "audio/qsmy.mp3"
     scene 305 with dissolve
     "他的眼神中的善意和同情打动了我，看来五郎真的很担心我。"
+    "在我失踪的这段时间，他还这么想念我，看来他也是一个善良的人。"
     "这一瞬间， 我放开了三郎的衣袖。"
     show four18 with dissolve
     "在这几乎空荡的前厅，四郎注视着所有人的神情，把我细微的举动收入眼中，轻轻皱眉，不知道想着什么。"
@@ -27,9 +53,6 @@ label part1:
     scene 305 with dissolve
     five"（端出美酒与佳肴）那岂不是很危险？"
     mc2 "姐姐我可是京都的大姐大，谁敢欺负我啊。 就是被路上的小白猫抓了几下。"
-    image three1a:
-        "three1.jpg"
-        xalign 0.2 yalign 0.2
     show three1a with dissolve 
     three "（心不在焉）七郎可在？既然他不想见到我， 我还是先离开吧。"
     mc2 "别走，你在山上这么“照顾”我， 你的情谊我怎么还呀。"
@@ -106,9 +129,6 @@ label part1_2:
     menu:
         "三郎":
             $ three_l += 5
-            image three5a:
-                "three5.jpg"
-                xalign 0.2 yalign 0.2
             show three5a with dissolve 
             three "（小声）本尊曾经听过这个段子。比起答案，你说谎却不脸红的样子更有趣"
             three "（坐下） 五弟，你平时不是鬼点子最多了吗？何不说说？逗大家开心？"
@@ -138,10 +158,28 @@ label part1_3a:
     three "（看向五郎）你比那出题的人还了解题目吗？"
     five "萧姐姐，你猜一猜呀？"
     menu:
-        "小儿无妇 ":
-            five "你的答案没错，可是看来我们还没有到心有灵犀的境界."
-            show five14 with dissolve
-            five "除了小儿无妇，悍夫无妇以外，（眨眨眼）某位仙郎也是无妇哦。"
+        "仙郎无妇 ":
+            "五郎好感 + 10"
+            five "（微笑）这天上的仙郎多的就和东门的云彩一样多，而得到各个仙女姐姐爱慕之心最多的属于天帝的第五个儿子了。"
+            five "这位仙君至今还没有婚约呢。"
+            show five30 with dissolve
+            five "他英俊潇洒，仪表堂堂，最喜欢到南海游玩。这百年间，他都随着观世音菩萨修炼，把人间情爱看得很淡。"
+            five "初到人间，他竟然对一位人间女子一见钟情。"
+            five "(自恋) 可是他的天命必须是和一位仙子结缘。天命真的可以违背吗？作为天帝最喜爱的儿子，他会和这位人间的女子白头偕老吗？"
+            show chief with dissolve
+            z "这关我们啥事啊？这天帝的儿子也不可能下界到我们这个破烂的酒楼光顾啊。"
+            z "这西街的明月楼才是我们京都一等一的大酒楼。"
+            z "稍微有点品味的人都不会特地来我们这儿住店。"
+            hide chief with dissolve
+            five "凡事不能看表面啊。这个酒楼虽然长年失修，主厨呢也厨艺不精，掌柜也是个铁公鸡，一毛不拔，店员各个穿衣没有任何品味. "
+            five "可是这天帝的儿子是不会计较这么多的，毕竟他是学过佛法的弟子。众生平等嘛。"
+            mom "哟，这天帝的儿子还很大度啊？"
+            five "不可置否。"
+            scene mom with dissolve
+            mom "天帝的儿子什么样我不知道。可是你尖嘴猴腮，一脸丧气，这辈子是肯定娶不到老婆了。还不赶快去干活。"
+            five "喂，大姑，要不要这么损我啊？"
+            mom "你叫我什么？"
+            "没等娘继续和五郎争吵，我把他拉到厨房让他好好反省。"
             jump part1_3
         "悍夫无妇":
             five "你的答案没错，可是看来我们还没有到心有灵犀的境界."
@@ -153,10 +191,21 @@ label part1_3:
     "想不到我胡乱编造的东西，大家还真的较真了。"
     "可能是因为我的演技太好了，店里的伙计们都没有质疑我 "
     mom "竟然你都回来了，我们赶快抓紧时间把店里恢复原样，继续营业，怎么样？"
+    show bai1 with dissolve
+    dad "少赚几个钱怎么了？让孩子上楼休息吧。"
+    "我爹平时吊儿郎当的，但是他也很疼我。我看到他的黑眼圈，我就有些心疼。"
+    mom "就你一个人心疼女儿啊？现在还没到睡觉的时间呢？她以后会继承我们的酒楼，多吃点苦没啥。"
+    dad "那还有啥要做的？都交给我。"
+    show mom with dissolve
+    mom "你的腿脚又不利索，只会添麻烦。"
     mc2 "娘，我今天还想去街上买元宵节的礼品呢。今天能不能早点关门啊？"
     mom "先把门外的两位客人招待好吧。"
+    hide mom with dissolve
+    dad "行，瑀瑀这一桌做完就出门玩。"
+    "今晚可以去逛街让我很开心，唯一遗憾的是我爹娘还要继续营业，不能一起出门。"
+    "不知道他们成婚后有多久没有一起出门散心了。内心深处，我知道他们都很关心彼此，就是嘴上吵吵架。"
     play music "audio/soft2.mp3"
-    show space5 with dissolve
+    scene space5 with dissolve
     "因为今天是元宵佳节，所以整个京都灯火通明。"
     "门外传来了热闹的人潮声，一对登对的少年少女似乎有些嫌弃我们永安酒楼的设施和装潢。"
     show 76 with dissolve
@@ -167,16 +216,16 @@ label part1_3:
     menu:
         "五道菜":
             "+ 20 金钱"
-            scene five21 with dissolve
+            scene five40 with dissolve
             five "（气急败坏）到底是哪一桌要本郎君烧这么多菜？他们是带着祖孙三代来吃饭吗？我的手切菜都切不过来了。"
         "十道菜":
             " +45 金钱"
-            scene five21 with dissolve
+            scene five40 with dissolve
             five "（气急败坏）到底是哪一桌要本郎君烧这么多菜？他们是带着祖孙三代来吃饭吗？我的手切菜都切不过来了。"
         "二十道菜":
             "+ 90金钱"
             "看来今天有这位富贵花在我们店，我们是不会亏本了。"
-            scene five21 with dissolve
+            scene five40 with dissolve
             five "（气急败坏）到底是哪一桌要本郎君烧二十道菜？他们是带着祖孙三代来吃饭吗？我的手切菜都切不过来了。"
             b "（悠哉）我就知道一定有客人一次会点不止十三道菜."
             b "之前你们还不听我的把酒楼扩大，现在遭罪了吧。（从厨房搬走了一个大西瓜，回到了前厅）"
@@ -187,7 +236,7 @@ label part1_4:
     image five16a:
         "five_16.jpg"
         xalign 0.0 yalign 0.2
-    show five16a with dissolve
+    show space16 with dissolve
     five "（瞳孔扩大）三哥，你怎么—难道说萧萧早就知道了我们的身份？"
     mc2 "当然了，我怎么说也是励志成为京都第一小富婆的女人，这点小事我早就知晓了。什么能逃过我的眼睛？"
     show 306 with dissolve
@@ -202,7 +251,7 @@ label part1_4:
     scene space5
     play music "audio/rom3.mp3"
     "店外的灯火和天上的星星照亮了路上行人的脸庞。"
-    "人潮中的男女个个都是成双成对，明显地衬出了我，三郎，四郎， 和五郎 的格格不入。"
+    "人潮中的男女个个都是成双成对，明显地衬出了我，三郎，四郎，和五郎的格格不入。"
     show yue4 with dissolve
     "街道旁有一对男女用打量的眼神看向了我们，两人先是窃窃私语，然后对着我们嬉笑。"
     "我觉的是因为"
@@ -211,6 +260,7 @@ label part1_4:
             jump part1_5
         " 他们在聊其他事情":
             $ virtue += 10
+            "善良 + 10"
             jump part1_5
 label part1_5:
     scene lan with dissolve
@@ -220,7 +270,7 @@ label part1_5:
     show xiaoyu19 with dissolve
     mc2 "你能不能不要露出一脸没见过世面的样子啊。"
     mc2 "这个就是一个普通的市井小玩意而已，姐姐我小时候后不知道吃了多少呢。"
-    dude5 " 姑娘，我这个摊子卖的可都是以我们西凉神兽模型而雕刻成的糖人，这祖传的技术可不是什么普通的东西。"
+    dude5 "姑娘，我这个摊子卖的可都是以我们西凉神兽模型而雕刻成的糖人，这祖传的技术可不是什么普通的东西。"
     "四郎和五郎盯着这些“稀奇”的糖果，对这老板投向了些赞赏的眼神。"
     "对我而言，这老板只是说的好听，糖浆就是糖浆，他的手艺只能算中等，姐姐我小时候不知道捏了多少呢。"
     show four12 with dissolve
@@ -259,41 +309,6 @@ label part1_5:
     show group1c with moveinbottom
     "我准备挑哪一个糖人？（重要选项）"
     menu:
-        "白虎":
-            play sound "audio/swoosh.mp3"
-            hide group1b with moveoutbottom
-            play sound "audio/swoosh.mp3"
-            hide group1a with moveouttop
-            play sound "audio/swoosh.mp3"
-            hide group1c with moveoutbottom
-            "三郎向老板付完钱之后，随手把糖人朝我的方向投来。"
-            three "（嘴角轻扬）萧瑀，你要接住哦。"
-            mc2 "辛亏姐姐我反应快，好好递给我不行吗?要是掉到地上怎么办？"
-            three "你身手敏捷，怎么会接不住呢?"
-            three "(见我有些不悦)  好吧，那就再给你多买几个吧。"
-            mc2 "不行，我现在就要多买一些。（又多选了几个糖人）反正是花灯节，今天不就是专门求姻缘的吗？"
-            mc2 "（咬着糖人）你说白虎会保佑我求得好姻缘吗？"
-            three "（又向老板付了钱，递给我糖人）当然，看在你这么会挑糖人的份上，今生你一定会得到一份好姻缘。"
-            mc2 "啊，才一份啊？人有轮回，怎么说也要保佑我好几世的姻缘吧？"
-            three "（叹气）你这么贪心就不怕神仙不保佑你吗？"
-            mc2 "我想神仙必有善心，我只是一个凡夫俗子，神仙怎么会和我计较？总之，我相信善缘，哈哈。"
-            three "好吧，善女子，你想要什么样的有缘人？"
-            menu:
-                "富可敌国":
-                    jump part1_5a
-                "相貌堂堂":
-                    jump part1_5a
-                "出身显贵":
-                    jump part1_5a
-                "身怀绝技":
-                    jump part1_5a
-                "一心一意":
-                    jump part1_5a
-                "全都要":
-                    $ three_l += 5
-                    $ four_l += 5
-                    $ five_l += 5
-                    jump part1_5a
         "麒麟":
             play sound "audio/swoosh.mp3"
             hide group1b with moveoutbottom
@@ -320,7 +335,7 @@ label part1_5:
             show four17 with dissolve
             four "（回眸一笑） 冥冥之中，我想神灵应该已经感应到你的诚心了。"
             mc2 "不会是真的吧？早说我多许几个愿望了。"
-            show four31 with dissolve
+            show four32a with dissolve
             "四郎听到我的话带着贪婪之意，微微皱眉。不知道是担心我还是嫌弃我的态度。"
             "他走向老板，自然地从口袋里拿出了一叠纸钱。"
             scene space12 with dissolve
@@ -362,7 +377,7 @@ label part1_5:
                     "他身上的青衫比夜空的深蓝还要引人夺目。当他睁开双眼时，似乎银河里最耀眼的星星都落入了他的眼中。"
                     "此时短短的一分钟似乎长过平时的几个时辰。"
                     "如果再长一秒，我觉得我都有可能因为我此时的尴尬而当场昏迷。"
-                    show four22 with dissolve
+                    show four32a with dissolve
                     four "（思索一番）是。"
                     show xiaoyu14 with dissolve
                     mc2 "???"
@@ -529,40 +544,96 @@ label part1_5:
                     mc2 "不用了，男女授受不亲。我回去自己上药。"
                     five "好吧，既然你不相信我，我无话可说。我们快和三哥还有四哥回合吧。"
                     jump part1_6
+        "白虎":
+            play sound "audio/swoosh.mp3"
+            hide group1b with moveoutbottom
+            play sound "audio/swoosh.mp3"
+            hide group1a with moveouttop
+            play sound "audio/swoosh.mp3"
+            hide group1c with moveoutbottom
+            scene threeCrop1 with dissolve 
+            "三郎向老板付完钱之后，随手把糖人朝我的方向投来。"
+            three "（嘴角轻扬）萧瑀，你要接住哦。"
+            show xiaoyu23 with dissolve
+            mc2 "辛亏姐姐我反应快，好好递给我不行吗?要是掉到地上怎么办？"
+            three "你身手敏捷，怎么会接不住呢?"
+            show three_31 with dissolve
+            three "(见我有些不悦)  好吧，那就再给你多买几个吧。"
+            show xiaoyu21 with dissolve
+            hide three_31 with dissolve
+            mc2 "不行，我现在就要多买一些。（又多选了几个糖人）反正是花灯节，今天不就是专门求姻缘的吗？"
+            mc2 "（咬着糖人）你说白虎会保佑我求得好姻缘吗？"
+            scene three_30 with dissolve 
+            three "（又向老板付了钱，递给我糖人）当然，看在你这么会挑糖人的份上，今生你一定会得到一份好姻缘。"
+            mc2 "啊，才一份啊？人有轮回，怎么说也要保佑我好几世的姻缘吧？"
+            show three27a with dissolve
+            three "（叹气）你这么贪心就不怕神仙不保佑你吗？"
+            mc2 "我想神仙必有善心，我只是一个凡夫俗子，神仙怎么会和我计较？总之，我相信善缘，哈哈。"
+            three "好吧，善女子，你想要什么样的有缘人？"
+            menu:
+                "富可敌国":
+                    jump part1_5a
+                "相貌堂堂":
+                    jump part1_5a
+                "出身显贵":
+                    jump part1_5a
+                "身怀绝技":
+                    jump part1_5a
+                "一心一意":
+                    jump part1_5a
+                "全都要":
+                    $ three_l += 5
+                    $ four_l += 5
+                    $ five_l += 5
+                    "三郎好感 + 5；四郎好感 + 5；五郎好感 + 5"
+                    jump part1_5a
 label part1_5a:
     three "只有这些要求吗？嗯，如你所愿。"
+    scene 62 with dissolve
     dude5 "此时非彼时，现在的西凉百姓已经很少拜佛求神了。"
     dude5 "不过，我们京都有一间灵验的月老庙，如果两位可以去看看，说不定可以遇见正缘。"
     "四郎和五郎对这民间信仰和姻缘神的兴趣少于对花灯节的好奇心。"
     "三郎对于月老庙倒是有些兴趣，经过一番讨论，我们决定结伴一起去祭拜月老，而五郎和四郎继续逛街。"
     mc2 "（小声）我听说人的姻缘都是经过牵红线而达成的，那神仙的姻缘呢？"
+    scene space13 with dissolve
     three "神仙亦是如此，只是仙侣的缘分可比人间普通夫妻的羁绊更加深刻。"
     three "人间夫妻的感情在我看来不就是十几年的相伴，从青丝到白发，过了几个有限的春秋，夕阳西下，眼前人不知是否依然还是心中人。"
     mc2 "你还真是偏见。"
     mc2 "我看既然长久的寿命可以怀念长久的相思之情，那短暂的生命也依然可以延伸无限的相思意。"
+    show three27a with dissolve
     three "人性往往贪婪，而神仙早已看清世间一切苦厄。"
     three "（坚定地看向我）光阴似箭，日月如梭，若是一旦和仙子结缘，那眼前人必是心中人。"
+    show xiaoyu21 with dissolve
     mc2 " (看着他的眼睛，有些错愕) 谁是你的眼前人啊？"
+    show threeCrop1 with dissolve
     three "（轻笑, 有意地闭上眼睛，然后突然睁开眼睛看着我）自然是远在天边了"
     "不知不觉，三郎和我走到了一座香火鼎盛的小庙旁，看着进进出出的香客们，三郎似乎并不想进去。"
     three "（想到什么）这次你想要见到月老本人，可是凡人要是想进仙人的道场或者府宅必定要有仙物，但是凡人怎么可能有仙人的宝物呢。"
+    show space15 with dissolve
     three "真是伤神，我可以暂时赠与你一物，（拿出一枚红色蝴蝶结形状的戒指，看似同心结）此乃同心宝戒。"
+    show xiaoyu23 with dissolve
     mc2 "（听到名字后，脸突然刷红）这。。。这东西在人界可不能随便送的。"
     three "（突然反应过来）这不是凡间男女相赠的那个同心结，这是吸收日月之光的神物。有了这个戒指，你便能看到凡间所有人的正缘和桃花。"
+    hide xiaoyu23 with dissolve
     three "我掌管着人界姻缘，这在我看来这是一件神器而已。"
     mc2 "（立刻戴在手上，观察戒指）我怎么什么都没看见呢？"
     three "你不懂仙法，当然不能启动同心宝戒。"
+    show xiaoyu22 with dissolve
     mc2 "这破戒指也太坑人了吧。"
     three "（摇摇头）这么嫌弃它的话，那就还给我吧。"
     "就在我想将此物还给他时，我心中有闪过一个念头。"
     "等等，万一这个戒指能卖个好价钱呢？"
+    show xiaoyu21 with dissolve
     mc2 "算了，算了，我先勉为其难收下它，要是哪天我决定开始修仙了，它自然就有用处了。"
     mc2 "（回想到什么，举起他的手腕）若是掌管人间姻缘的红线都在月老那里，你手腕上的红线又是谁的呢？"
-    three " 无可奉告。"
+    scene three1a with dissolve
+    three "无可奉告。"
     mc2 "（追问）第一次见到你的时候，这个红线就引起了我的注意。它是不是永远都不会脱落啊？"
+    show three2a with dissolve
     three "（点点头）除非得到我的许可，不然这红线永远都会留在我的手腕上。"
     three "看在你这么想见月老的份上，我就让你亲自询问他你的姻缘吧。"
-    " 我们两人穿过红墙内来到了月老的道场，可是左看右看，室内并无一人。"
+    scene space12 with dissolve
+    "我们两人穿过红墙内来到了月老的道场，可是左看右看，室内并无一人。"
     three "真是不巧，看来我们来的不是时候，月老一定是出门了。"
     three "我们回去和四郎和五郎会和吧。"
     mc2 "（拉着他的衣袖）反正都来了，一起求签吧"
@@ -570,6 +641,7 @@ label part1_5a:
     three "可能一切真的都逃不过命数。"
     mc2 "（脑洞大开）哦，难道你是传说中的那种天煞孤星？"
     mc2 "一辈子注定孤独终老？"
+    show three27a with dissolve
     three "（把我的手从他的衣袖移开）你还真是想象丰富。"
     three "不过你还是担心你自己吧。"
     mc2 "什么意思？"
@@ -577,76 +649,110 @@ label part1_5a:
         three "（走近，举起我腰间的玉佩）我怎么也不能理解为什么四郎会把这个这么特别重要的东西放在一个凡人身上。"
     else:
         three "我还是第一次看到五郎这么在乎一个女子，而且还是一个凡间女子."
+    show xiaoyu8 with dissolve
     mc2 "还不是因为姐姐我是一个奇女子"
     three "（看着我，嘀咕着）是挺有趣的"
     mc2 "（转头）你说什么？"
+    hide xiaoyu8 with dissolve
     three "（莞尔一笑）我说你长得很有趣"
     "不给他点颜色瞧瞧，看来三郎真的以为姐姐我是吃素的.我决定"
     menu:
         "和他单挑: 武力值低":
             "现在我还没有开始修仙，经营客栈六十天后才能和人单挑。现在时机还不到。"
             mc2 "这次我就放过你，下次我再教训你。"
-            three " 那我就拭目以待了。"
+            three "那我就拭目以待了。"
+            jump part1_6
         "戏弄他":
+            scene space14 with dissolve
             "我随意退后了几步，距离三郎有十人之远，瞄准了他的背，突然加快了脚步，一下翻到他的背上。"
             "这个动作此时吸引到了很多路人的目光，三郎似乎非常不满我的行为。"
             three "（听到人群的嬉闹声，试着把我甩开）下来，这里可是大庭广众， 快点下去。"
             mc2 "你刚刚出言不逊，姐姐我现在不乐意了。除非你好好跟我道歉，不然我才不下来。"
-            three " 我再说最后一遍，快点下来。"
+            three "我再说最后一遍，快点下来。"
+            show storm with dissolve
             "天空慢慢变色，在一瞬间，晴朗的天气慢慢转换为乌云密布。"
             "和我那天与白虎单挑时的场景有点相似。"
             "这家伙不会是要动真格了吧？还是只想吓吓我？"
+            show xiaoyu24 with dissolve
             mc2 "（小声）要是你在这么多人面前施展仙法，那可是会犯天条的哦。"
             three "你好沉。（继续试着把我甩开）"
             "我今天晚上的确是多吃了两碗饭，不过那也是因为三郎害我在山洞里好几天没吃上饭了啊。"
+            show three1b with dissolve
             "想到这个家伙的傲慢，我就毫不犹豫地在他的脖子上又咬了一个很深的印子."
             "当我碰触到了他的肌肤时，他好像突然没有剧烈地想把我摔下来了。"
+            show bg23 with dissolve
             "见他许久没有反应，我抬头时，发现我们在月老庙的后庭，一个只有我们两个人的地方。"
             "看来他刚刚是背着我，穿过了人群跑过来的。我看到红晕从他的脖子一路晕染到了脸颊。"
             "他转头时， 我们的眼睛刚好对视。这突来的凝视，也让我有些"
             menu:
                 "害羞":
+                    "三郎好感 + 5"
                     $three_l += 5
                 "害怕":
                     "我有些害怕。"
             "过了许久，他打破了沉默。"
+            scene three1a with dissolve
             three "多亏了你，本仙君还是生平第一次体会到被凡人戏弄。"
             mc2 "这件事情也不是我一个人的错啊。你若不来招惹我，我也不会戏弄你啦。"
             mc2 "我们就算扯平了。"
+            show three_28 with dissolve
             three "（摸着脖子上的伤口）你确定？"
+            show xiaoyu8 with dissolve
             mc2 " 我一个娇滴滴的女孩子能有什么坏心思呢？"
             mc2 "走吧，我们回去和四郎五郎会和，继续逛街吧。"
+            hide xiaoyu8 with dissolve
+            show three28a with dissolve
+            "就在我准备离开的时候，三郎突然抓住我的手，让我的身体前倾，马上就拉近了我们的距离."
+            three "这是你第二次咬人了吧？要不要让我也在你的脖子上留一个印子？当作回礼？"
+            "他的言语带着挑衅，双手束缚着我，让我无法移动。我还是第一次感受到我们体格的悬殊。"
+            "我抬头一看，看到他的嘴唇离我越来越近。当他靠近我时，他的发丝先轻微摩擦着我的肌肤，让我不知所措。"
+            "就在他的嘴唇快碰到我的脖子时，他不知为什么又突然推开了我。"
             three "算了，谁叫我刚刚答应了你要为你牵线搭桥，这个仇我就先记下了，以后再奉还。"
             mc2 "（翻白眼）哪有仙君和凡人记仇的啊？"
+            show three_30 with dissolve
             three " 你现在不是我们酒楼的大小姐吗？而我一个酒店伙计为什么不能记仇了？"
+            show xiaoyu23 with dissolve
             mc2 "诶，难道说你要正式开始给我们酒楼打工了？（拍手）太好啦。"
             three " 喂，重点不是这个。"
+            show xiaoyu23 with dissolve
             mc2 " 算盘小哥，还不快走？难道要姐姐我监督你吗？"
             "听到我的话，三郎的嘴角抽搐了一下。"
             jump part1_6
-
 label part1_6:
     scene space4 with dissolve
     "今天我们店面关门时间有些晚了，有些小贩已经陆陆续续的在收拾摊子了。"
-    "当三郎四郎和五郎还在欣赏街边花灯的时候，我注意到了一个射箭比赛的小摊，对面有一位意气风发的郎君举着弓箭，不费吹灰之力就射准了红心。"
-    "这人似曾相识，可是我又不太记得哪里有见过他。"
+    "当三郎四郎和五郎还在欣赏街边花灯的时候，我注意到了一个射箭比赛的小摊."
+    show 106 with dissolve
+    "对面有一位意气风发的郎君举着弓箭，不费吹灰之力就射准了红心。"
+    "隔着面罩，这人似曾相识，可是我又不太记得哪里有见过他。"
+    show 111 with dissolve
     "那男子身旁的女子好像是刚刚在我们店里吃饭的客官。"
     "好巧不巧，这姑娘好像把我喜欢的那个熊猫面具取走了。"
+    show space4 with dissolve
     "他们两人有说有笑地离开了，我看着很多行人都对那射箭比赛有些兴趣，于是我又建议三郎四郎和五郎也去试试。"
     "不问还好，一问他们的射箭技巧简直让我无语。三郎和五郎接连三次都没有射到红心。而四郎只在一旁观看。"
+    show five31 with dissolve
+    hide space4
+    hide 111
     five "（津津有味地吃着糖，看着跌落的箭，面容平和）骑射需要的是练习，而我一个在南海修炼佛法的弟子怎么可能有时间练习这个？"
+    show three_30 with dissolve
+    hide 106 with dissolve
     three "（冷笑）是啊，你的箭离箭靶也隔了一个南海了。你果真有思念南海的心意。"
+    show five36 with dissolve
     five "(嘴角上扬) 还说我呢，三哥，我的箭至少是直的，你都射偏了呢。还有，你怎么用左手拉弓射箭？"
     five "我怎么不记得你是一个左撇子？"
     three "我这只是试试手。谁说射箭一定要用右手？"
     five "（观察，故意拍了拍三郎的后背）哈哈，你是不是受伤了？是什么人伤了你啊？"
     three "（吃痛）好好射箭，这里行人众多，你不怕伤人吗？我只算失手了而已。"
     five "我一直都很小心，不像三哥你居然被仇敌打伤。还真是不小心呢。"
+    show xiaoyu14 with dissolve
     mc2 "喂，有完没完啊？这射箭比赛也要钱的啊。我就剩两个铜板了。你们也太不靠谱了。"
     "四郎轻轻地扶着弓箭，示意叫三郎和五郎不要继续射箭比赛。"
+    show four28 with dissolve
     four "既然如此，我们可以到其他地方看看，不一定要射箭。"
     three "诶，四哥你怎么不去试试？你的随身携带的法器不就是弓箭？"
     four "我想箫姑娘也想玩射箭比赛。胜负并不重要，亲自体验了才不会忘记今年的花灯节。"
+    show xiaoyu24 with dissolve
     mc2 "话虽如此，我可还是很想要一个面具的啊。我猜你和你哥和你弟都是一个射箭水平。还是我自己来射好了。"
 show black
 "测试版到此结束，您是否想查看游戏的更多更新？"

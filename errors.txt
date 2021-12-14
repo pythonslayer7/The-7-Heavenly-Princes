@@ -2,7 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 13: indentation mismatch.
+File "game/businessGirl.rpy", line 618: expected 'image_name_component' not found.
+    show scene romSpace2 with dissolve
+        ^
 
 Ren'Py Version: Ren'Py 7.3.5.606
-Fri Dec 10 03:46:56 2021
+Sat Dec 11 03:01:09 2021
