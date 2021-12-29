@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/businessGirl.rpy", line 618: expected 'image_name_component' not found.
-    show scene romSpace2 with dissolve
-        ^
+File "game/princess.rpy", line 805: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+    four " 清水出芙蓉，天然去雕饰。
 
-Ren'Py Version: Ren'Py 7.3.5.606
-Sat Dec 11 03:01:09 2021
+Ren'Py Version: Ren'Py 7.1.3.1092
+Tue Dec 28 22:04:27 2021
