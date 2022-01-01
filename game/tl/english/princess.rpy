@@ -72,7 +72,8 @@ translate english p_1_5cfff2f2:
 translate english p_1_98d5d694:
 
     # six "空有仙法却不能永世庇佑好友，在两难的情况下，心里怎么好受？"
-    six "How can I feel at ease in a difficult situation when I am supposed to be so powerful, yet feeling so powerless?"
+    six "How can I feel at ease in a difficult situation when I am supposed to be so powerful,"
+    six "yet feeling so powerless?"
 
 # game/princess.rpy:13
 translate english p_1_79999f8e:
@@ -289,7 +290,7 @@ translate english p_2_4d26bad3:
 translate english p_2_686d4b91:
 
     # one "（有些不解）本尊在世已久，听闻凡人最喜爱的莫过于荣华富贵，求得好姻缘了。为何你却宁愿抛弃这些只为换我的平安？"
-    one "(Looking somewhat puzzled) I have lived for a long time and I have known mortals to only love  glory, wealth and even a happy marriage
+    one "(Looking somewhat puzzled) I have lived for a long time and I have known mortals to only love  glory, wealth and even a happy marriage"
     one "yet you would abandon them all for my well being. Why?"
 
 # game/princess.rpy:47
@@ -309,7 +310,8 @@ translate english p_2_3995423d:
 translate english p_2_da66b751:
 
     # one "天帝若是听到了你的请求，也必定不会答应你。人仙有别，我们注定无缘。 若是与人相恋，千年修为不仅毁于一旦，而且永世不得返回天庭。"
-    one "If the Heavenly Emperor heard your prayers, he would not agree to your request. Immortals and humans are different, we have no chance to be together. "
+    one "If the Heavenly Emperor heard your prayers, he would not agree to your request."
+    one "Immortals and humans are different, we have no chance to be together. "
     one "If I fall in love with a human girl, not only will my thousands of years of cultivation be destroyed,"
     one "but also I will never be able to return to the heavenly realm."
 

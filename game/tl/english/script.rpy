@@ -4760,7 +4760,7 @@ translate english a_4_10a_4bec1af6:
     # "我抬眸与他相望却被这暧昧的气氛感染，久久相对无言却又胜过千言万语。"
     "When I raised my eyes to look up at him, the warmth of the atmosphere engulfed me."
     "I am without words, but certain things are better left unsaid."
-    "Sometimes silence is better than a thousand spoken words.
+    "Sometimes silence is better than a thousand spoken words."
 
 # game/script.rpy:807
 translate english a_4_10a_76412b35:
@@ -4929,7 +4929,7 @@ translate english a_4_11_f0476369:
 translate english a_4_11_97565937:
 
     # "难道是在祭祀？ 不可能，今日不是祭祀的时间。"
-    "Are they performing sacrifices? Impossible, today isn't a day of sacrifice.""
+    "Are they performing sacrifices? Impossible, today isn't a day of sacrifice."
 
 # game/script.rpy:839
 translate english a_4_11_d75ef9df:

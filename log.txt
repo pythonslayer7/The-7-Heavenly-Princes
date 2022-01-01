@@ -1,2544 +1,261 @@
-Sat Jan 01 00:45:41 2022
+Sat Jan 01 02:01:54 2022
 Windows-8-6.2.9200
 Ren'Py 7.1.3.1092
  
 
-Bootstrap to the start of init.init took 0.17s
+Bootstrap to the start of init.init took 0.12s
 Early init took 0.01s
-Loader init took 0.16s
-Loading error handling took 0.06s
-Loading script took 0.84s
-Loading save slot metadata. took 0.31s
-Loading persistent took 0.01s
+Loader init took 0.10s
+Loading error handling took 0.04s
+Loading script took 1.06s
+Loading save slot metadata. took 0.37s
+Loading persistent took 0.04s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 1.12s
+Loading analysis data took 0.11s
+Analyze and compile ATL took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Emma Liang\\AppData\\Roaming/RenPy/backups\\The-7-Heavenly-Princes':
+Dump and make backups. took 0.25s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.14s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.13s
+Prepare screens took 0.17s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.13s
+Running _start took 0.01s
+Performance test:
+Interface start took 0.05s
 
-File "game/tl/english/princess.rpy", line 292: end of line expected.
-(Perhaps you left out a " at the end of the first line.)
-    one "(Looking somewhat puzzled) I have lived for a long time and I have known mortals to only love  glory, wealth and even a happy marriage
-        one "yet you would abandon them all for my well being. Why?"
-              ^
-    
-    # game/princess.rpy:47
-    translate english p_2_4a5b91dc:
-    
-        # mc_1 "å¤§éæ¢ç¶å·²ç»ä¿®éæä»ï¼ä¸å¿ååè½®åä¹è¦ï¼é£èªç¶ä¹è½æç½å¶ä¸­éçã"
-        mc_1 "Since youâre a powerful deity who no longer needs to suffer the wheel of reincarnation"
-        mc_1 "you must be more knowledgeable than mortals. Why don't you tell me instead?"
-    
-    # game/princess.rpy:48
-    translate english p_2_3995423d:
-    
-        # "æé£ä¹ä¸å¹é£ï¼ä»ç½ççè¸æ¸æ¸éçº¢ãé¾éæ¯è¸çº¢äºï¼"
-        "After a while, his pale face gradually turned red. Was he blushing?"
-    
-    # game/princess.rpy:49
-    translate english p_2_da66b751:
-    
-        # one "å¤©å¸è¥æ¯å¬å°äºä½ çè¯·æ±ï¼ä¹å¿å®ä¸ä¼ç­åºä½ ãäººä»æå«ï¼æä»¬æ³¨å®æ ç¼ã è¥æ¯ä¸äººç¸æï¼åå¹´ä¿®ä¸ºä¸ä»æ¯äºä¸æ¦ï¼èä¸æ°¸ä¸ä¸å¾è¿åå¤©åº­ã"
-        one "If the Heavenly Emperor heard your prayers, he would not agree to your request. Immortals and humans are different, we have no chance to be together. "
-        one "If I fall in love with a human girl, not only will my thousands of years of cultivation be destroyed,"
-        one "but also I will never be able to return to the heavenly realm."
-    
-    # game/princess.rpy:50
-    translate english p_2_8c05ede7:
-    
-        # mc_1 "ï¼å¤±æï¼è¥æ¯å¤§éåªå¤©çå¿åæ¬¢æäºï¼è¯å®ä¼ä¸ºä»æ¥ä¹è¨æå°åæçã"
-        mc_1 "(Disappointed) If you actually fall in love with me one day, you'll be forever sorry for what you said today."
-    
-    # game/princess.rpy:51
-    translate english p_2_8159633c:
-    
-        # one "é£ä½ åæ¯ä¸ºä»ä¹ç±ææ¬å°ï¼"
-        one "Then why do you adore me?"
-    
-    # game/princess.rpy:52
-    translate english p_2_f6cb2059:
-    
-        # mc_1 "ä½ åæå»·éé£äºè°åªçå®åä¸ä¸æ ·ãä»ä»¬åªæ³è®¨å¥½æï¼å®å¨å ä¸ºææ¯å¬ä¸»ç½¢äºã æè§å¾å¤§éè½ç¶æäºå·æ·¡ï¼ä½å®åæ¯å¤å·åç­ï¼æ¯ä¸ä¸ªçæ§æçå¥½éåã"
-        mc_1 "You are different from the court officials who only want to flatter me. "
-        mc_1 "They try to please me, simply because I am a princess. "
-        mc_1 "I think that you seem indifferent on the outside, but inside you are caring. I think you are genuine."
-    
-    # game/princess.rpy:53
-    translate english p_2_d70c372e:
-    
-        # one "å¬ä¸»ç°å¨åæ¬¢æ¬å°åªæ¯å ä¸ºæä¸æ¯é£äºå¡å¤«ä¿å­ãè¿äºæ¶æ¥ï¼ç­å¬ä¸»å¯¹æä¸åè¿·æï¼è¯´ä¸å®ä¹ä¼ä¸ºä»æ¥ä¹è¨æå°åæçã"
-        one "You only like me now because I'm different from your peers. "
-        one "With the passing of time, once you are no longer obsessed with me, you may regret your words today."
-    
-    # game/princess.rpy:54
-    translate english p_2_fa2caa9a:
-    
-        # mc_1 "éåä½åºæ­¤è¨ï¼"
-        mc_1 "Why would you say that?"
-    
-    # game/princess.rpy:55
-    translate english p_2_16e14ef6:
-    
-        # one "å¬ä¸»ä»å¹´äºåæä½ï¼å¯æ¬å°å¨ä¸å·²æåå¹´ã æ¢æ¯è§è¿äººé´çæ²æ¬¢ç¦»åï¼ä¹æç½äººå¿æåã"
-        one "You are a little over twenty, yet I have been alive for thousands of years."
-        one "Not only have I seen the joys and sorrows of the world, but I also understand that the human heart is fickle."
-    
-    # game/princess.rpy:56
-    translate english p_2_bfd067fe:
-    
-        # one "è¿ä¸ä¸å¯æå¤©éä¸æ¾æ´æ¹ï¼äººé´æç±ä¹åªæ¯éè±æ°´æç½¢äºã"
-        one "Nothing is immutable except our predetermined fate. "
-        one "Love is just a beautiful illusion. It's inconstant."
-    
-    # game/princess.rpy:57
-    translate english p_2_61cc0807:
-    
-        # "è¯´å®æ­¤è¯ï¼ä»åä¸åç¸ï¼å¼å§æåã"
-        "After he said this, he closed his eyes and began meditating."
-    
-    # game/princess.rpy:58
-    translate english p_2_e547dca3:
-    
-        # mc_1 "ä½ è¿ä¸ªå°åè¸ï¼æ¬å¬ä¸»ä¸çä½ äºã"
-        mc_1 "You're too relentless, I am just going to ignore you."
-    
-    # game/princess.rpy:59
-    translate english p_2_a7d48009:
-    
-        # "æçå¿å¥½åè¢«ä»ä¹æ³çäºä¼¼çï¼å¯æ¯å´ä¸æ³å¨ä»çé¢åè½æ³ªã"
-        "My heart ached for some reason, but I wasn't going to cry in front of him."
-    
-    # game/princess.rpy:60
-    translate english p_2_03472b4d:
-    
-        # "çæ¥è®©ä¸ä¸ªä»åç±ä¸å¡äººå¶å®ä¸æ¯é£ä¹å®¹æçäºæãè¿åå¹´éä»æ¯ä¸æ¯éè§è¿ä»ä¹äººï¼"
-        "I guess it isnât easy to make an Immortal fall in love with a human. "
-        "I wonder in these thousand years, has he ever spent time with anyone?"
-    
-    # game/princess.rpy:61
-    translate english p_2_c4d61188:
-    
-        # "é¾ä¸ææ¾ç»ææä¸ªå¥³å­©å­è®©ä»ä¼¤äºå¿ï¼ ç°å¨æ³èµ·æ¥ï¼æç¡®å®å¯¹è¿ä¸ªä»åè¿æè®¸å¤ä¸äºè§£çå°æ¹ã"
-        "Is it possible that a girl once made him sad? "
-        "Now that I think about it, there is a lot about this Immortal that I don't know."
-    
-    # game/princess.rpy:62
-    translate english p_2_9bd991be:
-    
-        # "ä¸åºé¨å°±çè§äºåæçä¸¤ä½å¤ªå»ã"
-        "As soon as I left, I saw two Imperial doctors."
-    
-    # game/princess.rpy:63
-    translate english p_2_df1fe374:
-    
-        # "æåºå»è¯¢é®å¤ªå»ä¸ºä½è¯´å¤§éå½ä¸ä¹ç£ï¼ä»ä»¬æåå¤ï¼å¶å®åæä»ä»¬è¯´çæ¯å¦ä¸ä¸ªå¹´è½»çå¤ªå»ãããåæ¥æ¯æå¬éäºï¼"
-        "I went over and asked one of them, why did they falsely report Da Lang's health condition, to which they replied quickly. "
-        "In fact they were talking about another young Imperial doctorâ¦ So, I heard it wrong?"
-    
-    # game/princess.rpy:66
-    translate english p_3_e1fc870d:
-    
-        # "ä»å¤©åæ¯ä¸ä¸ªç¥­ç¥çä¸å¤©ã è¿åç¶çè¯´æå¿é¡»è¦åå å¸ç¤¼ï¼æ å¥ä¹ä¸ææè®¸å¯ã"
-        "Today is another day of sacrifice. This time my father said that I must attend the ceremony, so I have no choice but to go."
-    
-    # game/princess.rpy:67
-    translate english p_3_4f3aa22f:
-    
-        # "å¦é£å¹è¿é¦çï¼è¡è¥çå³éæ¢æ¢æ£å¼ï¼æä¹æå°ä¸éã"
-        "As the demon winds pass through the incense burner, the smell of blood dissipates; still I feel uncomfortable."
-    
-    # game/princess.rpy:68
-    translate english p_3_de8dfcad:
-    
-        # npc1 "ä»æ¥æç¨äºåä¸ªç«¥ç·ç«¥å¥³çè¡æ¥ä¾ç»é­åï¼ éä¸å¯æ¾å¿ï¼è¥¿åç¾å¹´é½ä¸ä¼æç¾é¾ã åªæ¯ããã"
-        npc1 "Today, I used the blood of ten boys and girls to offer to the demon,"
-        npc1 "you can rest assured that there will not be any disasters in Xiliang for a hundred years. However..."
-    
-    # game/princess.rpy:69
-    translate english p_3_7c276d84:
-    
-        # npc2 "åªæ¯ä»ä¹ï¼"
-        npc2 "However, what?"
-    
-    # game/princess.rpy:70
-    translate english p_3_5f800626:
-    
-        # npc1 "å¾®è£æ¹æåäºä¸å¦ï¼å¬ä¸»åè¥¿åçå½æ°æå¿è¦çå³ç³»ãè¥æ¯å¬ä¸»è½å¨è¿ä¸ªæåºå«ï¼é£ä¹å¥¹å¯ä¿è¥¿åçå¤ªå¹³ã"
-        npc1 "Your humble servant just had a divination, the princess and Xiliang's fates are intertwined."
-        npc1 "If the princess can marry this month, then she can protect Xiliang's peace."
-    
-    # game/princess.rpy:71
-    translate english p_3_ebefc82a:
-    
-        # npc2 " è¿ææ­¤äºï¼"
-        npc2 "Are you sure?"
-    
-    # game/princess.rpy:72
-    translate english p_3_214358e7:
-    
-        # npc1 "å¾®è£åªæ¯åäºåå¦ï¼å¬ä»å¤©æã"
-        npc1 "Your humble servant is only good at reading signs and obeys the will of the Gods."
-    
-    # game/princess.rpy:73
-    translate english p_3_7713fe91:
-    
-        # mc_1 "å¤©æä¼ç´¢è¦ç«¥ç·ç«¥å¥³ä¹å½ï¼ å½å¸ä¸è¦å¨è¿éå±è¨è¸å¬äºã"
-        mc_1 "Why would any gods ask for the blood of children?"
-        mc_1 "The Prime Minister needs to stop lying."
-    
-    # game/princess.rpy:74
-    translate english p_3_ad8e9a2e:
-    
-        # npc1 "è°é½ç¥éï¼å¤§å¤æ°è¥¿åå­æ°ä¸ä¿¡ç¥ï¼ä¸æä½ï¼åªä¿¡å¥é­å°ãè¥æ¯è¿å°ä¸çè¯é½ä¸å¬äºï¼é£ä¹è¥¿åçæªæ¥è¿æä»ä¹å¯è¨ï¼"
-        npc1 "Everyone knows, most of the people in Xiliang don't believe in gods or worship Buddha, they only believe in the demons."
-        npc1 "If you don't listen to your Demon Lord, what future is there for Xiliang?"
-    
-    # game/princess.rpy:75
-    translate english p_3_3f81e1ea:
-    
-        # npc2 "å¥½äºï¼é¿åï¼è¿ä»¶äºä½ å¯ä¸è®¸è¡é¹ã å½å¸è¯´çç¡®å®æçã é­å°ä¿ä½æä»¬è¿ä¹å¤å¹´ï¼è½ç¶ç¥­ç¥æ¯çºç²äºæ§å½ï¼ä½æ¯è½ä¿ä½æ´ä¸ªå½å®¶ä¹æ¯å¼å¾äºã"
-        npc2 "Alright, Ah Ling, you can't mess around about this matter. What the Prime Minister said is indeed reasonable."
-        npc2 "The Demon Lord has blessed us for so many years. "
-        npc2 "Even though the rituals sacrificed lives, it was worth it to bless the whole country."
-    
-    # game/princess.rpy:76
-    translate english p_3_586a93b4:
-    
-        # npc1 "è¥æ¯ä½ ä¸è½å¨ä¸ä¸ªæåæ¾å°é©¸é©¬ï¼é£è¿ä¸å¦è®©ææ¥å®æ."
-        npc1 "If you can't find a prince consort within the month, just let me arrange it."
-    
-    # game/princess.rpy:77
-    translate english p_3_f59a4b04:
-    
-        # mc_1 "æçäº²äºæä¸è¦ç¶çæ¥å®æãåæ­£å°±ä¸ä¸ªæï¼æå°±ä¸ä¿¡ä¸ä¸ªæåæ¾ä¸å°é©¸é©¬ã"
-        mc_1 "Stay out of my marriage, father. Just a month, I will find a prince consort in a month."
-    
-    # game/princess.rpy:78
-    translate english p_3_cd4391ce:
-    
-        # "è½ç¶å¾ä¸ä¹æï¼æä¸å¾ä¸éµå®ç¶äº²çå½ä»¤"
-        "Even though I am very upset, I must obey my father's orders."
-    
-    # game/princess.rpy:79
-    translate english p_3_4c4c4b35:
-    
-        # "å¨äººç¾¤ä¸­ï¼æå¨è§è½å¥½åçå°ä¸äººã ä»å¾®å¾®ä¸ç¬ï¼åæç¸è§æ¶ï¼è®©æä¸æ¢ç¸ä¿¡åæ¥ä»ä¼åºç°å¨è¿éã"
-        "In the crowd, I see someone at the corner. "
-        "When I looked at him, he smiled at me."
-        "I can't believe that he would show up here."
-    
-    # game/princess.rpy:80
-    translate english p_3_401f2ff9:
-    
-        # "ç¥­ç¥ç»æåï¼ ææææºèµ°ã å¸æè½ä¸ä»äº¤è°ã"
-        "After the ceremony ended, I slipped away quietly, hoping to talk with him."
-    
-    # game/princess.rpy:81
-    translate english p_3_2ddd1dd1:
-    
-        # mc_1 "ï¼æäºåæï¼ äºéï¼ ä½ æä¹ä¼å¨çå®«éï¼ è¿åæå¯æ²¡æè¯»ä»ä¹è¯å¥åï¼"
-        mc_1 "(Somewhat Shocked) Er Lang? Why are you in the palace?"
-        mc_1 "I didn't have to read any of the poem verses?"
-    
-    # game/princess.rpy:82
-    translate english p_3_3636273d:
-    
-        # two "(ä¸æ¢ç¸ä¿¡ï¼ä½ è½çè§æï¼"
-        two "(Seeming more surprised than me) Can you see me?"
-    
-    # game/princess.rpy:83
-    translate english p_3_7ee6a9de:
-    
-        # mc_1 "ä¸ºä½ä¸è½ï¼"
-        mc_1 "Why wouldn't I be able to see you?"
-    
-    # game/princess.rpy:84
-    translate english p_3_c8bde03c:
-    
-        # two "è¿å°±æªäºãé¤éãããï¼ççæçè¡£è¢ï¼ä½ æä»ä¹å®ç©ï¼"
-        two "This is odd. Unlessâ¦  (He looks at my sleeve) What treasure do you have?"
-    
-    # game/princess.rpy:85
-    translate english p_3_f55207f1:
-    
-        # mc_1 "æèº«ä¸ºå¬ä¸»ï¼èªç¶å®ç©å¤çæ¯äºã"
-        mc_1 "As a princess, it's not unusual that I own many treasures."
-    
-    # game/princess.rpy:86
-    translate english p_3_aa7327af:
-    
-        # "äºéåæä¸æ¥ï¼æè¢å­éçå®æ°´ç å°±éªéªåäº®ãè¿äºçå»æå¤±å»åèã"
-        "Er Lang waved his hands, and the crystal pearl ball on my sleeve glistened. "
-        "It took a while before it lost its glimmer."
-    
-    # game/princess.rpy:87
-    translate english p_3_907cae31:
-    
-        # two "åæ¥æ¯æ­¤ç©åã åµï¼çæ¯å·§äºã å¬ä¸»çå®ç©çèµ·æ¥ä¸åå¡å°ä¹ç©ï¼è¿æ¯å¦ä½å¾æ¥çï¼"
-        two "Oh, it's the crystal ball. What a coincidence. "
-        two "Princess, your treasure doesn't look like it belongs to the mortal realm. How did you get this?"
-    
-    # game/princess.rpy:88
-    translate english p_3_e7bc0296:
-    
-        # mc_1 "è¿æ¯å¥½åç¸èµ ï¼é£ä½ å¢ï¼ äºéè¿æ²¡æåç­æçé®é¢å¢ã"
-        mc_1 "This was a gift from a friend, but what about you? You haven't answered my question yet."
-    
-    # game/princess.rpy:89
-    translate english p_3_2056e4c2:
-    
-        # two "å¯ï¼ ä»å¤©ä¸æ¯ç¥­å¤©å¤§å¸åï¼ ååï¼å°çå°±æ¯æ¥è¿éåä¸ªç­é¹ã"
-        two "Ah? Isn't today the ceremony to worship the heavens? "
-        two "Haha, I am just here to join the crowd and have some fun."
-    
-    # game/princess.rpy:90
-    translate english p_3_6b9ad1f3:
-    
-        # mc_1 "ï¼æçï¼ä¸ï¼ä½ è¯å®ä¸æ¯è¯´ççè¯ãæè¿ä»¥ä¸ºèªä»é£æ¬¡ç¦»å«ä¹åï¼äºéè¿ä¼æ³çæãããå¤æ¥ä¸è§ï¼æ¯å¦è¿æçåå­é½å¿äºï¼"
-        mc_1 "(I don't believe him) No, you are definitely not telling me the truth."
-        mc_1 "I thought that after you left, you would still think about me. "
-        mc_1 "So many days have passed, have you even forgotten my name?"
-    
-    # game/princess.rpy:91
-    translate english p_3_f9ea9dbd:
-    
-        # two "è¥æ¯ä¸æ³, æä¹ä¼æ¥è¿éå¢ï¼ é¿åçåå­å°çæä¼å¿äºï¼"
-        two "Would I be here, if I did not want to be here?"
-        two "How could I forget your name?"
-    
-    # game/princess.rpy:92
-    translate english p_3_6bf7e7cc:
-    
-        # mc_1 "é£ä½ å¯ç¥æå¨ä¸ä¸ªæåå°±è¦å«äººäºï¼"
-        mc_1 "Do you know that I have to get married within a month?"
-    
-    # game/princess.rpy:93
-    translate english p_3_207bf632:
-    
-        # two "è¥æ¯å¦æ­¤ï¼é£å°±æäºå¯æäºã"
-        two "If so, it would be a shame."
-    
-    # game/princess.rpy:94
-    translate english p_3_d2632663:
-    
-        # mc_1 "å¯ï¼ä¸ºä½å¯æï¼"
-        mc_1 "Oh? Why would it be a shame?"
-    
-    # game/princess.rpy:95
-    translate english p_3_5552191c:
-    
-        # two "è¿ä¹å¯ç±çå§å¨è¦å«ä½ä»äººå¦ï¼è¿è¿ä¸å¯æåï¼"
-        two "Such a cute girl has to get married and be someone's wife."
-        "Is that not a shame?"
-    
-    # game/princess.rpy:96
-    translate english p_3_b3034b7e:
-    
-        # "è½ç¶æçä»åªæ¯æè¶£ææè¿ä¹è¯´ï¼ ä½æ¯æçè¸è¿æ¯å¾®å¾®æ³çº¢ã"
-        "Even though he was just joking around with me, my face still turned red."
-    
-    # game/princess.rpy:97
-    translate english p_3_62b15e5c:
-    
-        # mc_1 "äºéå°±å«æè¶£æäºãè¿äºæ¥å­è¿è¦åå¤§è£ä¹å­ä»¬ç¸äº²ï¼æ³æ³å°±è§å¾ç¦å¿ã"
-        mc_1 "Er Lang, stop teasing me. I will have to start going on dates with the minister's sons."
-    
-    # game/princess.rpy:98
-    translate english p_3_6fe0f889:
-    
-        # two "è¥æ¯é¿åè§å¾ç¦å¿ï¼é£è¿äºæ¶æ¥ï¼å¨ä¸å¯å¸¦ä½ åºå»æ¸¸ç©ã"
-        two "If you get bored later, I can take you out sightseeing."
-    
-    # game/princess.rpy:99
-    translate english p_3_b57d46a4:
-    
-        # two "æå¨å¸é½å¤æ¥ï¼å¬å°ç¾é¸å¼å«ï¼æ¬æ¯åäºï¼å´ä¹çè§å°æ¹å®åçèè´¥å¶åº¦ï¼æ°ä¸èçã è¿åä¸æ¬¡æ¥æè®¿çæ¶åå·®çå¤ªå¤äºã"
-        two "I have been in the Imperial Capital many days, hearing the birds singing. "
-        two "This was supposed to be a harbinger of good things, but I also saw the corruption of the local officials. "
-        two "The people don't have any way to make a living. This is very different from the last time I visited."
-    
-    # game/princess.rpy:100
-    translate english p_3_dba75cb0:
-    
-        # mc_1 "ä¸ä¸æ¬¡ä½ æ¥äº¬é½æ¯ä»ä¹æ¶åï¼"
-        mc_1 "When was the last time you came to the Imperial Capital?"
-    
-    # game/princess.rpy:101
-    translate english p_3_c9d21b7f:
-    
-        # two "ä¸ç¾å¤ãããï¼çªç¶æ³å°ä»ä¹ï¼"
-        two "ä¸ç¾å¤ãããï¼çªç¶æ³å°ä»ä¹ï¼"
-    
-    # game/princess.rpy:102
-    translate english p_3_c114addd:
-    
-        # mc_1 "å¯ï¼ ä¸ç¾å¤ä»ä¹ï¼"
-        mc_1 "å¯ï¼ ä¸ç¾å¤ä»ä¹ï¼"
-    
-    # game/princess.rpy:103
-    translate english p_3_0ca9ae9c:
-    
-        # two "èªç¶æ¯ä¸ç¾å¤å¤©åäºãååï¼ é¾ä¸ææ¯ä¸ç¾å¤å¹´åï¼"
-        two "èªç¶æ¯ä¸ç¾å¤å¤©åäºãååï¼ é¾ä¸ææ¯ä¸ç¾å¤å¹´åï¼"
-    
-    # game/princess.rpy:104
-    translate english p_3_fa0218c7:
-    
-        # mc_1 "ï¼æå¹) ä¸ç¾å¤å¹´åçè¥¿åè¿ä¿¡å¥ç¥ä»ï¼èç°å¨è´µæä»¬é½åªä¿¡éªé­æ­ªéäºãä¹åä¿ä½æä»¬çåå¥å¸åä¹ä¸ååºç°äºã"
-        mc_1 "ï¼æå¹) ä¸ç¾å¤å¹´åçè¥¿åè¿ä¿¡å¥ç¥ä»ï¼èç°å¨è´µæä»¬é½åªä¿¡éªé­æ­ªéäºãä¹åä¿ä½æä»¬çåå¥å¸åä¹ä¸ååºç°äºã"
-    
-    # game/princess.rpy:105
-    translate english p_3_652aac5d:
-    
-        # two "åå¥é£ä¸ªå°æ¹ä¸ä»äººçç¨å°ï¼èä¸è¿å¸¸å¹´ä¸éªã è¯´ä¸å®ç¥ä»ä»¬ä¹ä¸æ³å»é£éä¸ä»»å¢ã"
-        two "åå¥é£ä¸ªå°æ¹ä¸ä»äººçç¨å°ï¼èä¸è¿å¸¸å¹´ä¸éªã è¯´ä¸å®ç¥ä»ä»¬ä¹ä¸æ³å»é£éä¸ä»»å¢ã"
-    
-    # game/princess.rpy:106
-    translate english p_3_d67decd2:
-    
-        # mc_1 "è¯´çå¥½åäºéå»è¿ä¼¼çï¼é£éå°å°äºåä¸æ¶é¬¼ï¼æ®éäººæä¼å»é£éå¢ã"
-        mc_1 "è¯´çå¥½åäºéå»è¿ä¼¼çï¼é£éå°å°äºåä¸æ¶é¬¼ï¼æ®éäººæä¼å»é£éå¢ã"
-    
-    # game/princess.rpy:107
-    translate english p_3_fd75c1f1:
-    
-        # two "ä½ ç¥éçæºå¤çåãé£æé®é®ä½ ï¼æ¨æ¥è¿çå®«éå¯æåºç°ä»ä¹ç¹å«çäººï¼é¿åå¯ææè§è°ï¼"
-        two "ä½ ç¥éçæºå¤çåãé£æé®é®ä½ ï¼æ¨æ¥è¿çå®«éå¯æåºç°ä»ä¹ç¹å«çäººï¼é¿åå¯ææè§è°ï¼"
-    
-    # game/princess.rpy:108
-    translate english p_3_5407efdb:
-    
-        # "é¾éä»æ¯å¨æç¤ºå¤§éä¸æï¼"
-        "é¾éä»æ¯å¨æç¤ºå¤§éä¸æï¼"
-    
-    # game/princess.rpy:109
-    translate english p_3_fb6743fc:
-    
-        # mc_1 "æä¹äºï¼"
-        mc_1 "æä¹äºï¼"
-    
-    # game/princess.rpy:110
-    translate english p_3_48f22a4b:
-    
-        # "æ äºãå°çè¿æäºäºè¦å»åï¼ä»æ¥æè§å¬ä¸»å®ä¹å·§åã ä¸ä¸æ¬¡è¥æ¯æç¼åè§å§ã"
-        "æ äºãå°çè¿æäºäºè¦å»åï¼ä»æ¥æè§å¬ä¸»å®ä¹å·§åã ä¸ä¸æ¬¡è¥æ¯æç¼åè§å§ã"
-    
-    # game/princess.rpy:111
-    translate english p_3_ac637f67:
-    
-        # "çä»èµ°çè¿ä¹æ¥ï¼æä¹ä¸å¥½çä½ä»ã ç°å¨ç¥­ç¥å·²ç»ç»æäºï¼ ææäºå¿ä¸å¨çå°å¨å®«éæ£æ­¥ã è¿æ²¡ç­æèµ°å°é¿è½©çä½å¤ï¼æå°±å¬è§äºå¬ç¬çå£°é³ã"
-        "çä»èµ°çè¿ä¹æ¥ï¼æä¹ä¸å¥½çä½ä»ã ç°å¨ç¥­ç¥å·²ç»ç»æäºï¼ ææäºå¿ä¸å¨çå°å¨å®«éæ£æ­¥ã è¿æ²¡ç­æèµ°å°é¿è½©çä½å¤ï¼æå°±å¬è§äºå¬ç¬çå£°é³ã"
-    
-    # game/princess.rpy:112
-    translate english p_3_d176a56f:
-    
-        # " ç«å¨é¨å¤ï¼ææåç°åæ¥æ¯å­éå¹çæ³¡æ³¡ï¼éå¾é¿è½©å¾æ¯æ¬£åãå¤é³ä¸ï¼ ä¸¤äººçå½±å­åæ å¨å®«å»·çç½å¢ä¸ï¼å°±å¦æäººä¸è¬ã"
-        " ç«å¨é¨å¤ï¼ææåç°åæ¥æ¯å­éå¹çæ³¡æ³¡ï¼éå¾é¿è½©å¾æ¯æ¬£åãå¤é³ä¸ï¼ ä¸¤äººçå½±å­åæ å¨å®«å»·çç½å¢ä¸ï¼å°±å¦æäººä¸è¬ã"
-    
-    # game/princess.rpy:113
-    translate english p_3_2badac79:
-    
-        # "ççå­éè¿ä¹è®¤çï¼èä¸ååå¤§çåæçé¿è½©å¦æ­¤æ¬¢åï¼æä¹ä¸å¥½ææ°ä»ä»¬ã"
-        "ççå­éè¿ä¹è®¤çï¼èä¸ååå¤§çåæçé¿è½©å¦æ­¤æ¬¢åï¼æä¹ä¸å¥½ææ°ä»ä»¬ã"
-    
-    # game/princess.rpy:114
-    translate english p_3_4a12ca7f:
-    
-        # "è½ç¶ç«å¨åä¸çå¤©ç©ºä¸ï¼æ­¤ææ­¤æ¯ï¼ææ»è§å¾ç°å¨ä¸åºè¯¥çå¨è¿éãé¡¿æ¶ï¼ ææå°-"
-        "è½ç¶ç«å¨åä¸çå¤©ç©ºä¸ï¼æ­¤ææ­¤æ¯ï¼ææ»è§å¾ç°å¨ä¸åºè¯¥çå¨è¿éãé¡¿æ¶ï¼ ææå°-"
-    
-    # game/princess.rpy:117
-    translate english p_3_e7149ac3:
-    
-        # "ä¸ºä½ææ»è§å¾å¿éæäºç©ºç©ºçï¼å¥½åå¤±å»äºä»ä¹éè¦çäººï¼å¦ä»çå­éæ¯ä¸æ¯å·²ç»ä¸æ¯æçå°å»å­äºï¼"
-        "ä¸ºä½ææ»è§å¾å¿éæäºç©ºç©ºçï¼å¥½åå¤±å»äºä»ä¹éè¦çäººï¼å¦ä»çå­éæ¯ä¸æ¯å·²ç»ä¸æ¯æçå°å»å­äºï¼"
-    
-    # game/princess.rpy:118
-    translate english p_3_4b6e5c17:
-    
-        # "ä»æ¯ä¸æ¯å·²ç»åæ¬¢ä¸å¶ä»äººäºï¼ ææé¨å¤ä¹æ¶ï¼ä»è¿å¯¹æå¦æ­¤ä¸å¿ï¼ä¸è¿å æ¥ï¼é¾éä»å°±åå¿äºï¼"
-        "ä»æ¯ä¸æ¯å·²ç»åæ¬¢ä¸å¶ä»äººäºï¼ ææé¨å¤ä¹æ¶ï¼ä»è¿å¯¹æå¦æ­¤ä¸å¿ï¼ä¸è¿å æ¥ï¼é¾éä»å°±åå¿äºï¼"
-    
-    # game/princess.rpy:121
-    translate english p_3_ebb66771:
-    
-        # "è¥æ¯å¦æ­¤ï¼å­éåé¿è½©è¯´ä¸å®ä¹æ¯æç¼åå¨ä¸èµ·ã ä¸ä¸ªä»åä¸ºäºå¡äººï¼ä¸ææç ´å¤©åº­è§ç©ï¼ è¿çæ¯ç¾¡çæäººã"
-        "è¥æ¯å¦æ­¤ï¼å­éåé¿è½©è¯´ä¸å®ä¹æ¯æç¼åå¨ä¸èµ·ã ä¸ä¸ªä»åä¸ºäºå¡äººï¼ä¸ææç ´å¤©åº­è§ç©ï¼ è¿çæ¯ç¾¡çæäººã"
-    
-    # game/princess.rpy:122
-    translate english p_3_d3ea1359:
-    
-        # "å¦æ­¤ä¸æ¥ï¼è¿åç¥è¯éçä¸éåè£æ°¸ä¸æ ·è®©äººç¾¡æã"
-        "å¦æ­¤ä¸æ¥ï¼è¿åç¥è¯éçä¸éåè£æ°¸ä¸æ ·è®©äººç¾¡æã"
-    
-    # game/princess.rpy:126
-    translate english p_4_6c57ee53:
-    
-        # "è¿ä¸æ¬¡ï¼æå³å®èªå·±ä¸äººåºå®«ãè¿è®°å¾ææ¥ä¹å¦¹éç»æçå®æ°´ç ï¼ææäºå¥½å¥å°å»äºä¸æµ·æ¹¾ï¼æ³ä¸è¯æ­¤ç©ã"
-        "è¿ä¸æ¬¡ï¼æå³å®èªå·±ä¸äººåºå®«ãè¿è®°å¾ææ¥ä¹å¦¹éç»æçå®æ°´ç ï¼ææäºå¥½å¥å°å»äºä¸æµ·æ¹¾ï¼æ³ä¸è¯æ­¤ç©ã"
-    
-    # game/princess.rpy:127
-    translate english p_4_09bcd4d4:
-    
-        # "å¯æ¯æå´ä¸ç¥å¦ä½è¿ç¨ç¥ä»çå®ç©ã ç«å¨æµ·è¾¹è®¸ä¹ï¼ææäºè¿çåºè¯¥å¦ä½æ¯å¥½ã"
-        "å¯æ¯æå´ä¸ç¥å¦ä½è¿ç¨ç¥ä»çå®ç©ã ç«å¨æµ·è¾¹è®¸ä¹ï¼ææäºè¿çåºè¯¥å¦ä½æ¯å¥½ã"
-    
-    # game/princess.rpy:128
-    translate english p_4_780984b3:
-    
-        # "è¿æ¶ï¼ä¸ä¸ªéçç·å­çå£°é³ä»éè¿ä¼ æ¥ã"
-        "è¿æ¶ï¼ä¸ä¸ªéçç·å­çå£°é³ä»éè¿ä¼ æ¥ã"
-    
-    # game/princess.rpy:129
-    translate english p_4_cd95d08c:
-    
-        # boy "å§å¨ä¸æ¢ï¼"
-        boy "å§å¨ä¸æ¢ï¼"
-    
-    # game/princess.rpy:130
-    translate english p_4_b6baed44:
-    
-        # "è½¬è¿å¤´æ¥ï¼ææäºçæçççæè¾¹çå°å¹´ãä»åå¥½æä½æçè¡£è¢ã"
-        "è½¬è¿å¤´æ¥ï¼ææäºçæçççæè¾¹çå°å¹´ãä»åå¥½æä½æçè¡£è¢ã"
-    
-    # game/princess.rpy:131
-    translate english p_4_34a3e4ad:
-    
-        # mc_1 "ä½ è¿æ¯åçï¼"
-        mc_1 "ä½ è¿æ¯åçï¼"
-    
-    # game/princess.rpy:132
-    translate english p_4_98c1f653:
-    
-        # boy "å§å¨å¯ä¸è¦æ³ä¸å¼ãä¸åé½å¥½åéãä½ è¿ä¹å¹´è½»ï¼èä¸è¿ç¾ä¸½å¨äººï¼æå¯å¯»æ­»ï¼"
-        boy "å§å¨å¯ä¸è¦æ³ä¸å¼ãä¸åé½å¥½åéãä½ è¿ä¹å¹´è½»ï¼èä¸è¿ç¾ä¸½å¨äººï¼æå¯å¯»æ­»ï¼"
-    
-    # game/princess.rpy:133
-    translate english p_4_2ed0bccd:
-    
-        # mc_1 "ä»ä¹ï¼ä½ ä»¥ä¸ºæè¦å¯»æ­»ï¼æ¬å¬ä¸»åªæ¯ä¸ç¥å¦ä½å¥æµ·èå·²ãåæ­£ä½ ä¹ä¸æã"
-        mc_1 "ä»ä¹ï¼ä½ ä»¥ä¸ºæè¦å¯»æ­»ï¼æ¬å¬ä¸»åªæ¯ä¸ç¥å¦ä½å¥æµ·èå·²ãåæ­£ä½ ä¹ä¸æã"
-    
-    # game/princess.rpy:134
-    translate english p_4_f270b868:
-    
-        # boy "ä½ æ¯å¬ä¸»ï¼ååï¼é£æ­£å¥½ææ¯å¤ªå­ãæ³è¦å¥æµ·ï¼å§å¨å¯ç¥ç¥éï¼"
-        boy "ä½ æ¯å¬ä¸»ï¼ååï¼é£æ­£å¥½ææ¯å¤ªå­ãæ³è¦å¥æµ·ï¼å§å¨å¯ç¥ç¥éï¼"
-    
-    # game/princess.rpy:135
-    translate english p_4_05d8fa73:
-    
-        # mc_1 "å¼ï¼ä½ ç«ç¶èè§çæãæ¬å¬ä¸»ä¸åä½ ä¸è¬è§è¯ãç¥éç¥ç¥ä¸äºã"
-        mc_1 "å¼ï¼ä½ ç«ç¶èè§çæãæ¬å¬ä¸»ä¸åä½ ä¸è¬è§è¯ãç¥éç¥ç¥ä¸äºã"
-    
-    # game/princess.rpy:136
-    translate english p_4_d72d4a2a:
-    
-        # mc_1 "ï¼ççä»æä¸çè´ºç¤¼ï¼æä¹ï¼ä½ å¸¦çè¿ä¹å¤ä¸è¥¿æ¥æµ·è¾¹ï¼"
-        mc_1 "ï¼ççä»æä¸çè´ºç¤¼ï¼æä¹ï¼ä½ å¸¦çè¿ä¹å¤ä¸è¥¿æ¥æµ·è¾¹ï¼"
-    
-    # game/princess.rpy:137
-    translate english p_4_8879bd9d:
-    
-        # boy "è¥æ¯ç¥æç¥éï¼ä½ä¸å¤§æ¾èº«æï¼è¿äºè´ºç¤¼æ¯éç»äº²æçç¤¼ç©ï¼ä»æ¥å®¶ä¸­èèå¤§å¯¿ï¼èªç¶æ¯è¦å­æ¬èäººå®¶ã"
-        boy "è¥æ¯ç¥æç¥éï¼ä½ä¸å¤§æ¾èº«æï¼è¿äºè´ºç¤¼æ¯éç»äº²æçç¤¼ç©ï¼ä»æ¥å®¶ä¸­èèå¤§å¯¿ï¼èªç¶æ¯è¦å­æ¬èäººå®¶ã"
-    
-    # game/princess.rpy:138
-    translate english p_4_a775e0ca:
-    
-        # mc_1 "ä½ è¯´ä»ä¹æå°±éå¾å¬ä¸æï¼è¿ä¸æ¯æäººå½ç´èåï¼"
-        mc_1 "ä½ è¯´ä»ä¹æå°±éå¾å¬ä¸æï¼è¿ä¸æ¯æäººå½ç´èåï¼"
-    
-    # game/princess.rpy:139
-    translate english p_4_87427b6f:
-    
-        # boy "ååï¼æå¯ä¸æ¢æ¹ç´å­ãä¸ä¸æ¬¡è®¤è¯çé£ä¸ªç´çé½å·²ç»å¾å°çèº«ãå¬ä¸»æ³è¦å¥æµ·å¯æ¯éè¦å®ç©çã"
-        boy "ååï¼æå¯ä¸æ¢æ¹ç´å­ãä¸ä¸æ¬¡è®¤è¯çé£ä¸ªç´çé½å·²ç»å¾å°çèº«ãå¬ä¸»æ³è¦å¥æµ·å¯æ¯éè¦å®ç©çã"
-    
-    # game/princess.rpy:140
-    translate english p_4_40f8ef4e:
-    
-        # mc_1 "ä¸å°±æ¯å®æ°´ç åï¼æ¬å¬ä¸»å¤çæ¯ã"
-        mc_1 "ä¸å°±æ¯å®æ°´ç åï¼æ¬å¬ä¸»å¤çæ¯ã"
-    
-    # game/princess.rpy:141
-    translate english p_4_087b310e:
-    
-        # boy "ï¼çæï¼ä½ ãããçææ­¤ç©ï¼"
-        boy "ï¼çæï¼ä½ ãããçææ­¤ç©ï¼"
-    
-    # game/princess.rpy:142
-    translate english p_4_4ab798bf:
-    
-        # "ä»æäºæè¢å­ï¼ä¸å°çå»ï¼å®æ°´ç å°±ä»æçè¢å­éé£åºæ¥äºã"
-        "ä»æäºæè¢å­ï¼ä¸å°çå»ï¼å®æ°´ç å°±ä»æçè¢å­éé£åºæ¥äºã"
-    
-    # game/princess.rpy:143
-    translate english p_4_2def2799:
-    
-        # mc_1 "ä½ æå¾å¦æ³ï¼è¿ä¸èµ¶å¿«å°å¶è¿ç»æ¬å¬ä¸»ï¼"
-        mc_1 "ä½ æå¾å¦æ³ï¼è¿ä¸èµ¶å¿«å°å¶è¿ç»æ¬å¬ä¸»ï¼"
-    
-    # game/princess.rpy:144
-    translate english p_4_18c62b59:
-    
-        # "æ­¤ä¹ç¥éï¼ä¸æ¯å¦æ³ãè¿ç»ä½ ï¼é£å¥½åãè¦æ¯å§å¨è½æ¿å°æ­¤ç©ï¼æå°±è¿ç»ä½ ã"
-        "æ­¤ä¹ç¥éï¼ä¸æ¯å¦æ³ãè¿ç»ä½ ï¼é£å¥½åãè¦æ¯å§å¨è½æ¿å°æ­¤ç©ï¼æå°±è¿ç»ä½ ã"
-    
-    # game/princess.rpy:145
-    translate english p_4_c1d2a6a0:
-    
-        # "è¿ä¸ªå°å¹´è¿çè½æè¾ï¼æ¬æ¥å°±æ¯åä»å®å¨æ å³çäºæé½è¦æ¥åç­é¹ã"
-        "è¿ä¸ªå°å¹´è¿çè½æè¾ï¼æ¬æ¥å°±æ¯åä»å®å¨æ å³çäºæé½è¦æ¥åç­é¹ã"
-    
-    # game/princess.rpy:146
-    translate english p_4_a7debaf3:
-    
-        # "ææäºä¸èç¦äºï¼æ¬æ³è¸®çèå»æ¿æµ®å¨ç©ºä¸­çç å­ï¼å¥ä½æ¯å½æçææç¢°è§¦å°è¡¨é¢æ¶ï¼ç å­çé«åº¦åä¸åäºã"
-        "ææäºä¸èç¦äºï¼æ¬æ³è¸®çèå»æ¿æµ®å¨ç©ºä¸­çç å­ï¼å¥ä½æ¯å½æçææç¢°è§¦å°è¡¨é¢æ¶ï¼ç å­çé«åº¦åä¸åäºã"
-    
-    # game/princess.rpy:147
-    translate english p_4_ac1f5b3b:
-    
-        # mc_1 "ä½ åæå°±æ¯èèµï¼"
-        mc_1 "ä½ åæå°±æ¯èèµï¼"
-    
-    # game/princess.rpy:148
-    translate english p_4_0d309e07:
-    
-        # boy "ååï¼å¬ä¸»åºå½è¿ç¨äºä»æ³ææ¯ï¼ä¸ç¶æ¯æ¿ä¸å°è¿å®æ°´ç çã"
-        boy "ååï¼å¬ä¸»åºå½è¿ç¨äºä»æ³ææ¯ï¼ä¸ç¶æ¯æ¿ä¸å°è¿å®æ°´ç çã"
-    
-    # game/princess.rpy:149
-    translate english p_4_f5cdd50c:
-    
-        # "çæ¥ä»æ¯ææä¸ºé¾æçãçææä¹æ´æ²»è¿ä¸ªå°å¹´ã"
-        "çæ¥ä»æ¯ææä¸ºé¾æçãçææä¹æ´æ²»è¿ä¸ªå°å¹´ã"
-    
-    # game/princess.rpy:150
-    translate english p_4_4eaad5ce:
-    
-        # mc_1 "è¿æä½é¾ï¼åªéåéåçä¸åªè¿æ¥ç¨ä¾¿å¥½ã"
-        mc_1 "è¿æä½é¾ï¼åªéåéåçä¸åªè¿æ¥ç¨ä¾¿å¥½ã"
-    
-    # game/princess.rpy:151
-    translate english p_4_dc2e9552:
-    
-        # boy "å¯ï¼å§å¨è¿æ¯ä½æåï¼"
-        boy "å¯ï¼å§å¨è¿æ¯ä½æåï¼"
-    
-    # game/princess.rpy:152
-    translate english p_4_1a1d9306:
-    
-        # "è½è¯´ç°å¨ä»æ³è¿ä¸è¡ï¼ä½æ¯æçæ­¦æ¯è¿æ¯è½æå¾ä¸ç¨åºçã"
-        "è½è¯´ç°å¨ä»æ³è¿ä¸è¡ï¼ä½æ¯æçæ­¦æ¯è¿æ¯è½æå¾ä¸ç¨åºçã"
-    
-    # game/princess.rpy:153
-    translate english p_4_97564705:
-    
-        # "æè½»ççè¸¢çä»çå·¦è¿ï¼æ¥çé«åº¦è·³ä¸äºä¸ç©ºï¼ä¸è´¹ä¹çäºèä¹åå°±æ¿å°äºå®æ°´ç ã"
-        "æè½»ççè¸¢çä»çå·¦è¿ï¼æ¥çé«åº¦è·³ä¸äºä¸ç©ºï¼ä¸è´¹ä¹çäºèä¹åå°±æ¿å°äºå®æ°´ç ã"
-    
-    # game/princess.rpy:154
-    translate english p_4_d657d926:
-    
-        # boy "ï¼åçï¼ä½ è¿å§å¨æä¹å¦æ­¤åè®ã"
-        boy "ï¼åçï¼ä½ è¿å§å¨æä¹å¦æ­¤åè®ã"
-    
-    # game/princess.rpy:155
-    translate english p_4_46e61334:
-    
-        # mc_1 "ï¼å¾ææ´æ´ï¼è¿ä¸æ¯å ä¸ºä½ è¿ä¸ªæ åå°åæ³è¦æææ¬å¬ä¸»çèå¿ã"
-        mc_1 "ï¼å¾ææ´æ´ï¼è¿ä¸æ¯å ä¸ºä½ è¿ä¸ªæ åå°åæ³è¦æææ¬å¬ä¸»çèå¿ã"
-    
-    # game/princess.rpy:156
-    translate english p_4_a7789bf1:
-    
-        # boy "æ åå°åï¼æ¬å¤ªå­å¨ä¸è¿æ¯ç¬¬ä¸æ¬¡è¢«äººç§°ä½æ åå°åãé£å¥½ï¼ä»æ¥æå°±å¸¦ä½ å¥æµ·ã"
-        boy "æ åå°åï¼æ¬å¤ªå­å¨ä¸è¿æ¯ç¬¬ä¸æ¬¡è¢«äººç§°ä½æ åå°åãé£å¥½ï¼ä»æ¥æå°±å¸¦ä½ å¥æµ·ã"
-    
-    # game/princess.rpy:157
-    translate english p_4_a36f8005:
-    
-        # boy "è¿æ ·ä½ ä¹å¯åç¥æ¯å¦ä½å¾æ¥é¾å®«çå®ç©ã"
-        boy "è¿æ ·ä½ ä¹å¯åç¥æ¯å¦ä½å¾æ¥é¾å®«çå®ç©ã"
-    
-    # game/princess.rpy:158
-    translate english p_4_3d01ad15:
-    
-        # "å¦æä»çè½å¸¦æå¥æµ·ï¼é£ä¹æ­£å¥½å¦æææ¿ãæç¹äºç¹å¤´ï¼ä»çå´è§è½»è½»ä¸æ¬"
-        "å¦æä»çè½å¸¦æå¥æµ·ï¼é£ä¹æ­£å¥½å¦æææ¿ãæç¹äºç¹å¤´ï¼ä»çå´è§è½»è½»ä¸æ¬"
-    
-    # game/princess.rpy:159
-    translate english p_4_50a1b6fe:
-    
-        # "è¿æ²¡ç­æååºè¿æ¥ï¼å°±æçæçæèï¼ååè·³è¿äºæµ·éã"
-        "è¿æ²¡ç­æååºè¿æ¥ï¼å°±æçæçæèï¼ååè·³è¿äºæµ·éã"
-    
-    # game/princess.rpy:160
-    translate english p_4_27864ad2:
-    
-        # "åæ¬æè¿å®³æèªå·±ä¸è½å¼å¸ï¼å¯æ¯å¨æ°´ä¸ä¹åï¼ææåç°èªå·±å¶å®å¯ä»¥å¨æ°´éå¼å¸ã"
-        "åæ¬æè¿å®³æèªå·±ä¸è½å¼å¸ï¼å¯æ¯å¨æ°´ä¸ä¹åï¼ææåç°èªå·±å¶å®å¯ä»¥å¨æ°´éå¼å¸ã"
-    
-    # game/princess.rpy:161
-    translate english p_4_f68c3091:
-    
-        # "è¿ä¸ªå°å¹´æ°´æ§æå¥½ï¼ä¸ä»å¸¦çææ¸¸å°æµ·åºæ·±å¤ï¼èä¸æä»¬å¾å¿«å°±å°äºé¾å®«ã"
-        "è¿ä¸ªå°å¹´æ°´æ§æå¥½ï¼ä¸ä»å¸¦çææ¸¸å°æµ·åºæ·±å¤ï¼èä¸æä»¬å¾å¿«å°±å°äºé¾å®«ã"
-    
-    # game/princess.rpy:162
-    translate english p_4_b4204096:
-    
-        # "éè¿çè¾åµè¹å°çå°æèº«æçç·å­é½æ­æ¬å°æäºæå¼ï¼è¿æ´ä¸ªé¾å®«åçå®«çè®¾è®¡ä¹æäºç¸ä¼¼ã"
-        "éè¿çè¾åµè¹å°çå°æèº«æçç·å­é½æ­æ¬å°æäºæå¼ï¼è¿æ´ä¸ªé¾å®«åçå®«çè®¾è®¡ä¹æäºç¸ä¼¼ã"
-    
-    # game/princess.rpy:163
-    translate english p_4_9e55c65b:
-    
-        # "æè½ç¶ä¸å»é¾çåºä¸é¦ï¼ä½æ¯ç°å¨æçªç¶è®°èµ·æ¥æ¯é¾ççå¤§å¯¿ã"
-        "æè½ç¶ä¸å»é¾çåºä¸é¦ï¼ä½æ¯ç°å¨æçªç¶è®°èµ·æ¥æ¯é¾ççå¤§å¯¿ã"
-    
-    # game/princess.rpy:164
-    translate english p_4_e069b9d2:
-    
-        # "ä»æ¥è½ç¶æ¥äºè®¸å¤ç¥ä»ç¥è´ºï¼ä½æ¯æå¨è¿å¤å°±åç°äºä¹å¦¹ã çæ¥è¿ä¸ªå°å¹´ççæ¯ä»äººã"
-        "ä»æ¥è½ç¶æ¥äºè®¸å¤ç¥ä»ç¥è´ºï¼ä½æ¯æå¨è¿å¤å°±åç°äºä¹å¦¹ã çæ¥è¿ä¸ªå°å¹´ççæ¯ä»äººã"
-    
-    # game/princess.rpy:165
-    translate english p_4_f5447352:
-    
-        # mc_1 "ä½ å°åºæ¯è°ï¼"
-        mc_1 "ä½ å°åºæ¯è°ï¼"
-    
-    # game/princess.rpy:166
-    translate english p_4_c7505bee:
-    
-        # boy "å§å¨å¨å²¸ä¸å°±å·²ç»é®æè¿ä¸ªé®é¢äºãæä¹æ¯è¥¿æµ·å¨åï¼æ©æå¤ªå­ã"
-        boy "å§å¨å¨å²¸ä¸å°±å·²ç»é®æè¿ä¸ªé®é¢äºãæä¹æ¯è¥¿æµ·å¨åï¼æ©æå¤ªå­ã"
-    
-    # game/princess.rpy:167
-    translate english p_4_583f4f06:
-    
-        # dude9 "æ°ç¾å¹´åï¼æçå¼å¼å°ç½é¾æ¾æé«å§çå¥ä¸ºå¸ï¼å¹¶ä¸å¶ä¸èµ·è¥¿è¡åå¾çç»ã"
-        dude9 "æ°ç¾å¹´åï¼æçå¼å¼å°ç½é¾æ¾æé«å§çå¥ä¸ºå¸ï¼å¹¶ä¸å¶ä¸èµ·è¥¿è¡åå¾çç»ã"
-    
-    # game/princess.rpy:168
-    translate english p_4_530cecf5:
-    
-        # "åæ¥ä»æ¯è¥¿æµ·å¤ªå­ï¼çæ¥è¿å°å¹´åæ¯æ¥å¤´ä¸å°ã"
-        "åæ¥ä»æ¯è¥¿æµ·å¤ªå­ï¼çæ¥è¿å°å¹´åæ¯æ¥å¤´ä¸å°ã"
-    
-    # game/princess.rpy:169
-    translate english p_4_c3b213fd:
-    
-        # "ä¹å¦¹è§å°ææ»¡æ¯æ¬£åã"
-        "ä¹å¦¹è§å°ææ»¡æ¯æ¬£åã"
-    
-    # game/princess.rpy:170
-    translate english p_4_0bd6332f:
-    
-        # f1 "é¿åå§å§ç»äºæ¥æ¾æç©äºï¼å¦ï¼æä¹å§å§ä¹ä¸è¡¨åç¸è¯ï¼"
-        f1 "é¿åå§å§ç»äºæ¥æ¾æç©äºï¼å¦ï¼æä¹å§å§ä¹ä¸è¡¨åç¸è¯ï¼"
-    
-    # game/princess.rpy:177
-    translate english p_5_f8046ce1:
-    
-        # f1 "åæ¥å¦æ­¤ãè¡¨åä»æ¯é«å¼ºï¼æ³åæ è¾¹ï¼ä»åæ¯è½æä½ å¥½å¤ä»æ¯ã"
-        f1 "åæ¥å¦æ­¤ãè¡¨åä»æ¯é«å¼ºï¼æ³åæ è¾¹ï¼ä»åæ¯è½æä½ å¥½å¤ä»æ¯ã"
-    
-    # game/princess.rpy:178
-    translate english p_5_4fe8668a:
-    
-        # dude9 "ä¹å¦¹ææ§æé«ï¼ä¸ä»ä¸ä½æç¼ï¼èä¸è½çææ å­å¤©ä¹¦ã "
-        dude9 "ä¹å¦¹ææ§æé«ï¼ä¸ä»ä¸ä½æç¼ï¼èä¸è½çææ å­å¤©ä¹¦ã "
-    
-    # game/princess.rpy:179
-    translate english p_5_d3464655:
-    
-        # dude9 "æè½ç¶æäºç¥éï¼ä½æ¯è®ºå¤©èµï¼è¿æ¯ä¹å¦¹æ´èä¸ç­¹ã"
-        dude9 "æè½ç¶æäºç¥éï¼ä½æ¯è®ºå¤©èµï¼è¿æ¯ä¹å¦¹æ´èä¸ç­¹ã"
-    
-    # game/princess.rpy:180
-    translate english p_5_cdb5a806:
-    
-        # mc_1 "ï¼æäºæçï¼çæ¥å¤ªå­æ®¿ä¸è¿æ¯æºè°¦èçåã"
-        mc_1 "ï¼æäºæçï¼çæ¥å¤ªå­æ®¿ä¸è¿æ¯æºè°¦èçåã"
-    
-    # game/princess.rpy:181
-    translate english p_5_c10e546e:
-    
-        # dude9 "èªæ¯æ¯å¬ä¸»æ®¿ä¸è°¦èã"
-        dude9 "èªæ¯æ¯å¬ä¸»æ®¿ä¸è°¦èã"
-    
-    # game/princess.rpy:182
-    translate english p_5_2164af0e:
-    
-        # mc_1 "åï¼æçªç¶æ³èµ·æ¥ï¼ä»æ¥æ¯èé¾çå¯¿è¾°ï¼æå´æ¢æ²¡ææå¸ï¼åæ²¡æºå¸¦ç¤¼ç©ãæä¹è¯´é½æ¯å¤±äºç¤¼æ°ã"
-        mc_1 "åï¼æçªç¶æ³èµ·æ¥ï¼ä»æ¥æ¯èé¾çå¯¿è¾°ï¼æå´æ¢æ²¡ææå¸ï¼åæ²¡æºå¸¦ç¤¼ç©ãæä¹è¯´é½æ¯å¤±äºç¤¼æ°ã"
-    
-    # game/princess.rpy:183
-    translate english p_5_68dd02b9:
-    
-        # f1 "é¿åå§å§ä¸å¿æå¿ï¼æçç¶çä¸æ¯å°æ°ä¹äººãåè¯´ï¼ä½ æ¯æçå®¢äººï¼è°ä¼ä¸ºé¾äºä½ å¢ï¼"
-        f1 "é¿åå§å§ä¸å¿æå¿ï¼æçç¶çä¸æ¯å°æ°ä¹äººãåè¯´ï¼ä½ æ¯æçå®¢äººï¼è°ä¼ä¸ºé¾äºä½ å¢ï¼"
-    
-    # game/princess.rpy:184
-    translate english p_5_eb6aa737:
-    
-        # dude9 "åµä¸ä½ æ¯æ¬æ®¿ä¸å¸¦æ¥çäººï¼è¦æ¯çæäººæ¢æ¹äºï¼é£å°±å¾é®é®æçæ­¦å¨ç­ä¸ç­åºäºã"
-        dude9 "åµä¸ä½ æ¯æ¬æ®¿ä¸å¸¦æ¥çäººï¼è¦æ¯çæäººæ¢æ¹äºï¼é£å°±å¾é®é®æçæ­¦å¨ç­ä¸ç­åºäºã"
-    
-    # game/princess.rpy:185
-    translate english p_5_3f664194:
-    
-        # "å¬å°è¿éï¼æå®å¿è®¸å¤ï¼äºæ¯åä¹å¦¹ä¸ååä¸ã"
-        "å¬å°è¿éï¼æå®å¿è®¸å¤ï¼äºæ¯åä¹å¦¹ä¸ååä¸ã"
-    
-    # game/princess.rpy:187
-    translate english p_5_b24d1096:
-    
-        # "æµè¯çå°æ­¤ç»æï¼æ¨æ¯å¦æ³æ¥çæ¸¸æçæ´å¤æ´æ°ï¼"
-        "æµè¯çå°æ­¤ç»æï¼æ¨æ¯å¦æ³æ¥çæ¸¸æçæ´å¤æ´æ°ï¼"
-    
-    # game/princess.rpy:190
-    translate english p_5_723b1c7e:
-    
-        # "è¯·å¨è¸ä¹¦ï¼æ¨ç¹ï¼igå³æ³¨æä»¬ãFB:@mayflowerstudiogames, Twitter: @MayflowerDev, Ig:@mayflowerstudiogames "
-        "è¯·å¨è¸ä¹¦ï¼æ¨ç¹ï¼igå³æ³¨æä»¬ãFB:@mayflowerstudiogames, Twitter: @MayflowerDev, Ig:@mayflowerstudiogames "
-    
-    # game/princess.rpy:191
-    translate english p_5_f2b94174:
-    
-        # "ä¸å®è¦å¡«è¿ä»½æ´æ°éç¥å¦ã https://forms.gle/QN7ZmudcyJaZvn2h8 "
-        "ä¸å®è¦å¡«è¿ä»½æ´æ°éç¥å¦ã https://forms.gle/QN7ZmudcyJaZvn2h8 "
-    
-    translate english strings:
-    
-        # game/princess.rpy:115
-        old "å¹³é"
-        new "å¹³é"
-    
-        # game/princess.rpy:171
-        old "æä»¬åªæ¯åæ¶ã"
-        new "æä»¬åªæ¯åæ¶ã"
-    
-        # game/princess.rpy:171
-        old "æ©æå¤ªå­å¸®å©äºæå¥æµ·ã"
-        new "æ©æå¤ªå­å¸®å©äºæå¥æµ·ã"
-    
-    # TODO: Translation updated at 2021-12-31 21:46
-    
-    # game/princess.rpy:108
-    translate english p_3_c0371f09:
-    
-        # npc2 "è¥æ¯ä½ ä¸è½å¨ä¸ä¸ªæåæ¾å°é©¸é©¬ï¼é£è¿ä¸å¦è®©ææ¥å®æ."
-        npc2 "If you can't find a prince consort in a month, then I will arrange something for you."
-    
-    # game/princess.rpy:149
-    translate english p_3_f5d3afd0:
-    
-        # mc_1 "ç¬¬ä¸æ¬¡ä½ æ¥äº¬é½æ¯ä»ä¹æ¶åï¼"
-        mc_1 "When was your first time in the capital city?"
-    
-    # game/princess.rpy:151
-    translate english p_3_fa628614:
-    
-        # two "äºç¾å¤ãããï¼çªç¶æ³å°ä»ä¹ï¼"
-        two "Five hundred...(thinks about something)"
-    
-    # game/princess.rpy:152
-    translate english p_3_8836e1a0:
-    
-        # mc_1 "å¯ï¼ äºç¾å¤ä»ä¹ï¼"
-        mc_1 "Huh? Five hundred what?"
-    
-    # game/princess.rpy:154
-    translate english p_3_e66eea70:
-    
-        # two "èªç¶æ¯äºç¾å¤å¤©åäºãååï¼ é¾ä¸ææ¯äºç¾å¤å¹´åï¼"
-        two "Five hundred days ago. Haha, how could it be five centuries ago?"
-    
-    # game/princess.rpy:155
-    translate english p_3_79b18397:
-    
-        # mc_1 "ï¼æå¹) äºç¾å¤å¹´åçè¥¿åè¿ä¿¡å¥ç¥ä»ï¼èç°å¨è´µæä»¬é½åªä¿¡éªé­æ­ªéäºãä¹åä¿ä½æä»¬çåå¥å¸åä¹ä¸ååºç°äºã"
-        mc_1 " "
-    
-    # game/princess.rpy:162
-    translate english p_3_e7809b99:
-    
-        # two "æ äºãå°çè¿æäºäºè¦å»åï¼ä»æ¥æè§å¬ä¸»å®ä¹å·§åã ä¸ä¸æ¬¡è¥æ¯æç¼åè§å§ã"
-        two ""
-    
-    # game/princess.rpy:181
-    translate english p_4_58c56635:
-    
-        # "æè®¸æäºå¤±æªäºï¼æå³å®ç¦»å¼è¿éã"
-        ""
-    
-    # game/princess.rpy:182
-    translate english p_4_af95d132:
-    
-        # "è¿æ¯å»å«å¤ççå§ãæè·çèªå·±çç´è§å»äºå¤§éçæ¿é´ã"
-        ""
-    
-    # game/princess.rpy:183
-    translate english p_4_260f9747:
-    
-        # "æä¸å¶ç¶ï¼æ¿é´åä¼ æ¥çæ¯äºéåå¤§éçè°è¯å£°ã"
-        ""
-    
-    # game/princess.rpy:185
-    translate english p_4_ce805572:
-    
-        # two "åé¿ï¼åæ¥ä½ è¢«å¬ä¸»ææãçæ¥å¦ä»ä½ çä¼¤å¿å·²ç»å¥½äºï¼è¿æ ·æåå¼å¼ä»¬ä¹ä¸ç¨æå¿ä½ äºã"
-        two ""
-    
-    # game/princess.rpy:186
-    translate english p_4_7a7049da:
-    
-        # one "åè¿ä¸ä¸ªæ¶è¾°ï¼ç­ææ¢å¤ææçä»æ³ï¼æä»¬å°±ä¸åç¦»å¼çå®«ã"
-        one ""
-    
-    # game/princess.rpy:187
-    translate english p_4_20c76bec:
-    
-        # one "è¿ä¸ªå¦å­½æ¯ææ³è±¡ä¸­è¿è¦åå®³è®¸å¤ãè¥æ¯åªç¨æ­¦åï¼æä»¬å¹¶éä»çå¯¹æã"
-        one ""
-    
-    # game/princess.rpy:188
-    translate english p_4_74932d60:
-    
-        # two "åï¼ä½ èå¾ç¦»å¼åï¼"
-        two ""
-    
-    # game/princess.rpy:189
-    translate english p_4_b367aff3:
-    
-        # two "è¿è¥¿åçå¬ä¸»å¯¹ä½ ææï¼å¥¹åæå½è²å¤©é¦ä¹è²ï¼ä½ å¯èå¾ç°å¨èµ°ï¼å°±ä¸å»éå«ï¼"
-        two ""
-    
-    # game/princess.rpy:190
-    translate english p_4_e2595585:
-    
-        # one "äººä»æå«ï¼çºµä½¿å¥¹æè¥¿æ½ä¹è²ï¼æä¹å¯¹å¥¹å¹¶æ ä»»ä½ææã"
-        one ""
-    
-    # game/princess.rpy:191
-    translate english p_4_d40ab053:
-    
-        # one "ææ¢ç¶å¯¹å¥¹å¹¶æ æï¼ç°å¨èµ°ï¼ä»¥åèµ°é½ä¸ä¼æ¹åä»ä¹ã"
-        one ""
-    
-    # game/princess.rpy:192
-    translate english p_4_d705d3c2:
-    
-        # two "åé¿ç°å¨æè¯è¯´å¾è¿ä¹æ­»ï¼ä»¥åå¯ä¸è¦åææå¥½ãé£ä¸ªæ¶åå¯å°±æäºã"
-        two ""
-    
-    # game/princess.rpy:193
-    translate english p_4_92a6f003:
-    
-        # one "åæï¼ä¸äººç¸æå°±å¥½æ¯æ¯æ°´ä¸­ææï¼å°å¤´æ¥åªæ¯ä¸åºç©ºã"
-        one ""
-    
-    # game/princess.rpy:194
-    translate english p_4_87e98da6:
-    
-        # one "ä½ç­çäººæä¼æåå¹´ä¿®ä¸ºä½ä¸ºèµæ³¨ï¼åªä¸ºåä¸ä»å¡äººç¸å®åºåºæ°åè½½çåé´ï¼"
-        one ""
-    
-    # game/princess.rpy:195
-    translate english p_4_7894c9f3:
-    
-        # two "ï¼æ³å°ä»ä¹ï¼è¿æ¯å ä¸ºä½ å¿ææå±ï¼å¶ä»å¡é´å¥³å­ä½ æ©å°±ä¸æ¾å¨ç¼éäºï¼"
-        two ""
-    
-    # game/princess.rpy:196
-    translate english p_4_5525855a:
-    
-        # two "æä¹è¯´é¿åæ¯éæçå¶ï¼ä½ è¦æ¯ç´æ¥æç»äººå®¶ï¼é£å¥¹ä¼å¤ä¼¤å¿åã"
-        two ""
-    
-    # game/princess.rpy:197
-    translate english p_4_37f09517:
-    
-        # one "ï¼æå¤´ï¼ä¼çå¨æç¼éçä¸ºå¹³ç­ï¼ä¸ç®¡æ¯å¬ä¸»è¿æ¯å¹³æ°ç¾å§ï¼æé½ä¸è§åä»ã"
-        one ""
-    
-    # game/princess.rpy:198
-    translate english p_4_664f8eec:
-    
-        # one "ä½ä¸ºä»äººï¼æä»¬åºè¯¥æ©æ²»æ¶äººï¼èµç½åæï¼ä¸è¯¥ç»å¡äººä¸åå®éçå¸æã"
-        one ""
-    
-    # game/princess.rpy:199
-    translate english p_4_e57dbf11:
-    
-        # one "æå¿æå·²å³ï¼ä¸ç®¡åæå¦ä½ï¼æé½ä¸ä¼æ¥åå¬ä¸»çå¿æã"
-        one ""
-    
-    # game/princess.rpy:200
-    translate english p_4_ba043241:
-    
-        # one "æç­ä»äººå¹¶éå¬ä¸»çè¯äººã"
-        one ""
-    
-    # game/princess.rpy:202
-    translate english p_4_d4775676:
-    
-        # "å¬å°è¿éï¼æé½å¿«å¿ç¢äºãå¤§éæ¯æå¨äººä¸é´ç¬¬ä¸ä¸ªå¿å¨çäººã"
-        ""
-    
-    # game/princess.rpy:203
-    translate english p_4_376b1ced:
-    
-        # "æ³å°æç¬¬ä¸æ¬¡éè§ä»æ¶ï¼æä¸ä¸ªå°è´¼è¶æå¾®æç§è®¿æ¶å·äºæçé±åã"
-        ""
-    
-    # game/princess.rpy:204
-    translate english p_4_2ea53916:
-    
-        # "ä»ä¸ç­æéè°¢ï¼å°±æé£è´¼äººæ©æ²»ãå½æé®ä»æ¯å¦è¦é¶ä¸¤è¿æ¯æ¥é¬æ¥æè°¢ä»çä¹ä¸¾ï¼ä»ä¹å·æ·¡å°æç»äºã"
-        ""
-    
-    # game/princess.rpy:205
-    translate english p_4_17d966b0:
-    
-        # "å¦ä»æææç½å½æ¶å¤§éåªæ¯ä»¥ä»äººçèº«ä»½æ¥æ©æ²»ä¸æ³ä¹å¾ã"
-        ""
-    
-    # game/princess.rpy:206
-    translate english p_4_bec5f7a4:
-    
-        # "æä»¬èæ°´ç¸é¢ï¼å¹¶ä¸æ¯åææ²éè¯´å¾é£ä¹å¥½å¬ã"
-        ""
-    
-    # game/princess.rpy:207
-    translate english p_4_3d15cc27:
-    
-        # "æå¯¹ä»çå¥½æä¹æ¯åºäºä»ä¸åæéé£äºç®åªè®¨å¥½çå®åä»¬ã"
-        ""
-    
-    # game/princess.rpy:208
-    translate english p_4_3bdec8b2:
-    
-        # "æ¶è³ä»æ¥ï¼æé½æ¯ä¸å¢ææ¿ãæä¸å»é½ä¸æ³å¨çå®«éå¾ä¸å»äºã"
-        ""
-    
-    # game/princess.rpy:234
-    translate english p_4_69f44603:
-    
-        # boy "æ­¤ä¹ç¥éï¼ä¸æ¯å¦æ³ãè¿ç»ä½ ï¼é£å¥½åãè¦æ¯å§å¨è½æ¿å°æ­¤ç©ï¼æå°±è¿ç»ä½ ã"
-        boy ""
-    
-    # game/princess.rpy:288
-    translate english p_5_bd8088a1:
-    
-        # dking "ä»æ¥åä½å¤§ä»æ¥å°é¾å®«ä¸ºå¾ç¥å¯¿ï¼æ¬ççæ¯æå¨ãåä½è¯·ç¨è³å§ã"
-        dking ""
-    
-    # game/princess.rpy:290
-    translate english p_5_dfc28eb1:
-    
-        # "è¿æ²¡ç­ææ¿èµ·ç­·å­ï¼æå°±åç°äºä¸åº§çä¸äºç¥ä»ä»¬ã"
-        ""
-    
-    # game/princess.rpy:292
-    translate english p_5_bddf84ce:
-    
-        # "ä¸ä»èµ¤èå¤§ä»ï¼å«ä»ï¼åäºåºè§çåç¨¹å­é½æ¥èµ´å®´ï¼èä¸è¿æç¾å¹´åè¥¿è¡åæ¥çç´çå­æç©ºåä»çå¸å¼çªå«æã"
-        ""
-    
-    # game/princess.rpy:294
-    translate english p_5_088ce734:
-    
-        # "å¶ä»æµ·çé¾çä»¬ä¹çº·çº·èµ¶æ¥ç¥è´ºæ¬éï¼ä¸æ¶é´å¥½ä¸ç­é¹ã"
-        ""
-    
-    # game/princess.rpy:295
-    translate english p_5_ed195c47:
-    
-        # "è¿äºæ¬é½æ¯è¯´ä¹¦åçå´éçç¥è¯äººç©çªç¶åºç°å¨æèº«è¾¹ï¼æå¯¹ä»ä»¬é½åæ»¡äºå¥½å¥å¿ã"
-        ""
-    
-    # game/princess.rpy:297
-    translate english p_5_a0f488d8:
-    
-        # monkey "èå¤´ï¼å½å¹´è¥¿è¡ä¹è·¯é»æ°çå¤ï¼å¤äºäºä½ ä»¬åæ¶å¸®å¿ï¼ä¸ç¶ä¿ºèå­è¿ä¸ç¥éè¦èµ°å¤å°å¤æè·¯å¢ã"
-        monkey ""
-    
-    # game/princess.rpy:298
-    translate english p_5_cea6b463:
-    
-        # monkey "å¦ä»èµ¶ä¸äºä½ å¤§å¯¿ï¼æå°±å¨ä¸å¨å±±å¸¦äºäºå®ç©æ¥ã"
-        monkey ""
-    
-    # game/princess.rpy:299
-    translate english p_5_208d2798:
-    
-        # dking "ä½ç·çæ¯å®¢æ°äºãå½å¹´é½æ¯ä¸¾æä¹å³ãè¦ä¸æ¯ä½ ä»¬å¸å¾ï¼æçä¾å¿å°ç½é¾ä¹ä¸ä¼å¾éã"
-        dking ""
-    
-    # game/princess.rpy:300
-    translate english p_5_2228487f:
-    
-        # dking "è¯´èµ·æ¥ï¼è¿å¾æè°¢ä½ç·å¢ã"
-        dking ""
-    
-    # game/princess.rpy:302
-    translate english p_5_c5d8c47b:
-    
-        # monkey "ååï¼æ©æå¤ªå­ä¹åä¹æ²¡å°ç»æä»¬å¸®å¿ï¼è½è¯´ä»å¸¦é¢äºä¸äºè¾åµè¹å°é¤äºå¦æªï¼èå­å¶å®æçäºè¿æ³æä¸å æ¶å¢ã"
-        monkey ""
-    
-    # game/princess.rpy:303
-    translate english p_5_017bfb41:
-    
-        # pig "ç´å¥ï¼ä½ æä¹é½å¤¸äººå®¶åï¼ä¿ºèçªå½å¹´ä¸ä»è¦ä¸ºå¸ååææè¡æï¼è¿é©äºè¢«è¸äºã"
-        pig ""
-    
-    # game/princess.rpy:304
-    translate english p_5_6c3cc2f9:
-    
-        # pig "å½å¹´çè¦åçè¿çå¤ï¼"
-        pig ""
-    
-    # game/princess.rpy:306
-    translate english p_5_452bc3bc:
-    
-        # dude9 "ä½ç·åä½¿èè½å¤åå¾·åæ»¡ä¹æ¯å ä¸ºèªèº«ä¿®ä¸ºã"
-        dude9 ""
-    
-    # game/princess.rpy:307
-    translate english p_5_62871bc3:
-    
-        # dude9 "ä¸ä»ä¸ºåäººåäºæ¦æ ·ï¼èä¸å¨äººé´ä¸¤ä½çå¤§ååæè°äººä¸ç¥æã"
-        dude9 ""
-    
-    # game/princess.rpy:309
-    translate english p_5_5885a748:
-    
-        # pig "åï¼è¯´å°è¿ä¸ªï¼è¥¿åçå­æ°æå¤ä¹é½æ²¡ç»ä¿ºèçªç§é¦äºã"
-        pig ""
-    
-    # game/princess.rpy:310
-    translate english p_5_4905ad78:
-    
-        # pig "è¿éççå¸è´µæä¿¡å¥å¦éï¼åªæå°æ°èç¾å§æä¿¡ç¥æä½ã"
-        pig ""
-    
-    # game/princess.rpy:311
-    translate english p_5_1950a30b:
-    
-        # monkey "ï¼æäºæçªå«æçèå­ï¼åå­ï¼å¾éäºè¿æ³çå°ä¸ä¹äºã"
-        monkey ""
-    
-    # game/princess.rpy:312
-    translate english p_5_4e806dc5:
-    
-        # monkey "èé¾çè¿å¿å¤ä½ åä¸ªé¥±çäºã"
-        monkey ""
-    
-    # game/princess.rpy:313
-    translate english p_5_100b8a8b:
-    
-        # "è¿æ¶ï¼å¨æ¡çå®¾å®¢ä»¬é½æ§è¹å¤§ç¬ãå¤§å®¶ä¹å¼å§ç»é¾çè¯´è´ºå¯¿è¯ã"
-        ""
-    
-    # game/princess.rpy:315
-    translate english p_5_502bd600:
-    
-        # f1 " é¿åå§å§ï¼ä½ åæ¥ä¹å°ï¼æç»ä½ ä»ç»è¿éçå®¾å®¢å§ã"
-        f1 ""
-    
-    # game/princess.rpy:317
-    translate english p_5_6ac723b3:
-    
-        # f1 "é£ä¸æ¡åçæ¯å«ä»ï¼ä¸ºé¦çæ¯åæ´å®¾åä½ä»å§ã"
-        f1 ""
-    
-    # game/princess.rpy:319
-    translate english p_5_6896569e:
-    
-        # f1 "ä»ä»¬äºäººä»æ³äºå¾"
-        f1 ""
-    
-    # game/princess.rpy:321
-    translate english p_5_8243e080:
-    
-        # f1 "è¿ä¸æ¡åçæåå¤©çå¥³"
-        f1 ""
-    
-    # game/princess.rpy:322
-    translate english p_5_8ef11202:
-    
-        # f1 "å¥¹æ¯äºæ¹åæµ·ä¸­æ³åæåå®³çåå ä¸ªç¥ä»äºã"
-        f1 ""
-    
-    # game/princess.rpy:324
-    translate english p_5_6dff58ca:
-    
-        # f1 "è¿ä¸ªç·å­æ¯æçè¡¨åï¼åæµ·ä¸å¤ªå­ã"
-        f1 ""
-    
-    # game/princess.rpy:325
-    translate english p_5_44c10e5a:
-    
-        # f1 "ä»å¸¸å¸¸å¨å¤ä¿®ç¼ï¼æä»¬æäºæ¶æ¥æªæ¾è§è¿é¢äºã"
-        f1 ""
-    
-    # game/princess.rpy:326
-    translate english p_5_3754288c:
-    
-        # f1 "è¿æåå¨ç¬¬ä¸æçæéåå¤§ä»ï¼ææèä½ï¼åååä½¿èã"
-        f1 ""
-    
-    # game/princess.rpy:327
-    translate english p_5_57d79322:
-    
-        # f1 "ç¸ä¿¡ä¸ä¹ååè·¯è©è¨å¤§ä»è¿ä¼éç»­æ¥å¢ã"
-        f1 ""
-    
-    # game/princess.rpy:329
-    translate english p_5_dec49b0a:
-    
-        # mc_1 "è¿ä¹ç­é¹ãæç¬¬ä¸æ¬¡è§å°è¿ä¹å¤ä»äººï¼ç®ç´ä¸æ¢ç¸ä¿¡æçç¼çã"
-        mc_1 ""
-    
-    # game/princess.rpy:330
-    translate english p_5_e3de65c1:
-    
-        # mc_1 "åæ¥é¤äºå¡äººï¼å­çä¸­è¿æå¦æ­¤å¤çççµã"
-        mc_1 ""
-    
-    # game/princess.rpy:331
-    translate english p_5_a8fdce3e:
-    
-        # f1 "æ¯åï¼å­çä¸­æ å¥ä¸æãé¤äºç¥ä»åå¡äººï¼è¿æå¦é­ï¼è©è¨ï¼é¾æï¼åçµä½ã"
-        f1 ""
-    
-    # game/princess.rpy:332
-    translate english p_5_f88e16a7:
-    
-        # f1 "è¥æ¯ææä¸æ¥ï¼å§å§å¯æ³ä¿®ç¼æä»ï¼"
-        f1 ""
-    
-    # game/princess.rpy:336
-    translate english p_5_c16a32da:
-    
-        # "åå® +5"
-        ""
-    
-    # game/princess.rpy:337
-    translate english p_5_433b7002:
-    
-        # mc_1 "è¥æ¯æç¼ï¼æè¿çå¸æè½å¤å¾éæä»ã"
-        mc_1 ""
-    
-    # game/princess.rpy:338
-    translate english p_5_62da756d:
-    
-        # mc_1 "ä¸æ¬¡è¾äºé©¾é¾å·²ç»è®©æå¼å§åæ¬¢ä¸äºä»æ³ãæäºé¿çä¹éå°±è½é¿åè½®åä¹è¦äºã"
-        mc_1 ""
-    
-    # game/princess.rpy:339
-    translate english p_5_72a4b226:
-    
-        # f1 "å¦æ­¤çå¥½ï¼å§å§ä¸æå°±è½æä¸ºæ°¸ä¸çå§å¦¹äºã"
-        f1 ""
-    
-    # game/princess.rpy:343
-    translate english p_5_fc604c74:
-    
-        # mc_1 "å¦ä»ææ²¡ææä»çææ¿ã"
-        mc_1 ""
-    
-    # game/princess.rpy:344
-    translate english p_5_b121148e:
-    
-        # mc_1 "è½ç¶æ³æ¯æè¶£ï¼å¯æ¯ä¸æ¦æä»å°±è¦ä¸æçç¶çæ¯ååç¦»"
-        mc_1 ""
-    
-    # game/princess.rpy:345
-    translate english p_5_b99cb6ba:
-    
-        # mc_1 "è¿æ ·ææä¹çä»ä»¬åå°½è½®åä¹è¦ï¼èªå·±å´å¨å¤©ä¸è¿çæ¼«æ æ­¢å¢çæ¥å­ï¼"
-        mc_1 ""
-    
-    # game/princess.rpy:346
-    translate english p_5_c254bb04:
-    
-        # mc_1 "æè¿æ³å¥½å¥½å°½å­éï¼åä»ä»¬å¤ç¸å¤äºæ¥å­ã"
-        mc_1 ""
-    
-    # game/princess.rpy:347
-    translate english p_5_8c55ca9c:
-    
-        # f1 "å§å§çé¡¾èææç½ï¼æä¹ä¸æ³åå®¶äººåå¼ãå¦ä»å°½å­éä¹æ¯å¥½çã"
-        f1 ""
-    
-    # game/princess.rpy:350
-    translate english ep2_a01a7a16:
-    
-        # "æè®¸æ¯ææ¡çç·å­æ³¨æå°äºæè¿ä¸ªçäººï¼ä»æ¬æ¥èµ°åäºä¹å¦¹å´æ æä¸­å¬è§äºæä»¬çè°è¯ã"
-        ""
-    
-    # game/princess.rpy:352
-    translate english ep2_140cd0c3:
-    
-        # wes "ä¹å¦¹ï¼ä½ ç«ç¶å¸¦äºäººé´å¥³å­æ¥é¾å®«ã"
-        wes ""
-    
-    # game/princess.rpy:353
-    translate english ep2_79f7d066:
-    
-        # wes "è½ç¶åç¶ä¸åç¼ç±ä½ ï¼å¯æ¯è¿è¿æ¯ä¸åç¤¼æ°ã"
-        wes ""
-    
-    # game/princess.rpy:355
-    translate english ep2_9fea957b:
-    
-        # f1 " ä¸å¥ï¼ è¿ä½æ¯è¥¿åçå¬ä¸»ãé¿åå§å§æ¯æçå¥½åï¼ä¸æ¬¡å¤äºæå¥¹ï¼ææå¨äººé´æ é©ã"
-        f1 ""
-    
-    # game/princess.rpy:357
-    translate english ep2_cc983f6e:
-    
-        # wes "åæ¥å¦æ­¤ãï¼çåæï¼å°çä¹ä¸æ¯ä¸éæè¾¾çï¼æ¢ç¶è¥¿åå¬ä¸»å¯¹ä¹å¦¹ææ©ï¼é£å°±æ¯é¾å®«çå®¢äººã"
-        wes ""
-    
-    # game/princess.rpy:358
-    translate english ep2_4ef1c2f5:
-    
-        # wes "è½è¯´äººé´ä¹æå±±çæµ·å³ï¼å¯æ¯èµ·é¾å®«æ¯è¦éè²ä¸å°äºã"
-        wes ""
-    
-    # game/princess.rpy:360
-    translate english ep2_301316ff:
-    
-        # mc_1 "ä¸å¤ªå­ä¸å¿å®¢æ°ãå¡å°ä¹ç©ç¡®å®ä¸æ¯ä»å®¶å£ç©ã"
-        mc_1 ""
-    
-    # game/princess.rpy:361
-    translate english ep2_329a31cb:
-    
-        # mc_1 "ä¹å¦¹è¯´çæ¯å¨å¨è¿å¸¦äºè æ¡ä¸ºè´ºç¤¼ãè æ¡æ å¯è¦ä¸åå¹´æç»æï¼äººé´åªæå¦æ­¤ç¨æçæå®åã"
-        mc_1 ""
-    
-    # game/princess.rpy:363
-    translate english ep2_4d0d0205:
-    
-        # wes "éä¹ï¼ä½ç·ä½çä¸å¨å±±ä¸æä¸çæ£æ ã"
-        wes ""
-    
-    # game/princess.rpy:364
-    translate english ep2_ad41ba2c:
-    
-        # wes "æ£å­äºåå¹´æä¼çï¼è¥æ¯å¡äººåäºå¯¿å½å¯ä¸å¤©å°ç¸æ¯ï¼ éæ¥æ°¸é©»ã"
-        wes ""
-    
-    # game/princess.rpy:365
-    translate english ep2_bac8e1c8:
-    
-        # wes "åªå¯æä¸å¨å±±å¯¹äºèç¼å¡èæ¥è¯´åªæ¯æµ·å¸èæ¥¼ã"
-        wes ""
-    
-    # game/princess.rpy:367
-    translate english ep2_b6333c2b:
-    
-        # mc_1 "å¦ï¼é£è¦å¦ä½å°ä¸å¨å±±?"
-        mc_1 ""
-    
-    # game/princess.rpy:369
-    translate english ep2_8ab8c5c8:
-    
-        # wes "åºæ¬æ³æ¯å¯è¿ï¼ä»äººå¯è¿ï¼åªæ¯æ²¡æä¿®ä¸ºçå¡äººè¿ä¸å»ç»çéã"
-        wes ""
-    
-    # game/princess.rpy:371
-    translate english ep2_81343ec7:
-    
-        # mc_1 "ï¼æç¹å¤±æï¼å¦æ­¤ä¸æ¥ï¼æè¿æ¯éè¦å¥½å¥½é»ç æ³æ¯ã"
-        mc_1 ""
-    
-    # game/princess.rpy:372
-    translate english ep2_dc744a1b:
-    
-        # mc_1 "åªæ¯ä¸ç¥éè¦å¦ä½æå¸å­¦èºã"
-        mc_1 ""
-    
-    # game/princess.rpy:374
-    translate english ep2_5cd79304:
-    
-        # wes "æçå¸åæ¯åæµ·è§ä¸é³è©è¨ã"
-        wes ""
-    
-    # game/princess.rpy:375
-    translate english ep2_e853ee8c:
-    
-        # wes "å¥¹çæ³æ¯åæ¬äºèµ·æ­»åçï¼æ²»çä¼¤èï¼å½ç¶ä¹æç©çæ»å»çæ³æ¯ã"
-        wes ""
-    
-    # game/princess.rpy:377
-    translate english ep2_7907b3b4:
-    
-        # f1 "èè¡¨å¥æ©æå¤ªå­ä¹æå¨è¥¿æµ·æ¶å¾å¼ã"
-        f1 ""
-    
-    # game/princess.rpy:378
-    translate english ep2_4ea35ea8:
-    
-        # f1 "ä»çæ³åæ¯å©ç¨æ°´æ¥æ»å»æäººï¼ä¸æ¬¡å¯æ»å»æ°åä¸ªäººã"
-        f1 ""
-    
-    # game/princess.rpy:379
-    translate english ep2_32c0e488:
-    
-        # f1 "åªè¦ç¨å¾®æå¾ä¸æï¼å°±å¯å¼é£å¤é¨ï¼ä¸æä¾¿å¯å¬å¤æµ·å¸ï¼å±±å´©å°è£ï¼æ æä¸è½ã"
-        f1 ""
-    
-    # game/princess.rpy:381
-    translate english ep2_1b9eb64a:
-    
-        # mc_1 "å¦æè½å¼é£å¤é¨ï¼ä¸ºä½ä¸ä¸è¿æç¾èå¤§æ±ï¼"
-        mc_1 ""
-    
-    # game/princess.rpy:383
-    translate english ep2_2bcb1642:
-    
-        # wes "ä¸å¤å°é¨é½æ¯ä¸å¤©çæ¨æãå¥å¥ä¹ä¸­ï¼ç¾é¾ç¦æ¥é½æ¯å®æ°ã"
-        wes ""
-    
-    # game/princess.rpy:384
-    translate english ep2_147b74c3:
-    
-        # wes "å¯è¥æ¯éæéé¨ï¼æ®å®³ççµï¼è¿ä¼è§¦ç¯å¤©æ¡ã"
-        wes ""
-    
-    # game/princess.rpy:386
-    translate english ep2_a4d50e12:
-    
-        # dude9 "ï¼åæä»¬èµ°æ¥ï¼ä¸åå¯è¿å®å¥½?"
-        dude9 ""
-    
-    # game/princess.rpy:388
-    translate english ep2_0650e3bb:
-    
-        # mc_1 "å¯ï¼æä»¬å¨è®¨è®ºå¨åªéæå¸å­¦èºçå¥½ã"
-        mc_1 ""
-    
-    # game/princess.rpy:389
-    translate english ep2_d04dc495:
-    
-        # mc_1 "è¿äºæ¹åæµ·éæåå®³çç¥ä»æ¯è°ï¼"
-        mc_1 ""
-    
-    # game/princess.rpy:391
-    translate english ep2_bf744e5a:
-    
-        # dude9 "è¿å¯ä¸å¥½è¯´ã"
-        dude9 ""
-    
-    # game/princess.rpy:392
-    translate english ep2_c046f018:
-    
-        # dude9 "å¤©ä¸çç¥ä»æåå®³çè«è¿äºåå¤©ä»å­åå¿å°ä»å­ï¼åªå¯æåèå·²ç»è¢«è´¬ä¸å¤©åº­ã"
-        dude9 ""
-    
-    # game/princess.rpy:393
-    translate english ep2_fa77dc8b:
-    
-        # dude9 "å¥¹ä»¬çå¸åé½æ¯åä¸ä¸ªäºº"
-        dude9 ""
-    
-    # game/princess.rpy:394
-    translate english ep2_8b87e1f2:
-    
-        # dude9 "ææèä½çå®åä¸å¯å°è§ï¼é¤äºä½ç¥ï¼è¿å¤©ä¸å°ä¸è¿æªæäººæ¿ä»æä»ä¹åæ³ã"
-        dude9 ""
-    
-    # game/princess.rpy:395
-    translate english ep2_6e922d92:
-    
-        # dude9 "è¿åæµ·ä»¥åï¼ä¾¿æ¯åæµ·ä¸å¤ªå­åæè½å¤æè´¥æ³åé«å¼ºçç¥ä»æèå¦æªã"
-        dude9 ""
-    
-    # game/princess.rpy:396
-    translate english ep2_1dcbfef9:
-    
-        # dude9 "è¥æ¯è®°å¾æ²¡éï¼åæµ·è§ä¸é³è©è¨ä¹æå¨æ¶å¾å¼ã"
-        dude9 ""
-    
-    # game/princess.rpy:398
-    translate english ep2_36536316:
-    
-        # wes " å°ççä»æ³ä¸æ¢åå¶ä»ä»å®¶åè©è¨æ¥ç¸æå¹¶è®ºï¼è¯´èµ·æ¥ï¼æçå¸åä¹æ¯åæµ·è§é³ã"
-        wes ""
-    
-    # game/princess.rpy:399
-    translate english ep2_a5121e3e:
-    
-        # wes "è¥å§å¨æ³å»æå¸ï¼é£å¿å®æ¯å±é¾ééãå¯å«å¿äºï¼å¡äººæ¯å¾é¾å»ä»ççã"
-        wes ""
-    
-    # game/princess.rpy:401
-    translate english ep2_b940e407:
-    
-        # mc_1 "åæ¥å¦æ­¤ãçæ¥æè¿ä¹å¤åå®³çç¥ä»åè©è¨ã"
-        mc_1 ""
-    
-    # game/princess.rpy:402
-    translate english ep2_5514f4cc:
-    
-        # mc_1 "èæçç¶çå´ä¸ç´åªå¬ä»é£ä¸ªä»ä¹é­å°çè¯ãè¥æ¯æç»æä»æ³ï¼è¿ä¸æé£å¦æªèµ¶åºå»ã"
-        mc_1 ""
-    
-    # game/princess.rpy:404
-    translate english ep2_07001e50:
-    
-        # wes "äººé´çå®æèªç±æä»¬ä¹ä¸ä¾¿ææã"
-        wes ""
-    
-    # game/princess.rpy:405
-    translate english ep2_7fdfa7a6:
-    
-        # wes "åé¢è¿æå®¾å®¢ï¼å°çåè¡åéäºã"
-        wes ""
-    
-    # game/princess.rpy:407
-    translate english ep2_02590074:
-    
-        # f1 "ï¼ç®éä»ç¦»å¼ï¼æ¬æ¥æä¸æç®è¯´è¿äºçï¼å¯æ¯é¿åå§å§ï¼ä½ å¯åä¸ä¸è¦å»åæé£ä¸ªé­å°ã"
-        f1 ""
-    
-    # game/princess.rpy:408
-    translate english ep2_32ea8366:
-    
-        # f1 "ä»æ³åé«å¼ºï¼èä¸å°±è¿æ´ä¸ªä¸çè½æè´¥ä»çäººé½å¯¥å¯¥å¯æ°ã"
-        f1 ""
-    
-    # game/princess.rpy:409
-    translate english ep2_386be4bd:
-    
-        # f1 "æ¨æé­å°ææå°æ¥äºé¾å®«ï¼æ¬æç®å·èµ°æä»¬è¿éçä¸¤ä»¶å®ç©ï¼å¯æ¯ä»å´åªè½å¸¦èµ°ä¸ä»¶ã"
-        f1 ""
-    
-    # game/princess.rpy:411
-    translate english ep2_15524c29:
-    
-        # mc_1 "è¿æä»å·ä¸èµ°çå®ç©?"
-        mc_1 ""
-    
-    # game/princess.rpy:413
-    translate english ep2_03ab5c7c:
-    
-        # f1 "å¯ï¼ä¼ è¯´çµçååæ¯å½å¹´å¿å°ä»å­çæ³å¨."
-        f1 ""
-    
-    # game/princess.rpy:414
-    translate english ep2_3f7e3918:
-    
-        # f1 "å½å¥¹è¢«è´¬ä¸å¤©åº­ï¼å¥¹çæ­¦å¨ä¹ä¸ç¥æè¸ªãä¸å·§æ­£å¥½è½å¨æä»¬æ·±æµ·éäºã"
-        f1 ""
-    
-    # game/princess.rpy:416
-    translate english ep2_dd50f6f0:
-    
-        # mc_1 "é£ä¸æ¯äººäººé½æ³è¦è¿ä¸ªåå®³çæ­¦å¨äºï¼"
-        mc_1 ""
-    
-    # game/princess.rpy:418
-    translate english ep2_93981152:
-    
-        # f1 "è¯è½è¯´å¦æ­¤ï¼å¯æ¯çµçååæ¯èªå·±æéä¸»äººç"
-        f1 ""
-    
-    # game/princess.rpy:419
-    translate english ep2_600c238c:
-    
-        # f1 "è¥æ¯å®ä¸æ³ä»»ä½ ä¸ºä¸»ä»»ï¼å°±ç®ä½ æ³è§¦ç¢°å®é½ä¼è¢«åæ°æä¼¤"
-        f1 ""
-    
-    # game/princess.rpy:420
-    translate english ep2_63468898:
-    
-        # mc_1 "ä½ ä»¬å¯æè¯è¿?"
-        mc_1 ""
-    
-    # game/princess.rpy:423
-    translate english ep2_4_ad4da215:
-    
-        # dude9 "é¾å®«çè´µæé½è¯è¿æ­¤ç©ï¼å¯æ¯æä»¬é½æ¿å®æ²¡åæ³ã"
-        dude9 ""
-    
-    # game/princess.rpy:425
-    translate english ep2_4_8a9e3ab6:
-    
-        # mc_1 "å¦æ­¤ç¥å¥ï¼é£ä¸ç¶è®©æä¸è¯ï¼å¬èµ·æ¥æºå¥½ç©çã"
-        mc_1 ""
-    
-    # game/princess.rpy:426
-    translate english ep2_4_8ed93959:
-    
-        # dude9 "å¥½ï¼æä»¬å¸¦ä½ å»ççã"
-        dude9 ""
-    
-    # game/princess.rpy:427
-    translate english ep2_4_3f328bf2:
-    
-        # mc_1 "è¿ä¸ªå®åæç¶ä¸åå¡åã"
-        mc_1 ""
-    
-    # game/princess.rpy:430
-    translate english ep2_4_c7ec0601:
-    
-        # "åé¢çå®åè¢«å®ç½®å¨å¤§ç³ä¸ï¼å½æèµ°ååé¢æ¶å°±æåå°äºä¸è¡ç¥ç§çåéã"
-        ""
-    
-    # game/princess.rpy:431
-    translate english ep2_4_45c9b068:
-    
-        # "å¥æªçæ¯ï¼è¿ä¸¤æåå¥½åå·²ç»è¢«æ¾ç½®å¾ä¹äºå´æ²¡æçéã"
-        ""
-    
-    # game/princess.rpy:432
-    translate english ep2_4_e57d4c95:
-    
-        # "æä¸è½¬å¤´å°±åç°ä»ä»¬ä¸¤ä¸ªé½å·²ç»æ­¢æ­¥ä¸ååå"
-        ""
-    
-    # game/princess.rpy:434
-    translate english ep2_4_fb6743fc:
-    
-        # mc_1 "æä¹äºï¼"
-        mc_1 ""
-    
-    # game/princess.rpy:436
-    translate english ep2_4_def609ac:
-    
-        # f1 "é¿åå§å§ä½ ææä¸ç¥ï¼è¿ä¸¤æåå¨åæ æ¯ã"
-        f1 ""
-    
-    # game/princess.rpy:437
-    translate english ep2_4_bce08ba9:
-    
-        # f1 "æä»¬æ³é è¿é½å¾å°é¾ï¼åªè¦ç¢°å°åå°±ä¼è¢«ç§ä¼¤ï¼è¿æä¹è¿æ¢åé è¿?"
-        f1 ""
-    
-    # game/princess.rpy:439
-    translate english ep2_4_aed6a52c:
-    
-        # mc_1 "åªæ¯è¯è¯èå·²ï¼æä¸ä¼è¢«å®ä»¬ç¼ä¼¤çã"
-        mc_1 ""
-    
-    # game/princess.rpy:441
-    translate english ep2_4_38cdf6db:
-    
-        # "ææ¢æ¢èµ°å°å®ååé¢ï¼è½»æè½»èå°æ¿èµ·è¢«å°å°å¨ç³å¤´ä¸çåã"
-        ""
-    
-    # game/princess.rpy:442
-    translate english ep2_4_d756c317:
-    
-        # "ä¸å¼å§ï¼è½ç¶ææ²¡æè¢«ç§ä¼¤ï¼ä½æ¯ä¸¤æåè¢«å¡å¨ç³ç¼éï¼å¾é¾ååºæ¥ã"
-        ""
-    
-    # game/princess.rpy:443
-    translate english ep2_4_220acdc8:
-    
-        # "è½ç¶æäºæ²ç¸ç¸çï¼ æè¿æ¯ç¨äºå¨é¨çåéæå®ååºæ¥äºã"
-        ""
-    
-    # game/princess.rpy:444
-    translate english ep2_4_96d0e375:
-    
-        # "é£ä¸å»ï¼å¤©æå°å¨ï¼æµ·æ°´ç¿»è¾ãè¾åµè¹å°é½è¢«éæµçæµ·æ°´å·å°åéä¹å¤ã"
-        ""
-    
-    # game/princess.rpy:446
-    translate english ep2_4_671ea395:
-    
-        # "çµçå®ååèåå°ï¼ååºéåéªéªçåæ³½"
-        ""
-    
-    # game/princess.rpy:447
-    translate english ep2_4_270cd48b:
-    
-        # "ä¸è¿ä¸ä¼å¿ï¼åææ·¡ä¸æ¥äºã"
-        ""
-    
-    # game/princess.rpy:449
-    translate english ep2_4_0c50fc65:
-    
-        # f1 "é¿åå§å§ï¼ä½ å¥½åå®³ï¼ç«ç¶ååºäºæ­¤ç­å®ç©ã"
-        f1 ""
-    
-    # game/princess.rpy:451
-    translate english ep2_4_7418f004:
-    
-        # dude9 "æä»¬åè¦æ­åä½ ï¼å¯æ¯æ­¤åçå¨åå·²ç»ææ°å°äºæ­¤æ¬¡çå®´ä¼ã"
-        dude9 ""
-    
-    # game/princess.rpy:452
-    translate english ep2_4_73c6fedf:
-    
-        # dude9 "ç­ä¸ä¼åè·¯ç¥ä»ä¼æ¥è¿éæ¥çãè¥æ¯æ¥åºä½ çèº«ä»½ï¼è¯´ä¸å®è¿æä¸äºéº»ç¦ã"
-        dude9 ""
-    
-    # game/princess.rpy:453
-    translate english ep2_4_4e9eae8a:
-    
-        # dude9 "ä¸å¦ï¼æç¨æ³åéä½ åå»?"
-        dude9 ""
-    
-    # game/princess.rpy:454
-    translate english ep2_4_76cf33d0:
-    
-        # mc_1 "é£è¿æ¯è¦åä»ä»¬è§£éä¸ä¸å§?"
-        mc_1 ""
-    
-    # game/princess.rpy:456
-    translate english ep2_4_2222a4de:
-    
-        # dude9 "æä¸ä¹å¦¹å¯ä»¥åä»ä»¬è§£éãä½ ååå»å§ã"
-        dude9 ""
-    
-    # game/princess.rpy:458
-    translate english ep2_4_c5dc884e:
-    
-        # mc_1 "æ¢ç¶å¦æ­¤ï¼é£å¥½å§ã"
-        mc_1 ""
-    
-    # game/princess.rpy:459
-    translate english ep2_4_1a279db4:
-    
-        # "æ©æå¤ªå­ææä¸å¼¹ï¼å°±æèè²çåææåå´ä½ï¼æ¥çæå°±ç´æ¥åå°äºå°é¢ä¸ã"
-        ""
-    
-    # game/princess.rpy:461
-    translate english ep2_4_cd8248a6:
-    
-        # "æ¬å¤´ä¸çï¼å·²ç»æ¥å°äºå¸é½ã"
-        ""
-    
-    # game/princess.rpy:462
-    translate english ep2_4_11786b41:
-    
-        # "åå°çå®«åï¼ææ¬æ³å»è®©é¿è½©ççè¿ä¸ªå®ç©ï¼å¯æ¯è¿æ¬¡å´ä¸ä¸æ ·ã"
-        ""
-    
-    # game/princess.rpy:463
-    translate english ep2_4_fb3ce924:
-    
-        # "å¥¹ç°å¨è¯´ä¸å®åå­éè¿å¨ä¸èµ·å¬æï¼æä¸æ³è¿ä¸ªæ¶åå»ææ°ä»ä»¬ã"
-        ""
-    
-    # game/princess.rpy:464
-    translate english ep2_4_bd52cf27:
-    
-        # "ä¸ä¸ªæ¯éªæä»å°å°å¤§çæåï¼å¦ä¸ä¸ªèæ¯ä»å¤©èéçä»éã"
-        ""
-    
-    # game/princess.rpy:465
-    translate english ep2_4_2986c077:
-    
-        # "ç°å¨å¦æä»ä»¬çªç¶å¨ä¸èµ·çè¯ï¼æ¯ä¸æ¯å°±ä»£è¡¨æè¦å¤±å»ä¸¤ä¸ªæåäº?"
-        ""
-    
-    # game/princess.rpy:468
-    translate english ep2_4_1f457b86:
-    
-        # "è¿ä¸ªæ¶åå®«å»·éè¿æ¯ä¸æ ·å®éï¼è½ç¶ææç®å¨å®«å¤åéçä¸ä¼å¿ååå»ï¼å¯æ¯ä»æçæåè¶æ¥è¶å¾®å¼±ã"
-        ""
-    
-    # game/princess.rpy:469
-    translate english ep2_4_cd1b49a6:
-    
-        # "æè¿æ²¡è¿å¥å¯å®«ï¼å°±åç°å­éå¨æ®¿å¤æåã"
-        ""
-    
-    # game/princess.rpy:470
-    translate english ep2_4_b1ecbd0a:
-    
-        # "é¾éä»å¨ç­æ?"
-        ""
-    
-    # game/princess.rpy:471
-    translate english ep2_4_17a47de0:
-    
-        # "æ³èµ·ç½å¤©ä»åé¿è½©å¨ä¸èµ·å¬æçäºæï¼ææè§"
-        ""
-    
-    # game/princess.rpy:475
-    translate english ep2_4_2600533f:
-    
-        # "é¿è½© åæ + 10"
-        ""
-    
-    # game/princess.rpy:476
-    translate english ep2_4_26f88ed6:
-    
-        # "æ³å°è¿éï¼æè¿æ¯ä¸»å¨åä»æäºæå¼ã"
-        ""
-    
-    # game/princess.rpy:477
-    translate english ep2_4_efec2658:
-    
-        # "å¬å°äºèæ­¥å£°ï¼ä»ä¹å¾®å¾®çç¼ã"
-        ""
-    
-    # game/princess.rpy:478
-    translate english ep2_4_15d0b4e0:
-    
-        # "æè®¸æäºæ¬£åï¼ä»ä¹æ¢æ¢åæèµ°æ¥"
-        ""
-    
-    # game/princess.rpy:482
-    translate english ep2_4_728769fb:
-    
-        # "å­é å¥½æ + 5"
-        ""
-    
-    # game/princess.rpy:483
-    translate english ep2_4_588e7bb6:
-    
-        # "ä¸ç¥éä¸ºä»ä¹ï¼ç½å¤©çäºæè®©æä¸å¼å¿ï¼æä»¥æè¿ä¸æ¿ä¸»å¨åä»äº¤è°ã"
-        ""
-    
-    # game/princess.rpy:484
-    translate english ep2_4_afe07879:
-    
-        # "èä¸ä»è½ç¶å¨è¿éæåï¼å¯æ¯è¿ä¸ä¸å®ä»£è¡¨ä»æ¯å¨ç­æã"
-        ""
-    
-    # game/princess.rpy:485
-    translate english ep2_4_9d495e86:
-    
-        # "è¥æ¯ççå¨ç­æï¼è°ç¥éä»æ¯ä¸æ¯æ³åè¯æä»åæ¬¢é¿è½©ã"
-        ""
-    
-    # game/princess.rpy:486
-    translate english ep2_4_76eed6c3:
-    
-        # "æ³å°è¿éï¼æä¸ç¦è¹çä¸çªã"
-        ""
-    
-    # game/princess.rpy:490
-    translate english ep2_1_b1ad65f0:
-    
-        # six "ä»æ¥ä¸æ´å¤©é½å¯»ä½ ä¸å¾ï¼å¬ä¸»ä¸ºä½ç¬èªä¸äººåºå®«äº?"
-        six ""
-    
-    # game/princess.rpy:491
-    translate english ep2_1_8643effd:
-    
-        # six "ä½ åææä¸äººä¸¢å¨çå®«éï¼ææè¿éçäººæé½ä¸çæã"
-        six ""
-    
-    # game/princess.rpy:492
-    translate english ep2_1_a23777a2:
-    
-        # mc_1 "ä½ ä¸æ¯çæé¿è½©åï¼æçä½ ä»¬å¾æ¯è¦å¥½åãå°±ç®æç¦»å¼äºï¼ä½ ä¸æ¯å¯ä»¥éªå¥¹ä¸èµ·ç©åï¼"
-        mc_1 ""
-    
-    # game/princess.rpy:493
-    translate english ep2_1_7043a55a:
-    
-        # six "è¿æä¹ä¼ä¸æ ·å¢ãæ¯å¬ä¸»å¸¦æè¿å®«çï¼ä½ è¿ç­åºè¦å¸¦æç©éè¥¿æ¢ãé¾éè¿äºé½ä¸ç®æ°äºï¼"
-        six ""
-    
-    # game/princess.rpy:495
-    translate english ep2_1_2bb56ed1:
-    
-        # mc_1 "æ¯åï¼è¿æä¹ä¼ä¸æ ·ï¼ä½ è¿ä¹åæ¬¢å¥¹ã"
-        mc_1 ""
-    
-    # game/princess.rpy:496
-    translate english ep2_1_82bd2d2d:
-    
-        # mc_1 "ä»å¤©æ©ä¸æé½çè§äºã"
-        mc_1 ""
-    
-    # game/princess.rpy:497
-    translate english ep2_1_85c35b93:
-    
-        # mc_1 "ä»¥åè¿æ¯è®©å¥¹éªä½ ä¸èµ·ç©å§ï¼æ¬å¬ä¸»ä¸å¥éªäºã"
-        mc_1 ""
-    
-    # game/princess.rpy:499
-    translate english ep2_1_ca8b6653:
-    
-        # six "(æä½æè) ç­ç­ï¼å¬ä¸»æ¯ä¸æ¯åå³äºï¼æä½æ¶è¯´è¿åæ¬¢é¿è½©äº?"
-        six ""
-    
-    # game/princess.rpy:500
-    translate english ep2_1_8d5e1889:
-    
-        # mc_1 "æä¹ä¼å¢ï¼æ¬å¬ä¸»æ²¡æè¿ä¹æ èåä½ çéãé£ä½ ä»¬ãã?"
-        mc_1 ""
-    
-    # game/princess.rpy:501
-    translate english ep2_1_5b49a831:
-    
-        # six "ææ¯çé¿è½©æ èææå¥¹ç¨è¥çæ°´å¹æ³¡æ³¡ï¼è°ç¥å¥¹æ©å°±ä¼äºã"
-        six ""
-    
-    # game/princess.rpy:502
-    translate english ep2_1_4fc8aa5d:
-    
-        # six "æ¬æ¥æè¿æ³æ¾ä½ ä¸èµ·ï¼å¯æ¯æä»¬æ¾äºæ´ä¸ªçå®«é½ä¸è§ä½ çè¸ªå½±ã"
-        six ""
-    
-    # game/princess.rpy:504
-    translate english ep2_1_65334d62:
-    
-        # mc_1 "åæ¥æ¯è¿æ ·ãå°±ç®å¦æ­¤ï¼æçé¿è½©æ¯åæ¬¢ä¸ä½ äºã"
-        mc_1 ""
-    
-    # game/princess.rpy:505
-    translate english ep2_1_1863064b:
-    
-        # mc_1 "å°å»å­ï¼ä½ è³ç¦ä¸æµåã"
-        mc_1 ""
-    
-    # game/princess.rpy:507
-    translate english ep2_1_724a6367:
-    
-        # six "ä½ä»¥è§å¾?"
-        six ""
-    
-    # game/princess.rpy:509
-    translate english ep2_1_ebd6906d:
-    
-        # mc_1 "é½æªä½ è¿ä¹ä¿ä¿ï¼ä¹é¾æªæçª¦åå¼çå°å¥³ä¼å¯¹ä½ -"
-        mc_1 ""
-    
-    # game/princess.rpy:511
-    translate english ep2_1_a7ca85b8:
-    
-        # six "ï¼ä½ç¸ççæï¼å¯¹æå¦ä½?"
-        six ""
-    
-    # game/princess.rpy:512
-    translate english ep2_1_a4eb1996:
-    
-        # mc_1 "ï¼ä¸æ¶è¸çº¢ï¼è°ç¥æ¯åªå®¶çå§å¨å¯¹ä½ ä¸è§å¾å¿äºã"
-        mc_1 ""
-    
-    # game/princess.rpy:513
-    translate english ep2_1_fe9b2894:
-    
-        # six "ï¼ç¸è§ä¸ç¬ï¼é£ä½ è¯´è¯´æ¯åªä¸å®¶çå§å¨ï¼"
-        six ""
-    
-    # game/princess.rpy:517
-    translate english ep2_1_2600533f:
-    
-        # "é¿è½© åæ + 10"
-        ""
-    
-    # game/princess.rpy:519
-    translate english ep2_1_1d1a3cee:
-    
-        # "å­é å¥½æ - 10"
-        ""
-    
-    # game/princess.rpy:521
-    translate english ep2_1_205947eb:
-    
-        # mc_1 "ä¸å®æ¯é¿è½©äºï¼ä¸æ¬¡æä»¬å»æè®¿å¥¹æ¶ï¼æå°±åç°å¥¹çç¼ç¥ä»æªç¦»å¼ä½ ã"
-        mc_1 ""
-    
-    # game/princess.rpy:523
-    translate english ep2_1_8847976a:
-    
-        # six "é¿è½©ç¡®å®æ¸ä¸½å¯äºº"
-        six ""
-    
-    # game/princess.rpy:524
-    translate english ep2_1_12884bd2:
-    
-        # six "å¯æ¯æå¹¶éå¡äººï¼å§ç»ä¸è½ä¸äººç»ä¸ºè¿çã"
-        six ""
-    
-    # game/princess.rpy:525
-    translate english ep2_1_5702129a:
-    
-        # mc_1 "çä½ è¿ä¹å¤¸å¥¹ï¼å°±æ¯åæ¬¢å¥¹äºï¼æ¯ä¸æ¯å¦æä½ æ¯å¡äººï¼å°±ä¼åå¥¹ããã"
-        mc_1 ""
-    
-    # game/princess.rpy:526
-    translate english ep2_1_fdf251d7:
-    
-        # six "ä½ æ³å°åªéå»äºï¼æä¹æ¯å ä¸ºä½ çå³ç³»æä¼è®¤è¯é¿è½©ãæä»¬å°±åªæ¯æåã"
-        six ""
-    
-    # game/princess.rpy:528
-    translate english ep2_1_fcf3d1f7:
-    
-        # mc_1 "ï¼æ·è¡ï¼å¥½ï¼å¥½"
-        mc_1 ""
-    
-    # game/princess.rpy:533
-    translate english ep2_1_728769fb:
-    
-        # "å­é å¥½æ + 5"
-        ""
-    
-    # game/princess.rpy:535
-    translate english ep2_1_59c362f2:
-    
-        # mc_1 "è¿ä¸è¨ä¸¤è¯­åªè¯´å¾æ¸åãæçè¯å®æ¯ä¸ä¸ªç¹å«çäººå§ã"
-        mc_1 ""
-    
-    # game/princess.rpy:536
-    translate english ep2_1_e8697931:
-    
-        # mc_1 "è¦ä¸ç¶å°±æ¯ä¸äººä¹ä¸ï¼ä¸äººä¹ä¸ï¼è¦ä¸ç¶å°±æ¯æçæ²é±¼è½éï¼é­æç¾è±çå®¹è²ã"
-        mc_1 ""
-    
-    # game/princess.rpy:538
-    translate english ep2_1_29b384ab:
-    
-        # six "ï¼è¥æææï¼éæçå¶å°±æ¯ä¸äººä¹ä¸ï¼ä¸äººä¹ä¸ã"
-        six ""
-    
-    # game/princess.rpy:539
-    translate english ep2_1_03d18bdc:
-    
-        # six "å¬ä¸»æçæ²é±¼è½éçå®¹è²ã"
-        six ""
-    
-    # game/princess.rpy:540
-    translate english ep2_1_0fb085ea:
-    
-        # six "é¾éé£ä¸å®¶çå§å¨å¹¶éå°å®¶ç¢§çï¼èæ¯çå®¶ä¹å¥³?"
-        six ""
-    
-    # game/princess.rpy:542
-    translate english ep2_1_53922856:
-    
-        # mc_1 "å°å»å­ï¼è¯é½è®©ä½ ä¸ä¸ªäººè¯´äºï¼è¿è¦æè¶£æä¸æ?"
-        mc_1 ""
-    
-    # game/princess.rpy:543
-    translate english ep2_1_0db1cbc4:
-    
-        # six "ï¼çç¬ï¼å¬ä¸»åªéåè¯ææ¯çå¯¹äºè¿æ¯éäº"
-        six ""
-    
-    # game/princess.rpy:544
-    translate english ep2_1_5d2484c6:
-    
-        # mc_1 "ï¼æè¿å¤´ï¼å·ç¬ï¼å¼ï¼éäºï¼éäºãè¦æ¯éäºï¼æå°±ä¸çä½ äºã"
-        mc_1 ""
-    
-    # game/princess.rpy:546
-    translate english ep2_1_4188a56d:
-    
-        # six "ï¼è½»å£°ç»è¯­ï¼å¬ä¸»ä¸è¦ä¸çæï¼è¥æ¯å­éæ¹ä½ çæ°äºï¼æè¿å°±åä½ éæ­ã"
-        six ""
-    
-    # game/princess.rpy:547
-    translate english ep2_1_4397287b:
-    
-        # mc_1 "è¯´ä½ æ¯å°å»å­ï¼ä½ è¿ççå»ã"
-        mc_1 ""
-    
-    # game/princess.rpy:548
-    translate english ep2_1_679b2a9c:
-    
-        # six "ä¸æ¯ä½ åè¯æï¼è¿ç§°å¼æ¯è¥¿åå¥³å­å¯¹ç¹å«çç·å­æå«çå?"
-        six ""
-    
-    # game/princess.rpy:549
-    translate english ep2_1_f1238438:
-    
-        # mc_1 "å¥½å¦å­éï¼ä½ è½æ¯ä»äººï¼å¯æ¯ææ¶åå´åå¡äººä¸è¬å¤©çã"
-        mc_1 ""
-    
-    # game/princess.rpy:551
-    translate english ep2_1_64736f03:
-    
-        # six "ï¼æå¤´ï¼æå¹¶éåæ®éå¡äººä¸æ ·ï¼æ¶ä¸æªæ·±ã"
-        six ""
-    
-    # game/princess.rpy:552
-    translate english ep2_1_12902530:
-    
-        # six "èº«ä¸ºä»äººï¼æè½æå°å¹´å®¹è²ï¼å´æ©æç¾å¹´ä¿®ä¸ºã"
-        six ""
-    
-    # game/princess.rpy:553
-    translate english ep2_1_808e7ddd:
-    
-        # six "è¥æ¯æ¯å¶ä»äººï¼ææªå¿ä¼ä»¥å¦æ­¤å§¿æä¸ä»ä»¬äº¤æµãéå°å¶ç¥æ¶çä¹äººï¼æä¹ä¼ä»¥ä»æ³æ©æ²»ã"
-        six ""
-    
-    # game/princess.rpy:555
-    translate english ep2_1_d1578f80:
-    
-        # mc_1 "ä½ çæææ¯ä»äººé½æé´å®å¥½äººååäººçè½åï¼æä»¥ä¼ä»¥ææ²ï¼æ·³æ´çå¿æ¥åå¥½äººç¸å¤ã"
-        mc_1 ""
-    
-    # game/princess.rpy:556
-    translate english ep2_1_a09951c1:
-    
-        # mc_1 "ä½å¦ææ¯åäººï¼å°±ä»¥åæ³æ©æ²»ï¼"
-        mc_1 ""
-    
-    # game/princess.rpy:558
-    translate english ep2_1_6c2dcdae:
-    
-        # six " æ­£æ¯å¦æ­¤ï¼ æ¯ä¸ªä»äººé½è¦ææ©æ¶æ¬åçè½åãå¯æä¸å¡çæ¬¡æ°æä¸ºç¨å°ï¼ä¸æ¾ç¨è¿ä»æ³å¨äººçèº«ä¸ã"
-        six ""
-    
-    # game/princess.rpy:559
-    translate english ep2_1_8026acfa:
-    
-        # six "å¹³æ¥æå¨å¤©ä¸æ¯å¨å¤ªä¸èåé¨ä¸ä¸é¨æç®¡ä¸¹è¯åä»èã"
-        six ""
-    
-    # game/princess.rpy:560
-    translate english ep2_1_1d6bd0d1:
-    
-        # six "æä¸åé¿é½ååå¼æ­ï¼åå®¶äººä¹ç¸å¤èæ´½ãå¸å°å¾æå¦å­ï¼å¸åå¸å¼é½ä¸æå³ç³»çå¥½ã"
-        six ""
-    
-    # game/princess.rpy:561
-    translate english ep2_1_01bc5297:
-    
-        # six "å¨å¦æ­¤ç¯å¢ä¹ä¸ï¼æä»æªæ½å±æ³åæ¥æ©æ²»æ¶å¾ã"
-        six ""
-    
-    # game/princess.rpy:562
-    translate english ep2_1_03a2b7a0:
-    
-        # mc_1 "æä»¥å­éæä¸ç´ä¿æçä¸é¢èµ¤å­ä¹å¿ã"
-        mc_1 ""
-    
-    # game/princess.rpy:566
-    translate english ep2_3_5afd609b:
-    
-        # six "æ¢ç¶ä½ ç°å¨ç¥éææ¯ä»äººï¼é£æä¹ä¸å¿çä½ ãæçå¸å°åä»åæµ·æ¥å°è¥¿æ¢ï¼ææ³åºå®«å»è§ä»ã"
-        six ""
-    
-    # game/princess.rpy:567
-    translate english ep2_3_ed7890c3:
-    
-        # mc_1 " å¯ï¼ä½ è¯´è¦å¸¦è´ºç¤¼ç»ä»ãå°åºæ¯ä½ç©å?"
-        mc_1 ""
-    
-    # game/princess.rpy:568
-    translate english ep2_3_14ee90eb:
-    
-        # six "è æ¡ã"
-        six ""
-    
-    # game/princess.rpy:570
-    translate english ep2_3_9155ad30:
-    
-        # mc_1 "å¦ï¼å°±æ¯é£ä¸ªå¡äººåäºå¯ä»¥æä¿®ä¸ºçå®ç©ã"
-        mc_1 ""
-    
-    # game/princess.rpy:571
-    translate english ep2_3_8b9834de:
-    
-        # six "æ¯åï¼è æ¡è¦æ¯äºç¾å¹´æä¼æãå°±è¿å¯¹ä»å®¶æ¥è¯´ä¹æ¯ç¨æçå®ç©ã"
-        six ""
-    
-    # game/princess.rpy:573
-    translate english ep2_3_c010ceea:
-    
-        # mc_1 "é£ä½ å¸¦æå»è§è§ä½ çå¸å°å§ãæåªå¨ææ²éå¬è¿å¤ªä¸èåï¼å¯æ¯è¿æ²¡è§è¿ä»å¢ã"
-        mc_1 ""
-    
-    # game/princess.rpy:574
-    translate english ep2_3_03207b52:
-    
-        # six "åï¼è¿å¤ªåé©äºã"
-        six ""
-    
-    # game/princess.rpy:575
-    translate english ep2_3_b0f5a2a3:
-    
-        # mc_1 "ä½ ä»¬çº¦å¨åªéè§é¢åï¼èä¸æ¯ä¸æ¯å¸¦ç»ä»ç¤¼ç©ä¹åï¼ä½ å°±è¦åå¤©ä¸äº?"
-        mc_1 ""
-    
-    # game/princess.rpy:577
-    translate english ep2_3_5ea808f7:
-    
-        # six "æä»¬çº¦å¨å®¢æ è§é¢ï¼å¨å´çäººé½ä¹åªä¼ä»¥ä¸ºæä»¬æ¯å¡äººã"
-        six ""
-    
-    # game/princess.rpy:578
-    translate english ep2_3_99a43889:
-    
-        # six "å¸¦ç»å¸å°ç¤¼ç©åï¼æç¡®å®è¦åå¤©ä¸äºãé£ä¸ªæ¶åï¼å°±è¦åä½ éå«äºã"
-        six ""
-    
-    # game/princess.rpy:579
-    translate english ep2_3_dddec099:
-    
-        # mc_1 "ä½ è¿ä¹å¿«å°±è¦èµ°ï¼ä¸æ¬¡ä½ å°±å¸¦æå»è§ä½ çå¸ç¶å§ï¼ææ¯ä¸ä¼æ­ç©¿ä½ ä»¬çèº«ä»½ã"
-        mc_1 ""
-    
-    # game/princess.rpy:580
-    translate english ep2_3_bfec010e:
-    
-        # mc_1 "æè¿æ³åä½ éå«ï¼æè¿æ³ä¸ä½ å¨ä¸èµ·ä¹ä¸äºã"
-        mc_1 ""
-    
-    # game/princess.rpy:581
-    translate english ep2_3_078b68c4:
-    
-        # six "ï¼æäºè¢«æå¨ï¼é£å®¹æåæ³æ³å§ã"
-        six ""
-    
-    # game/princess.rpy:583
-    translate english ep2_3_3d7f0095:
-    
-        # "ä¸ä¹åæä»¬åèªåæ¿å°±å¯äºã"
-        ""
-    
-    # game/princess.rpy:584
-    translate english ep2_3_9b27ea83:
-    
-        # "ä»å¤©è¿ä¸å¤©æä»¥çç»åé½è®©æé¾ä»¥å¿è®°ã"
-        ""
-    
-    # game/princess.rpy:587
-    translate english ep2_3_88584bed:
-    
-        # "ä¸å¤©åï¼æç¨å®æ©è³ï¼å°±è¢«å«å°å¾¡è±å­å»ãå¬è¯´æ¯æä¸ªå¤§è£çå¿å­ä»å¤©è¦åæç¸äº²ã"
-        ""
-    
-    # game/princess.rpy:588
-    translate english ep2_3_a89894b4:
-    
-        # "ä»çç¶äº²æ¯é»é¨ä¾éã"
-        ""
-    
-    # game/princess.rpy:590
-    translate english ep2_3_e958fb33:
-    
-        # mc_1 "çä½ ç¸è²å å ï¼å«ä»ä¹åå­ï¼åªéäººå£«åï¼"
-        mc_1 ""
-    
-    # game/princess.rpy:592
-    translate english ep2_3_b8a28bc9:
-    
-        # w "å¾®è£åå«çæï¼ä»å°å°±å¨å¸é½éé¿å¤§ã"
-        w ""
-    
-    # game/princess.rpy:594
-    translate english ep2_3_06a65805:
-    
-        # mc_1 "å¯ï¼ä½ ä»å¤©æ¢æ¥è¿éç¸äº²ï¼æ³å¿ä½ ç¥éæ¬å¬ä¸»æ¯ä¸å¥½æ¹çã"
-        mc_1 ""
-    
-    # game/princess.rpy:595
-    translate english ep2_3_22b3896e:
-    
-        # mc_1 "ä½ å¯ç¥éè¥¿åçé©¸é©¬å¯ä¸å¥½å½?"
-        mc_1 ""
-    
-    # game/princess.rpy:597
-    translate english ep2_3_d8ed6701:
-    
-        # w "å¾®è£æç½å¬ä¸»æ³è¦æ¾å°ä¸ä¸ªè°¦åæç¤¼ï¼å­¦å¯äºè½¦çäººã"
-        w ""
-    
-    # game/princess.rpy:598
-    translate english ep2_3_87bd5f7d:
-    
-        # w "ä»å¹´æé«ä¸­ç¶åï¼å¾®è£ç¸ä¿¡ä¸å®è½èµ¢å¾å¬ä¸»éçã"
-        w ""
-    
-    # game/princess.rpy:600
-    translate english ep2_3_51e27a91:
-    
-        # mc_1 "å¼ï¼åæçé©¸é©¬åä¸æ¯è¿ç¿°æé¢æèå½ç¶åãè¯´è¯´ä½ ä¸ºä½æ³è¦åé©¸é©¬?"
-        mc_1 ""
-    
-    # game/princess.rpy:601
-    translate english ep2_3_b024da30:
-    
-        # w "å¬é»å¬ä¸»ç¾è²èä¸åæ¯ä¸ªç¹å«çå¥³å­ï¼å¾®è£ä»æ¥ä¸è§ï¼çæ¯åæ¬¢ã"
-        w ""
-    
-    # game/princess.rpy:602
-    translate english ep2_3_730e25a0:
-    
-        # mc_1 "æ¼äº®çå§å¨å¯å¤äºï¼è°ç¥éä½ æ¯ä¸æ¯è§ä¸ä¸ªç±ä¸ä¸ª?"
-        mc_1 ""
-    
-    # game/princess.rpy:603
-    translate english ep2_3_e3ee3acc:
-    
-        # mc_1 "ä¸å¦ï¼ä½ åå®«éçå¸¦åä¾å«æ¯è¯æ¯è¯ï¼è¥æ¯ä½ è½èµ¢ä»ï¼æä»¬åç»§ç»­èä¸å»ã"
-        mc_1 ""
-    
-    # game/princess.rpy:604
-    translate english ep2_3_eff2cfa1:
-    
-        # "ææ¬æ¯æ³åé¾è¿ä¸ªå¹´è½»çç·å­ï¼å¯æ¯æ²¡æ³å°ä»åä¸ä¸ªä¾å«è¿æä¹åå´æä¸¤ä¸å­ã"
-        ""
-    
-    # game/princess.rpy:606
-    translate english ep2_3_eafd2d70:
-    
-        # w "å¬ä¸»ï¼è¿åæä»¬æ¯å¦è½ç»§ç»­è?"
-        w ""
-    
-    # game/princess.rpy:607
-    translate english ep2_3_3b43454f:
-    
-        # mc_1 "ä½ æ­¦åä¸éï¼æ¯åè°å­¦ç?"
-        mc_1 ""
-    
-    # game/princess.rpy:608
-    translate english ep2_3_4994a096:
-    
-        # w "æçååï¼éå½å¤§å°å"
-        w ""
-    
-    # game/princess.rpy:609
-    translate english ep2_3_80535b5b:
-    
-        # mc_1 "å¹³æ¶åæ¬¢åä»ä¹?"
-        mc_1 ""
-    
-    # game/princess.rpy:610
-    translate english ep2_3_0fcaee59:
-    
-        # w "æ éå°±æ¯ç´æ£ä¹¦ç»ï¼èæå¼å¢¨"
-        w ""
-    
-    # game/princess.rpy:612
-    translate english ep2_3_a193e258:
-    
-        # mc_1 "å¯æéæ¢ç«¹é©¬? ä¹åæ¯å¦æå¿ä»ªä¹äºº?"
-        mc_1 ""
-    
-    # game/princess.rpy:613
-    translate english ep2_3_761dd019:
-    
-        # w "æ²¡æã"
-        w ""
-    
-    # game/princess.rpy:614
-    translate english ep2_3_f0bb6511:
-    
-        # "æ¬æ¥æå¯¹ä»çç­å¤æ¯ç®æ»¡æçï¼å¯æ¯è¿æ¶é¿è½©å´ææ­äºæã"
-        ""
-    
-    # game/princess.rpy:617
-    translate english ep2_3_6f65fb2d:
-    
-        # girl_1 "å¬ä¸»ï¼å©¢å­æå¬è¿äºãåæ®µæ¶é´çææåååäºå¥å©ï¼èä¸è¿æ¯å¨éæ¥¼éåçã"
-        girl_1 ""
-    
-    # game/princess.rpy:618
-    translate english ep2_3_fafb42cb:
-    
-        # mc_1 "ä»ä¹æ¯å¥å©å?"
-        mc_1 ""
-    
-    # game/princess.rpy:619
-    translate english ep2_3_5f909ebc:
-    
-        # girl_1 "å°±æ¯ä¸ºäºå®æé¬¼çµï¼åè¿ä¸çäººä¸èµ·æäº²ã"
-        girl_1 ""
-    
-    # game/princess.rpy:620
-    translate english ep2_3_32b8c2c7:
-    
-        # girl_1 "ä»¥åè¥æ¯çæåæäº²ï¼æ­»èä¸ºå¤§ï¼é£å°±ä»£è¡¨å¬ä¸»è¿è¦åå¦¾ï¼èä¸æ¯æ­£å¦»ã"
-        girl_1 ""
-    
-    # game/princess.rpy:621
-    translate english ep2_3_50fb2f4b:
-    
-        # girl_1 "å°±è¿ä»¥åä½ ççå­©å­é½å¾å«ä½ äºå¨åã"
-        girl_1 ""
-    
-    # game/princess.rpy:623
-    translate english ep2_3_5300b923:
-    
-        # mc_1 "ä»ä¹ï¼ï¼æ°æ­»æäºï¼è¿ä¸ªçæè¯´èªå·±æ²¡æå¿ä»ªä¹äººå´æåºæ¥å¥å©ï¼è¿è¦æåå°ï¼"
-        mc_1 ""
-    
-    # game/princess.rpy:625
-    translate english ep2_3_7409da8c:
-    
-        # w "ä¸ï¼å¬ä¸»æ¯è¯¯ä¼åãè¯¯ä¼ï¼"
-        w ""
-    
-    # game/princess.rpy:626
-    translate english ep2_3_bcdbc70b:
-    
-        # w "æå·²ç»ç»é£ä½å§å¨çå®¶äººä¸ç¬èç¤¼äºï¼è¿æ®µæ¶é´å°±åä»ä»¬åæ¶å©çº¦ã"
-        w ""
-    
-    # game/princess.rpy:628
-    translate english ep2_3_fe5a121d:
-    
-        # mc_1 "å¥½ä½ ä¸ªçæï¼æ¢å¨¶æ­»äººå½æ­£å¦»ï¼è¿ææºåå·§è¦æ¬å¬ä¸»ç»ä½ åå¦¾ã"
-        mc_1 ""
-    
-    # game/princess.rpy:629
-    translate english ep2_3_e7ae8573:
-    
-        # mc_1 "ç«æ¢éçè¿ä¹å¤§çäºæãæ¥äººåï¼æçæéæäºåå¤§æ¿ï¼åæåºå»ã"
-        mc_1 ""
-    
-    # game/princess.rpy:631
-    translate english ep2_3_0e7436f2:
-    
-        # w "å¬ä¸»ï¼å¤æåãæä¹æ¯é¼ä¸å¾å·²ï¼"
-        w ""
-    
-    # game/princess.rpy:633
-    translate english ep2_3_45e7892a:
-    
-        # mc_1 "è¿ä¸æä»å¸¦ä¸å»?!"
-        mc_1 ""
-    
-    # game/princess.rpy:634
-    translate english ep2_3_d7b3d704:
-    
-        # "ç°å¨æè¸å£ä¸å æç«ï¼ææ¾å¯¹è¿æ¬¡çç¸äº²å¾ä¸æ»¡æã"
-        ""
-    
-    # game/princess.rpy:635
-    translate english ep2_3_b462e627:
-    
-        # "æ¬æ¥ä»¥ä¸ºæ¾å°äºä¸ä¸ªè¿ä¸éçäººï¼åæ¥è¿æè¿ä¹å¤äºã"
-        ""
-    
-    # game/princess.rpy:636
-    translate english ep2_3_c8a19d0a:
-    
-        # "å¥ä½æè®¤è¯çäººä¹ä¸å¤ï¼å°åºå¦ä½æè½æ¾å°å¯¹çé©¸é©¬å¢?"
-        ""
-    
-    # game/princess.rpy:637
-    translate english ep2_3_4f0f244c:
-    
-        # "åªæä¸åå¤©äºåã"
-        ""
-    
-    # game/princess.rpy:640
-    translate english ep2_3_b92ded1d:
-    
-        # "äºæ¯æåä»¤ä¸å»è®©æ´ä¸ªè¥¿æ¢æªæå©çç·å­é½æ¥æµè¯ççè½ä¸è½åé©¸é©¬ã"
-        ""
-    
-    # game/princess.rpy:641
-    translate english ep2_3_a98dd4e1:
-    
-        # "è½ç¶ä¸è½å¼ºè¿«è®©ç·å­æ¥æ¥åï¼ä½æ¯æ¥åçäººé½è½å¾å°ä¸ç¬é±ã"
-        ""
-    
-    # game/princess.rpy:642
-    translate english ep2_3_1b0326f2:
-    
-        # "å¯æ¯è¿å¶å®ææ¯å©æ¢¦çå¼å§ã"
-        ""
-    
-    # game/princess.rpy:644
-    translate english ep2_3_027645c7:
-    
-        # "æä½ä¼°äºåèµèä»¬çæå¾ï¼å¥½å¤äººå¶å®åªæ¯ä¸ºäºé±æè¸è·åå å¾éé©¸é©¬çæ¯èµã"
-        ""
-    
-    # game/princess.rpy:645
-    translate english ep2_3_0563ed8f:
-    
-        # "ä¸å°ä¸å¤©ï¼çåå¤å°±æ¤æ»¡äºä¸å é¢å¼ä¸è¿å³çå¤è£ç·å­ã"
-        ""
-    
-    # game/princess.rpy:646
-    translate english ep2_3_b671161c:
-    
-        # "å¤©åï¼æçå¿é¡¿è¦æ¶©äºï¼è¿è¦æä¹éé©¸é©¬å?"
-        ""
-    
-    # game/princess.rpy:648
-    translate english ep2_3_45367111:
-    
-        # mc_1 " è¿æåªä½å¬å­æ²¡æ¥åï¼ä¹åå¿äºè¯´ï¼è¥æ¥åèæ¯ç¾å°å¹´çè¯è¿å¯ä»¥åå 100ä¸¤é¶å­ã"
-        mc_1 ""
-    
-    # game/princess.rpy:650
-    translate english ep2_3_bb41431c:
-    
-        # girl_2 "çç?å¬ä¸»å³ä¸é£è¨?"
-        girl_2 ""
-    
-    # game/princess.rpy:652
-    translate english ep2_3_8dd42a49:
-    
-        # mc_1 "å¬ä¸»ä¸è¨ï¼é©·é©¬é¾è¿½ã"
-        mc_1 ""
-    
-    # game/princess.rpy:654
-    translate english ep2_3_2b5bbe59:
-    
-        # girl_2 "ææ¿å ä¸ªäººæ¥åï¼ä»ä»¬éåå°±å°ã"
-        girl_2 ""
-    
-    # game/princess.rpy:656
-    translate english ep2_3_251b9299:
-    
-        # mc_1 "ï¼ççå¨å´çç·å­ï¼è¦ç¬ï¼éä¾¿å§ï¼è³å°ä¸è¦æ¯ä»ä»¬è¿è®©äººæ è¯­å°±å¥½ã"
-        mc_1 ""
-    
-    # game/princess.rpy:658
-    translate english ep2_3_1e42c27e:
-    
-        # "ä¸å°åå»ï¼ççæä¸ä¸ªå°å¹´æ¥çååå äºãè¯¶ï¼ä»ä»¬ä¸æ¯å­éçå¥å¥ä»¬åï¼"
-        ""
-    
-    # game/princess.rpy:659
-    translate english ep2_3_ae4f5ab6:
-    
-        # "ä¸æ³¢æªå¹³ï¼ä¸æ³¢åèµ·ãè½ç¶è¿äºç·å­ä¸ä¸ªä¸ªè±ä¿æ æ¯ï¼å¯æ¯ä»ä»¬å¯æ¯å¤©ä¸çä»åã"
-        ""
-    
-    # game/princess.rpy:660
-    translate english ep2_3_9b7879bf:
-    
-        # "è¿æ²¡ç­æåè¿ç¥æ¥ï¼ææè¢«éä¸çç·å­é½å·²ç»åä¸æ¥äºã"
-        ""
-    
-    # game/princess.rpy:662
-    translate english ep2_3_b36b7a3c:
-    
-        # p1 "ç´ é»å¬ä¸»æçå¾å½å¾åçå®¹è²ï¼ä»æ¥æç­ä¸è§ï¼çæ¯ä¸çæå¹¸åã"
-        p1 ""
-    
-    # game/princess.rpy:663
-    translate english ep2_3_21b38be4:
-    
-        # p2 "æ¯åï¼å¨¶å¦»å°±è¦å¨¶å¬ä¸»ã"
-        p2 ""
-    
-    # game/princess.rpy:664
-    translate english ep2_3_39aa5640:
-    
-        # p1 "æè¯´éæ¦é¢åæ¯å°ç»ç§ï¼å¨¶å°å¬ä¸»ææ¯å¤§ç»ç§ã"
-        p1 ""
-    
-    # game/princess.rpy:666
-    translate english ep2_3_685c3533:
-    
-        # p2 "ï¼éåï¼ä¿å®¶å«å½æ¯å°äºå¿ï¼å¨¶å¬ä¸»æ¯å¤§äºå¿ã"
-        p2 ""
-    
-    # game/princess.rpy:668
-    translate english ep2_3_4ed3ff8a:
-    
-        # "ä¸ä¸ªå£°é³ä»äººç¾¤éä¼ æ¥ï¼\"åæ¥å½é©¸é©¬è¿å¾ä¼æé©¬å±åï¼\""
-
-File "game/tl/english/script.rpy", line 4763: is not terminated with a newline. (Check strings and parenthesis.)
-(Perhaps you left out a " at the end of the first line.)
-        "Sometimes silence is better than a thousand spoken words.
+primary display bounds: (0, 0, 1600, 900)
+swap interval: 1 frames
+Windowed mode.
+Screen sizes: virtual=(960, 540) physical=(1419, 798) drawable=(1419, 798)
+Vendor: 'Intel'
+Renderer: 'Intel(R) HD Graphics 5500'
+Version: '4.4.0 - Build 20.19.15.4549'
+Display Info: <Info({'blit_sw_CC': False, 'refresh_rate': 60, 'bitsize': 32, 'wm': True, 'losses': (0, 0, 0, 8), 'hw': False, 'masks': (16711680L, 65280L, 255L, 0L), 'current_h': 900, 'current_w': 1600, 'shifts': (16, 8, 0, 0), 'blit_sw_A': False, 'blit_hw': False, 'blit_sw': False, 'bytesize': 4, 'blit_hw_CC': False, 'blit_hw_A': False, 'video_mem': 268435456})>
+Fixed-function is blacklisted.
+Extensions:
+    
+    GL_3DFX_texture_compression_FXT1
+    GL_AMD_vertex_shader_layer
+    GL_AMD_vertex_shader_viewport_index
+    GL_ARB_ES2_compatibility
+    GL_ARB_ES3_compatibility
+    GL_ARB_arrays_of_arrays
+    GL_ARB_base_instance
+    GL_ARB_blend_func_extended
+    GL_ARB_buffer_storage
+    GL_ARB_cl_event
+    GL_ARB_clear_buffer_object
+    GL_ARB_clear_texture
+    GL_ARB_clip_control
+    GL_ARB_color_buffer_float
+    GL_ARB_compatibility
+    GL_ARB_compressed_texture_pixel_storage
+    GL_ARB_compute_shader
+    GL_ARB_conservative_depth
+    GL_ARB_copy_buffer
+    GL_ARB_copy_image
+    GL_ARB_debug_output
+    GL_ARB_depth_buffer_float
+    GL_ARB_depth_clamp
+    GL_ARB_depth_texture
+    GL_ARB_draw_buffers
+    GL_ARB_draw_buffers_blend
+    GL_ARB_draw_elements_base_vertex
+    GL_ARB_draw_indirect
+    GL_ARB_draw_instanced
+    GL_ARB_enhanced_layouts
+    GL_ARB_explicit_attrib_location
+    GL_ARB_explicit_uniform_location
+    GL_ARB_fragment_coord_conventions
+    GL_ARB_fragment_layer_viewport
+    GL_ARB_fragment_program
+    GL_ARB_fragment_program_shadow
+    GL_ARB_fragment_shader
+    GL_ARB_fragment_shader_interlock
+    GL_ARB_framebuffer_no_attachments
+    GL_ARB_framebuffer_object
+    GL_ARB_framebuffer_sRGB
+    GL_ARB_geometry_shader4
+    GL_ARB_get_program_binary
+    GL_ARB_gpu_shader5
+    GL_ARB_gpu_shader_fp64
+    GL_ARB_half_float_pixel
+    GL_ARB_half_float_vertex
+    GL_ARB_indirect_parameters
+    GL_ARB_instanced_arrays
+    GL_ARB_internalformat_query
+    GL_ARB_internalformat_query2
+    GL_ARB_invalidate_subdata
+    GL_ARB_map_buffer_alignment
+    GL_ARB_map_buffer_range
+    GL_ARB_multi_bind
+    GL_ARB_multi_draw_indirect
+    GL_ARB_multisample
+    GL_ARB_multitexture
+    GL_ARB_occlusion_query
+    GL_ARB_occlusion_query2
+    GL_ARB_pixel_buffer_object
+    GL_ARB_point_parameters
+    GL_ARB_point_sprite
+    GL_ARB_program_interface_query
+    GL_ARB_provoking_vertex
+    GL_ARB_query_buffer_object
+    GL_ARB_robust_buffer_access_behavior
+    GL_ARB_robustness
+    GL_ARB_sample_shading
+    GL_ARB_sampler_objects
+    GL_ARB_seamless_cube_map
+    GL_ARB_seamless_cubemap_per_texture
+    GL_ARB_separate_shader_objects
+    GL_ARB_shader_atomic_counters
+    GL_ARB_shader_bit_encoding
+    GL_ARB_shader_image_load_store
+    GL_ARB_shader_image_size
+    GL_ARB_shader_objects
+    GL_ARB_shader_precision
+    GL_ARB_shader_storage_buffer_object
+    GL_ARB_shader_subroutine
+    GL_ARB_shading_language_100
+    GL_ARB_shading_language_420pack
+    GL_ARB_shading_language_packing
+    GL_ARB_shadow
+    GL_ARB_stencil_texturing
+    GL_ARB_sync
+    GL_ARB_tessellation_shader
+    GL_ARB_texture_barrier
+    GL_ARB_texture_border_clamp
+    GL_ARB_texture_buffer_object_rgb32
+    GL_ARB_texture_buffer_range
+    GL_ARB_texture_compression
+    GL_ARB_texture_compression_bptc
+    GL_ARB_texture_compression_rgtc
+    GL_ARB_texture_cube_map
+    GL_ARB_texture_cube_map_array
+    GL_ARB_texture_env_add
+    GL_ARB_texture_env_combine
+    GL_ARB_texture_env_crossbar
+    GL_ARB_texture_env_dot3
+    GL_ARB_texture_float
+    GL_ARB_texture_gather
+    GL_ARB_texture_mirror_clamp_to_edge
+    GL_ARB_texture_mirrored_repeat
+    GL_ARB_texture_multisample
+    GL_ARB_texture_non_power_of_two
+    GL_ARB_texture_query_levels
+    GL_ARB_texture_query_lod
+    GL_ARB_texture_rectangle
+    GL_ARB_texture_rg
+    GL_ARB_texture_rgb10_a2ui
+    GL_ARB_texture_stencil8
+    GL_ARB_texture_storage
+    GL_ARB_texture_storage_multisample
+    GL_ARB_texture_swizzle
+    GL_ARB_texture_view
+    GL_ARB_timer_query
+    GL_ARB_transform_feedback2
+    GL_ARB_transform_feedback3
+    GL_ARB_transform_feedback_instanced
+    GL_ARB_transpose_matrix
+    GL_ARB_uniform_buffer_object
+    GL_ARB_vertex_array_bgra
+    GL_ARB_vertex_array_object
+    GL_ARB_vertex_attrib_64bit
+    GL_ARB_vertex_attrib_binding
+    GL_ARB_vertex_buffer_object
+    GL_ARB_vertex_program
+    GL_ARB_vertex_shader
+    GL_ARB_vertex_type_10f_11f_11f_rev
+    GL_ARB_vertex_type_2_10_10_10_rev
+    GL_ARB_viewport_array
+    GL_ARB_window_pos
+    GL_ATI_separate_stencil
+    GL_EXT_abgr
+    GL_EXT_bgra
+    GL_EXT_blend_color
+    GL_EXT_blend_equation_separate
+    GL_EXT_blend_func_separate
+    GL_EXT_blend_minmax
+    GL_EXT_blend_subtract
+    GL_EXT_clip_volume_hint
+    GL_EXT_compiled_vertex_array
+    GL_EXT_direct_state_access
+    GL_EXT_draw_buffers2
+    GL_EXT_draw_range_elements
+    GL_EXT_fog_coord
+    GL_EXT_framebuffer_blit
+    GL_EXT_framebuffer_multisample
+    GL_EXT_framebuffer_object
+    GL_EXT_geometry_shader4
+    GL_EXT_gpu_program_parameters
+    GL_EXT_gpu_shader4
+    GL_EXT_multi_draw_arrays
+    GL_EXT_packed_depth_stencil
+    GL_EXT_packed_float
+    GL_EXT_packed_pixels
+    GL_EXT_polygon_offset_clamp
+    GL_EXT_rescale_normal
+    GL_EXT_secondary_color
+    GL_EXT_separate_specular_color
+    GL_EXT_shader_integer_mix
+    GL_EXT_shadow_funcs
+    GL_EXT_stencil_two_side
+    GL_EXT_stencil_wrap
+    GL_EXT_texture3D
+    GL_EXT_texture_array
+    GL_EXT_texture_compression_s3tc
+    GL_EXT_texture_edge_clamp
+    GL_EXT_texture_env_add
+    GL_EXT_texture_env_combine
+    GL_EXT_texture_filter_anisotropic
+    GL_EXT_texture_integer
+    GL_EXT_texture_lod_bias
+    GL_EXT_texture_rectangle
+    GL_EXT_texture_sRGB
+    GL_EXT_texture_sRGB_decode
+    GL_EXT_texture_shared_exponent
+    GL_EXT_texture_snorm
+    GL_EXT_texture_storage
+    GL_EXT_texture_swizzle
+    GL_EXT_timer_query
+    GL_EXT_transform_feedback
+    GL_IBM_texture_mirrored_repeat
+    GL_INTEL_fragment_shader_ordering
+    GL_INTEL_map_texture
+    GL_INTEL_performance_query
+    GL_KHR_blend_equation_advanced
+    GL_KHR_debug
+    GL_NV_blend_square
+    GL_NV_conditional_render
+    GL_NV_primitive_restart
+    GL_NV_texgen_reflection
+    GL_SGIS_generate_mipmap
+    GL_SGIS_texture_edge_clamp
+    GL_SGIS_texture_lod
+    GL_SUN_multi_draw_arrays
+    GL_WIN_swap_hint
+Number of texture units: 8
+Using shader environment.
+Using copy RTT.
+Using gl renderer.
+Texture testing:
+- Hardware max texture size: 16384
+- 64px textures work.
+- 128px textures work.
+- 256px textures work.
+- 512px textures work.
+- 1024px textures work.
+- 2048px textures work.
+Total time until interface ready: 4.88000011444s
+- Target is 5 frames in 0.333
