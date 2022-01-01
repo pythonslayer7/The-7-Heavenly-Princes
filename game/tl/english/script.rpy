@@ -283,7 +283,7 @@ translate english scene1_2_7e3fc45a:
 translate english scene1_2_d3aaae63:
 
     # mc "（抓住袖子）若是我是一个平凡的女人，就算是潜水也要把你从龙宫带出来。绝不让你娶东海九公主。"
-    mc "(Holding onto his sleeve) If I am just an ordinary woman, I would dive into the Dragon Palace and take you away. I will never let you marry the 9th princess of the East China Sea."
+    mc "(Holding onto his sleeve) If I was an ordinary woman, I would dive into the Dragon Palace and take you away. I will never let you marry the 9th princess of the East China Sea."
 
 # game/script.rpy:123
 translate english scene1_2_8471e897:
@@ -4594,451 +4594,513 @@ translate english a_3_a6efda4f:
 translate english a_4_9_f2919278:
 
     # "今夜的雷雨交加，电闪雷鸣使我久久不能入睡。雨滴拍打着阶梯的石板上，随着风吹，都快打湿了窗外的薄纸。"
-    "今夜的雷雨交加，电闪雷鸣使我久久不能入睡。雨滴拍打着阶梯的石板上，随着风吹，都快打湿了窗外的薄纸。"
+    "There's a thunderstorm tonight. "
+    "The thunder and lightning won't let me rest. "
+    "The heavy raindrops continuously beat the stone stairs and with the help of the wind, they almost wet the paper windows outside."
 
 # game/script.rpy:777
 translate english a_4_9_73f15cff:
 
     # "晶莹剔透的雨珠犹如千万颗点缀在黑夜之上的星星，默默发亮。彻夜难眠，我觉得这刺眼的闪电一闪一闪的，加上大风刮开了窗子更让自己有些害怕。"
-    "晶莹剔透的雨珠犹如千万颗点缀在黑夜之上的星星，默默发亮。彻夜难眠，我觉得这刺眼的闪电一闪一闪的，加上大风刮开了窗子更让自己有些害怕。"
+    "The crystal raindrops glow like a thousand stars scattered in the night. "
+    "I can’t sleep with the constant flashes and rumblings."
+    "A strong wind busts the window open, scaring me even more."
 
 # game/script.rpy:778
 translate english a_4_9_630e515e:
 
     # "很快房间里的灯火被强烈的风给熄灭了。我该怎么办？ "
-    "很快房间里的灯火被强烈的风给熄灭了。我该怎么办？ "
+    "In an instant, the lights are gone and everything is pitch black. "
+    "What should I do? "
 
 # game/script.rpy:783
 translate english a_4_9_fac493aa:
 
     # "虽然有些害怕，我不愿麻烦宫人。独自一人在这个可怕的夜晚度过了。"
-    "虽然有些害怕，我不愿麻烦宫人。独自一人在这个可怕的夜晚度过了。"
+    "Even though I am a little scared, I don’t want to bother the people in the court."
+    "So, I spent the terrible night alone."
 
 # game/script.rpy:786
 translate english a_4_10a_5708c85c:
 
     # mc_1 "(声音颤抖) 快来人!"
-    mc_1 "(声音颤抖) 快来人!"
+    mc_1 "Call someone-"
 
 # game/script.rpy:787
 translate english a_4_10a_684ed9f0:
 
     # "这时，一盏明灯从远处慢慢的带来了光明。只看着地上拉长的影子，我扯紧了手里的被子，遮住了自己的眼睛。"
-    "这时，一盏明灯从远处慢慢的带来了光明。只看着地上拉长的影子，我扯紧了手里的被子，遮住了自己的眼睛。"
+    "Then, in the distance, a bright light starts making its way towards where I am. "
+    "Seeing the looming shadow on the ground, I tightened my grip on my quilt and covered my eyes"
 
 # game/script.rpy:788
 translate english a_4_10a_e1aec23a:
 
     # "接着我听到了屋子里的人关窗户的声音，他小心翼翼的走近了我的床榻。"
-    "接着我听到了屋子里的人关窗户的声音，他小心翼翼的走近了我的床榻。"
+    "Soon, I could hear the sound of someone closing the window in the room and coming towards me."
 
 # game/script.rpy:789
 translate english a_4_10a_969a43a8:
 
     # "脚步声离我越来越近，我也慢慢的放下了挡住视线的金丝纯棉被子。"
-    "脚步声离我越来越近，我也慢慢的放下了挡住视线的金丝纯棉被子。"
+    "As the footsteps get closer, I slowly lower the golden, silk quilt that is blocking my vision."
 
 # game/script.rpy:790
 translate english a_4_10a_bd86550b:
 
     # "六郎放下了烛火，先是对我温柔一笑，接着轻手轻脚地走到了我的榻前。"
-    "六郎放下了烛火，先是对我温柔一笑，接着轻手轻脚地走到了我的榻前。"
+    "Liu Lang sat the candle down, chuckled softly at me and walked over to the bed."
 
 # game/script.rpy:791
 translate english a_4_10a_b23e23cc:
 
     # mc_1 "怎么是你？"
-    mc_1 "怎么是你？"
+    mc_1 "Why are you here?"
 
 # game/script.rpy:792
 translate english a_4_10a_b03fb398:
 
     # six "(擦了擦我额头上的汗珠) 阿轩姐姐说你最害怕闪电打雷。她今晚受了风寒，不能来照顾你。我在偏殿听到你的声音就来了。"
-    six "(擦了擦我额头上的汗珠) 阿轩姐姐说你最害怕闪电打雷。她今晚受了风寒，不能来照顾你。我在偏殿听到你的声音就来了。"
+    six "(Wiping the beads of sweat from my forehead) Ah-Xuan said your biggest fear is thunder and lightning."
+    six "She has a cold and can’t take care of you tonight."
+    six "I came as soon as I heard your voice."
 
 # game/script.rpy:793
 translate english a_4_10a_f65f0772:
 
     # mc_1 "(看着他单薄的白色衣衫，面色发红) 可是男女有别。本宫可不想其他人说闲话。"
-    mc_1 "(看着他单薄的白色衣衫，面色发红) 可是男女有别。本宫可不想其他人说闲话。"
+    mc_1 "(Looking at his thin, white shirt, blushing) But men and women… are different."
+    mc_1 "I don’t want others to gossip."
 
 # game/script.rpy:794
 translate english a_4_10a_03b4732c:
 
     # six "(有些无奈)哦，说到这个，你竟然说我是宦官。"
-    six "(有些无奈)哦，说到这个，你竟然说我是宦官。"
+    six "(Somewhat helplessly) Oh, well about that, you actually said I was an eunuch, remember?"
 
 # game/script.rpy:795
 translate english a_4_10a_e5ac2d6f:
 
     # mc_1 "哈哈，那是因为国师突然问起嘛。"
-    mc_1 "哈哈，那是因为国师突然问起嘛。"
+    mc_1 "Haha, that was because the Prime Minister asked so unexpectedly."
 
 # game/script.rpy:796
 translate english a_4_10a_068f6594:
 
     # "就在这时，阵阵雷声吓到了我，不禁让我下意识的抓住了他的手。"
-    "就在这时，阵阵雷声吓到了我，不禁让我下意识的抓住了他的手。"
+    "Suddenly, a loud thunder clapped close by, terrifying me."
+    "Without thinking, I grabbed his hand."
 
 # game/script.rpy:797
 translate english a_4_10a_dc2ce1d5:
 
     # six "(握住我的手)不必害怕，这打雷下雨都是雷神电母和龙王的责任。"
-    six "(握住我的手)不必害怕，这打雷下雨都是雷神电母和龙王的责任。"
+    six "(Holding my hand in his) Don’t be afraid. "
+    six "The god of thunder and Dragon King are in charge of the thunder and the lightning."
 
 # game/script.rpy:798
 translate english a_4_10a_1cd2bdb5:
 
     # mc_1 "小傻子，怎么又说起鬼神之谈了？"
-    mc_1 "小傻子，怎么又说起鬼神之谈了？"
+    mc_1 "Oh silly thing, why are you talking about mythical beings again?"
 
 # game/script.rpy:799
 translate english a_4_10a_0e0aaba8:
 
     # six "我说的是实话。"
-    six "我说的是实话。"
+    six "I'm telling the truth."
 
 # game/script.rpy:800
 translate english a_4_10a_6544da3a:
 
     # mc_1 "不如你给我讲故事吧! 这雷声吵得我睡不着觉，正好有你给我解闷呢。"
-    mc_1 "不如你给我讲故事吧! 这雷声吵得我睡不着觉，正好有你给我解闷呢。"
+    mc_1 "I know! Why don't you tell me a story? "
+    mc_1 "The storm makes me restless, so I'm not going to get any sleep."
+    mc_1 "Since you are here, you can distract me from the storm."
 
 # game/script.rpy:801
 translate english a_4_10a_d97b5e73:
 
     # six "哦，那就讲讲我师父去青龙潭捉到魔龙的故事吧。青龙潭早些年尸横遍野，因为里面住的魔龙常常捕捉凡人来吃—"
-    six "哦，那就讲讲我师父去青龙潭捉到魔龙的故事吧。青龙潭早些年尸横遍野，因为里面住的魔龙常常捕捉凡人来吃—"
+    six "Eh, okay. Let me tell you of a time when my master went to The Pond of Blue Dragon to catch a dragon demon. "
+    six "It was a wild place in the past because of a magical dragon that lived there. "
+    six "The dragon often captured the mortals to eat--"
 
 # game/script.rpy:802
 translate english a_4_10a_1bcc7816:
 
     # "这回闪电直接瞬间闪过屋子里，伴随着渗人的雷鸣，我害怕的躲进了他的怀里。"
-    "这回闪电直接瞬间闪过屋子里，伴随着渗人的雷鸣，我害怕的躲进了他的怀里。"
+    "A flash of lightning raced through the room, synchronizing with a crash of thunder!"
+    "I buried myself deep in his arms in fear."
 
 # game/script.rpy:803
 translate english a_4_10a_a6f836a4:
 
     # "下一秒迎接的是倾盆大雨哗哗刷着殿外的声音。隔着他温暖的衣衫，我似乎好像能感受到怦然心动的感觉。"
-    "下一秒迎接的是倾盆大雨哗哗刷着殿外的声音。隔着他温暖的衣衫，我似乎好像能感受到怦然心动的感觉。"
+    "The next second was greeted by the sound of cascading rains, flooding the palace floor outside. "
+    "Through the warmth of his garment, my heart has skipped a beat."
 
 # game/script.rpy:804
 translate english a_4_10a_f7598588:
 
     # "空气中弥漫的是尘土和花粉的香气，使人感到陶醉。他不再陈述故事，而是无声的搂住了我。"
-    "空气中弥漫的是尘土和花粉的香气，使人感到陶醉。他不再陈述故事，而是无声的搂住了我。"
+    "The smell of dust and pollen in the air can be mesmerizing. He stopped telling the story and held me in silence. "
+    
 
 # game/script.rpy:805
 translate english a_4_10a_132837e3:
 
     # "随着风吹，屋子里的烛火时而明亮时而快被吞噬。"
-    "随着风吹，屋子里的烛火时而明亮时而快被吞噬。"
+    "The candlelight seemed to dance with the wind, synchronizing their flow"
+    "brightening, then dimming the light in the room."
 
 # game/script.rpy:806
 translate english a_4_10a_4bec1af6:
 
     # "我抬眸与他相望却被这暧昧的气氛感染，久久相对无言却又胜过千言万语。"
-    "我抬眸与他相望却被这暧昧的气氛感染，久久相对无言却又胜过千言万语。"
+    "When I raised my eyes to look up at him, the warmth of the atmosphere engulfed me."
+    "I am without words, but certain things are better left unsaid."
+    "Sometimes silence is better than a thousand spoken words.
 
 # game/script.rpy:807
 translate english a_4_10a_76412b35:
 
     # "他突然按住我的手腕，神情好似是压抑着一些我不明白的情感。身体倾斜，他慢慢地离我越来越近。"
-    "他突然按住我的手腕，神情好似是压抑着一些我不明白的情感。身体倾斜，他慢慢地离我越来越近。"
+    "Unexpectedly, grasped my wrist tightly, his expression suppressing hidden emotions I didn't quite understand."
+    "Leaning in, he's trying to close space between us."
 
 # game/script.rpy:808
 translate english a_4_10a_2639e276:
 
     # "被烛火照耀着的六郎看起来有些迷人，在朦胧的视线下看起来有着羞涩却认真男子的模样。"
-    "被烛火照耀着的六郎看起来有些迷人，在朦胧的视线下看起来有着羞涩却认真男子的模样。"
+    "Illuminated by the flickering candlelight, Liu Lang looked a little charming. "
+    "He had the appearance of being vulnerable, yet serious, under the dim lighting. "
 
 # game/script.rpy:809
 translate english a_4_10a_9c7fadf1:
 
     # "我应该-"
-    "我应该-"
+    "I should-"
 
 # game/script.rpy:812
 translate english a_4_10a_63287353:
 
     # "六郎好感+5"
-    "六郎好感+5"
+    "Liu Lang affinity points +5"
 
 # game/script.rpy:813
 translate english a_4_10a_5d3514f4:
 
     # "明明近在咫尺，就连他指尖的温度也烫过了我的手腕。可这凉风又把窗子推开，让我们双双睁开眼，突然转身又分离了。"
-    "明明近在咫尺，就连他指尖的温度也烫过了我的手腕。可这凉风又把窗子推开，让我们双双睁开眼，突然转身又分离了。"
+    "Dangerously close, even the warmth of his fingertips burned my wrist."
+    "A strong gust of wind opened the window again."
+    "As we opened our eyes, we quickly turned and separated."
 
 # game/script.rpy:814
 translate english a_4_10a_3e9b8781:
 
     # six "我虽在老君身边修炼百年，但也是终日与丹药和炼丹炉打交道。虽说明白人间情意，却不曾自身体会。"
-    six "我虽在老君身边修炼百年，但也是终日与丹药和炼丹炉打交道。虽说明白人间情意，却不曾自身体会。"
+    six "In the centuries that I have been cultivating with my grandmaster, I have dealt with elixirs and alchemy furnaces all day long. "
+    six "Even though I am aware of human affections, I’ve never experienced it myself."
 
 # game/script.rpy:815
 translate english a_4_10a_bec719f9:
 
     # "我顾不得这个小傻子又在胡说些什么，只是对他的行为有些不解。"
-    "我顾不得这个小傻子又在胡说些什么，只是对他的行为有些不解。"
+    "I don’t really care what nonsense this little fool is talking about, his behavior is somewhat puzzling."
 
 # game/script.rpy:816
 translate english a_4_10a_4f2ccb71:
 
     # mc_1 "那方才。。。你-"
-    mc_1 "那方才。。。你-"
+    mc_1 "Just now… You-"
 
 # game/script.rpy:817
 translate english a_4_10a_2ad84afa:
 
     # six "方才是六郎动了凡心。是公主让我动了凡心。"
-    six "方才是六郎动了凡心。是公主让我动了凡心。"
+    six "Just now, it was me, who had his heart moved. Princess, you made my heart flutter."
 
 # game/script.rpy:818
 translate english a_4_10a_950fc7c3:
 
     # mc_1 "（脸红）若是如此，那该如何是好？"
-    mc_1 "（脸红）若是如此，那该如何是好？"
+    mc_1 "(Blushing) If so, what should I do?"
 
 # game/script.rpy:819
 translate english a_4_10a_1be4542b:
 
     # six "（想到些什么）我该听从师父教诲，若是心乱了就要虔心打坐"
-    six "（想到些什么）我该听从师父教诲，若是心乱了就要虔心打坐"
+    six "(Thinking of something) I should follow the master’s teachings."
+    six "If my heart is not at peace, I should meditate."
 
 # game/script.rpy:820
 translate english a_4_10a_a0f6c067:
 
     # mc_1 "你在想什么呢？"
-    mc_1 "你在想什么呢？"
+    mc_1 "What are you thinking about?"
 
 # game/script.rpy:821
 translate english a_4_10a_f5ab38f8:
 
     # six "天意不可违背，刚才是六郎唐突了。今晚的雷雨一定是上天在警告我，不得思凡。"
-    six "天意不可违背，刚才是六郎唐突了。今晚的雷雨一定是上天在警告我，不得思凡。"
+    six "I cannot go against the will of the gods, just now, I was too impulsive."
+    six "The thunderstorm tonight must be a warning from the heavens."
+    six "How can a deity fall in love with a mortal?"
 
 # game/script.rpy:822
 translate english a_4_10a_fad54f4a:
 
     # mc_1 "小傻子，你还是别胡思乱想了。"
-    mc_1 "小傻子，你还是别胡思乱想了。"
+    mc_1 "Silly, you're always overthinking about some nonsense."
 
 # game/script.rpy:823
 translate english a_4_10a_870b1e52:
 
     # six "公主说得对，若是我还留在你的寝宫一定会胡思乱想。六郎还是先行告退。"
-    six "公主说得对，若是我还留在你的寝宫一定会胡思乱想。六郎还是先行告退。"
+    six "You are right, if I were to stay in your bedroom, I am sure to do something foolish."
+    six "I will take my leave."
 
 # game/script.rpy:824
 translate english a_4_10a_d81f8afe:
 
     # "不等我说下一句话，他已经起身离开。"
-    "不等我说下一句话，他已经起身离开。"
+    "Before I could say another word, he was up and gone."
 
 # game/script.rpy:827
 translate english a_4_10a_aa5ce894:
 
     # "我一动不动的看着他，并没有期待什么。他的眼睛里有着我看不明白的神情，还没等他靠近，我就打破了屋子里的沉寂。"
-    "我一动不动的看着他，并没有期待什么。他的眼睛里有着我看不明白的神情，还没等他靠近，我就打破了屋子里的沉寂。"
+    "I watched him, and didn't move an inch, not expecting anything from him."
+    "There was a look in his eyes that I couldn't understand. "
+    "Before he could get too close, I broke the silence."
 
 # game/script.rpy:828
 translate english a_4_10a_971ccb41:
 
     # mc_1 "小傻子，你为什么盯着我看？"
-    mc_1 "小傻子，你为什么盯着我看？"
+    mc_1 "Silly thing, why are you staring at me like that?"
 
 # game/script.rpy:829
 translate english a_4_10a_daa0e79f:
 
     # six "因为公主是我在人间看见最美丽，心善的人。"
-    six "因为公主是我在人间看见最美丽，心善的人。"
+    six "Because you are the most beautiful and kind-hearted person I have ever seen."
 
 # game/script.rpy:830
 translate english a_4_10a_abcc805e:
 
     # mc_1 "（被逗笑）难道比仙女还美？"
-    mc_1 "（被逗笑）难道比仙女还美？"
+    mc_1 "(Amused) Hmm, even more beautiful than fairies?"
 
 # game/script.rpy:831
 translate english a_4_10a_f6139f67:
 
     # six "嗯，比仙女还美。"
-    six "嗯，比仙女还美。"
+    six "Okay, more beautiful than fairies."
 
 # game/script.rpy:832
 translate english a_4_10a_2e715423:
 
     # mc_1 "那好，现在仙女要就寝了，明日再与我相谈吧。"
-    mc_1 "那好，现在仙女要就寝了，明日再与我相谈吧。"
+    mc_1 "Well, right now this fairy wants to go to bed, let’s talk tomorrow."
 
 # game/script.rpy:833
 translate english a_4_10a_15376c9c:
 
     # "他点点头，有些失落的离开了。"
-    "他点点头，有些失落的离开了。"
+    "He nodded, somewhat disappointed, and left."
 
 # game/script.rpy:836
 translate english a_4_11_bfbfd40a:
 
     # "一夜未眠，我听着雨声直到早晨。 久久不见我的侍女，我打算去看看她。"
-    "一夜未眠，我听着雨声直到早晨。 久久不见我的侍女，我打算去看看她。"
+    "I stayed up all night and listened to the rain until morning. "
+    "It's been a while since I last saw my assistant, so I plan to go visit her."
 
 # game/script.rpy:837
 translate english a_4_11_f0476369:
 
     # "一个人影飘过阁楼之上，我低头一看，才发现地上的血迹"
-    "一个人影飘过阁楼之上，我低头一看，才发现地上的血迹"
+    "A shadow passes above in the attic. "
+    "On the ground, I notice there is blood. " 
 
 # game/script.rpy:838
 translate english a_4_11_97565937:
 
     # "难道是在祭祀？ 不可能，今日不是祭祀的时间。"
-    "难道是在祭祀？ 不可能，今日不是祭祀的时间。"
+    "Are they performing sacrifices? Impossible, today isn't a day of sacrifice.""
 
 # game/script.rpy:839
 translate english a_4_11_d75ef9df:
 
     # "好奇的我慢慢地接近阁楼，希望能找到一些线索。毕竟我的武艺还是不错的。"
-    "好奇的我慢慢地接近阁楼，希望能找到一些线索。毕竟我的武艺还是不错的。"
+    "Curiously, I approached the attic slowly, hoping to find some clues. "
+    "After all, my martial arts is good."
 
 # game/script.rpy:840
 translate english a_4_11_cd85a695:
 
     # "不等我再走一步，好像是什么法术让我不得动弹。 躲在阁楼角落的人这才从黑暗里出来。"
-    "不等我再走一步，好像是什么法术让我不得动弹。 躲在阁楼角落的人这才从黑暗里出来。"
+    "I cannot move, someone must have cast a spell of immobility on me."
+    "They came out from a dark corner."
 
 # game/script.rpy:841
 translate english a_4_11_e7372774:
 
     # "红色的血染红了他的衣衫，可是我很快的发现了这个人是我熟悉的男子。 "
-    "红色的血染红了他的衣衫，可是我很快的发现了这个人是我熟悉的男子。 "
+    "Bright red blood stained the man’s clothes. "
+    "Looking at him closely, I realize that he is someone that I know very well. "
 
 # game/script.rpy:842
 translate english a_4_11_44b9e415:
 
     # mc_1 "神仙哥哥，怎么还不替我解除法术？你怎么受伤了？"
-    mc_1 "神仙哥哥，怎么还不替我解除法术？你怎么受伤了？"
+    mc_1 "Fairy brother, why don’t you remove the spell from me?"
+    mc_1 "Why are you hurt?"
 
 # game/script.rpy:843
 translate english a_4_11_480c58b3:
 
     # "他皱了皱眉，好像对这个新的称呼不怎么乐意。尽管如此，他食指一弹好像就把法术解开了。他的脸色看起来越来越苍白，看来是受了重伤。"
-    "他皱了皱眉，好像对这个新的称呼不怎么乐意。尽管如此，他食指一弹好像就把法术解开了。他的脸色看起来越来越苍白，看来是受了重伤。"
+    "He frowned, as if dissatisfied with the new name I called him. "
+    "Nevertheless, his index finger seemed to unlock the spell."
+    "His face looked more and more pale, he appeared to be seriously injured."
 
 # game/script.rpy:844
 translate english a_4_11_5f35a914:
 
     # one "这宫里住了一个妖孽，昨夜潜入东海，偷了龙宫的宝物。本尊也被其打伤。"
-    one "这宫里住了一个妖孽，昨夜潜入东海，偷了龙宫的宝物。本尊也被其打伤。"
+    one "There’s an evildoer that lives in this palace. "
+    one "Yesterday, he infiltrated the Eastern Sea and stole the treasures of the Dragon Palace, and wounded me."
 
 # game/script.rpy:845
 translate english a_4_11_ce76b98a:
 
     # mc_1 "难道是国师？他确实法力无边，先不说这个了。本公主带你去疗伤，皇宫里有这么多御医，他们肯定能保你安然无恙。"
-    mc_1 "难道是国师？他确实法力无边，先不说这个了。本公主带你去疗伤，皇宫里有这么多御医，他们肯定能保你安然无恙。"
+    mc_1 "Could that be the Prime Minister? He really is powerful, let’s not talk about this now. "
+    mc_1 "Let me take you to get your wounds treated. "
+    mc_1 "There are many imperial doctors in the palace, they can keep you safe and sound."
 
 # game/script.rpy:846
 translate english a_4_11_641f4f7f:
 
     # "还不等我说完，他就倒在了我的肩上。 奈何他比我重的许多，所以还没等我清醒过来，就被眼前的仙君压倒在草地上。"
-    "还不等我说完，他就倒在了我的肩上。 奈何他比我重的许多，所以还没等我清醒过来，就被眼前的仙君压倒在草地上。"
+    "Before I could even finish, he fell on my shoulder. "
+    "However, he is much heavier than me. "
+    "I tried to wake him up, but I fell to the grass, overwhelmed."
 
 # game/script.rpy:847
 translate english a_4_11_09889238:
 
     # "这个时候， 前面的某个人迅速的走向了我们。 我刚把他推开，就看到了六郎拿着一个木棒从仙君的额头打去。"
-    "这个时候， 前面的某个人迅速的走向了我们。 我刚把他推开，就看到了六郎拿着一个木棒从仙君的额头打去。"
+    "And then, someone quickly walked towards us."
+    "As soon as I could push him off of me, I saw Liu Lang hitting the Immortal on the head with a wooden stick."
 
 # game/script.rpy:848
 translate english a_4_11_0cff85c8:
 
     # "接下来，我们两个人都惊呆了。"
-    "接下来，我们两个人都惊呆了。"
+    "As soon as Liu Lang saw his face,we were both stunned!"
 
 # game/script.rpy:849
 translate english a_4_11_d12e9150:
 
     # six "兄长，怎么是他！(脸突然变得惨白)"
-    six "兄长，怎么是他！(脸突然变得惨白)"
+    six "It’s my brother, why is he here... (his face suddenly turned pale)"
 
 # game/script.rpy:850
 translate english a_4_11_4171917b:
 
     # mc_1 "六郎，你怎么突然冲过来就打人啊？他可是受了重伤，可经不起你这么打。"
-    mc_1 "六郎，你怎么突然冲过来就打人啊？他可是受了重伤，可经不起你这么打。"
+    mc_1 "Liu Lang, why did you rush in and start beating him?"
+    mc_1 "He was seriously injured and couldn't withstand a hit like that!"
 
 # game/script.rpy:851
 translate english a_4_11_b1ce5aaf:
 
     # six "我。。我还以为他是一个登徒子。没想到他是我的哥哥。"
-    six "我。。我还以为他是一个登徒子。没想到他是我的哥哥。"
+    six "I… I thought he was a pervert. "
+    six "I didn't expect him to be my brother"
 
 # game/script.rpy:852
 translate english a_4_11_a0d7f2bd:
 
     # mc_1 "什么？ 你的哥哥？ 又来一个哥哥啊。。咦？ 不对啊， 大郎乃是天人。 若是如此，六郎难道亦是仙郎？"
-    mc_1 "什么？ 你的哥哥？ 又来一个哥哥啊。。咦？ 不对啊， 大郎乃是天人。 若是如此，六郎难道亦是仙郎？"
+    mc_1 "What? Your brother? Another brother. . "
+    mc_1 "Huh? No, Da Lang is a deity."
+    mc_1 "Wait, could it be that Liu Lang is also an immortal?"
 
 # game/script.rpy:853
 translate english a_4_11_7be06854:
 
     # "他这才得意的笑了"
-    "他这才得意的笑了"
+    "At this he smiled smugly."
 
 # game/script.rpy:854
 translate english a_4_11_7dc01ea8:
 
     # six "公主殿下平日还叫本尊小傻子，可知这是对仙郎不敬啊？"
-    six "公主殿下平日还叫本尊小傻子，可知这是对仙郎不敬啊？"
+    six "Princess usually calls me \"little fool or silly thing\""
+    six "Did you ever realize you were insulting a deity?"
 
 # game/script.rpy:855
 translate english a_4_11_169c0b9f:
 
     # "我怎么都没有想到面前这个年轻的少年原来是西凉曾经供奉的神仙。 可是我的公主威仪还是要有的，怎么能在小傻子面前乱了方寸呢？"
-    "我怎么都没有想到面前这个年轻的少年原来是西凉曾经供奉的神仙。 可是我的公主威仪还是要有的，怎么能在小傻子面前乱了方寸呢？"
+    "How did I never realize that the youth in front of me was one of the immortals that my people used to worship?"
+    "I still had to retain the prestige of my status as princess"
+    "How could I have messed up so badly in front of this little fool?"
 
 # game/script.rpy:856
 translate english a_4_11_48a80683:
 
     # mc_1 "西凉的神仙早就离开了。自从我的父皇开始拜祭恶鬼，世世代代保佑我们西凉的北冥帝君就再也不庇佑这个国家。"
-    mc_1 "西凉的神仙早就离开了。自从我的父皇开始拜祭恶鬼，世世代代保佑我们西凉的北冥帝君就再也不庇佑这个国家。"
+    mc_1 "The deities of Xiliang left a long time ago. "
+    mc_1 "Ever since my father started to worship demons, "
+    mc_1 "the Netherworld Emperor that had protected generation after generation of us had never returned to our country."
 
 # game/script.rpy:857
 translate english a_4_11_1b31823f:
 
     # mc_1 "而且我是人界的公主，你就算是仙界的仙君，我们也是彼此彼此而已。"
-    mc_1 "而且我是人界的公主，你就算是仙界的仙君，我们也是彼此彼此而已。"
+    mc_1 "Besides, I am the princess of mortals, even if you are immortal, we are still just about equal."
 
 # game/script.rpy:858
 translate english a_4_11_ffb632cf:
 
     # six "历代的北冥帝君都是天帝之子或者法力高强的神仙而选出来的。"
-    six "历代的北冥帝君都是天帝之子或者法力高强的神仙而选出来的。"
+    six "In the past, the Netherworld Emperors were all sons of the Heavenly Emperor or immortals with high cultivation levels."
 
 # game/script.rpy:859
 translate english a_4_11_a0f14f64:
 
     # six "上一个北冥帝君已经下来了。如今，父亲会在我们几个兄弟里选择一人为北冥帝君。"
-    six "上一个北冥帝君已经下来了。如今，父亲会在我们几个兄弟里选择一人为北冥帝君。"
+    six "The last Netherworld Emperor has stepped down."
+    sox "Now, our father will have to choose a new one among his sons."
 
 # game/script.rpy:860
 translate english a_4_11_313af7f8:
 
     # mc_1 "神仙的职位还真多啊。哦， 对了。 你怎么突然来了?"
-    mc_1 "神仙的职位还真多啊。哦， 对了。 你怎么突然来了?"
+    mc_1 "Wow, there are a lot of different positions for immortals. "
+    mc_1 "Oh, that's right. What did you come here for?"
 
 # game/script.rpy:861
 translate english a_4_11_be33ef18:
 
     # six "阿轩的病恶化了许多，我想带你去见见她。我已经为兄长服下了师尊的丹药，若是好生调养身体，应该不是问题。"
-    six "阿轩的病恶化了许多，我想带你去见见她。我已经为兄长服下了师尊的丹药，若是好生调养身体，应该不是问题。"
+    six "Ah-Xuan´s situation has gotten worse. I want to take you to see her."
+    six "I have given my older brother medicine from my grandmaster. "
+    six "If he is well taken care of, then he will recuperate soon."
 
 # game/script.rpy:862
 translate english a_4_11_c3c68e2e:
 
     # "可是现在大郎还是有着许多伤，这些丹药真的管用吗？ 我应该和六郎走，然后把大郎交给太医还是亲自照顾大郎？"
-    "可是现在大郎还是有着许多伤，这些丹药真的管用吗？ 我应该和六郎走，然后把大郎交给太医还是亲自照顾大郎？"
+    "Da Lang is still severely injured after all. "
+    "Do these medications actually work? "
+    "Should I leave with Liu Lang and ask the imperial doctors to take care of Da Lang, or should I stay and take care of Da Lang?"
 
 # game/script.rpy:1364
 translate english b10_18d4d2f6:
@@ -5051,35 +5113,35 @@ translate english strings:
 
     # game/script.rpy:16
     old "摩昂太子"
-    new "摩昂太子"
+    new "Prince Mo'ang"
 
     # game/script.rpy:20
     old "陛下"
-    new "陛下"
+    new "Emperor"
 
     # game/script.rpy:779
     old "叫人"
-    new "叫人"
+    new "Call Someone"
 
     # game/script.rpy:779
     old "什么都不做"
-    new "什么都不做"
+    new "Do nothing"
 
     # game/script.rpy:810
     old "闭眼"
-    new "闭眼"
+    new "Close eyes"
 
     # game/script.rpy:810
     old "不闭眼"
-    new "不闭眼"
+    new "Don't close eyes"
 
     # game/script.rpy:863
     old "和六郎去看阿轩"
-    new "和六郎去看阿轩"
+    new "Visiting Ah-Xuan with Liu Lang"
 
     # game/script.rpy:863
     old "亲自照顾大郎"
-    new "亲自照顾大郎"
+    new "Take care of Da Lang"
 # TODO: Translation updated at 2021-01-10 09:20
 
 # game/script.rpy:235
@@ -5279,3 +5341,91 @@ translate english b12_5535ce27:
 
     # "五郎好感 +10"
     "Wu Lang affinity points +10"
+# TODO: Translation updated at 2021-12-31 21:46
+
+# game/script.rpy:207
+translate english scene1_2_c630fc79:
+
+    # dude2 "你有两种选择，一是成为西凉国的公主，享受着荣华富贵。二是投胎为商人的女儿，勤俭持家。"
+    dude2 "You've got two choices, one being the princess of Xiliang, and two, the daughter of a restaurant owner."
+
+# game/script.rpy:208
+translate english scene1_2_509f3a30:
+
+    # dude2 "这两种命格都是祸福参半，你要谨慎选择。"
+    dude2 "Both them will go through a list of misfortunes and challenges, beware of your decision."
+
+# game/script.rpy:1618
+translate english b13_6fbd7858:
+
+    # dude8 "灵媒说我们的生辰八字很合，不会相冲."
+    dude8 "The medium said our birth signs are compatible."
+
+# game/script.rpy:1619
+translate english b13_aecc83b9:
+
+    # mc2 "这么邪门，那礼成了吗？"
+    mc2 "That's creepy, are we officially married?"
+
+# game/script.rpy:1620
+translate english b13_9a7019a3:
+
+    # dude8 "嗯，所有步骤都有好好遵守。"
+    dude8 "Yes, I followed all the rituals and steps."
+
+# game/script.rpy:1621
+translate english b13_9507328f:
+
+    # dude8 "（指着礼盒）这五百两是我家为你准备的聘礼，而我还给你准备了五个纸扎人在阴间可以照顾你。我以后要是娶妻生子，我的妻子孩子也会拜祭你。"
+    dude8 "(Points at a gift box) Here are my gifts to you, they worth about a hundred thousand bucks."
+    dude8 "I also got you some servants, in forms of paper men. They will follow you in hell."
+    dude8 "If I do get married in the future, my wife and kids will pray to you every year."
+
+# game/script.rpy:1622
+translate english b13_d14b01c2:
+
+    # dude8 "我求求你，别杀我啊。（跑出酒楼，几乎不见踪影）"
+    dude8 "Please spare my life, have mercy. (Flees away)"
+
+translate english strings:
+
+    # script.rpy:46
+    old "龙王"
+    new "Dragon King"
+
+    # script.rpy:47
+    old "斗战胜佛"
+    new "Monkey King"
+
+    # script.rpy:48
+    old "净坛使者"
+    new "Pigsy"
+
+    # script.rpy:49
+    old "南海三太子"
+    new "Third Prince of the South Sea"
+
+    # script.rpy:50
+    old "王昌"
+    new "Wang Chang"
+
+    # script.rpy:51
+    old "少将军"
+    new "Young General"
+
+    # script.rpy:52
+    old "普男一"
+    new "Dude One"
+
+    # script.rpy:53
+    old "普男二"
+    new "Dude Two"
+
+    # script.rpy:54
+    old "普男三"
+    new "Dude Three"
+
+    # script.rpy:55
+    old "爹"
+    new "Dad"
+
