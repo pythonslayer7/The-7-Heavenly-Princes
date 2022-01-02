@@ -4,841 +4,903 @@
 translate english part1_f62b4b84:
 
     # "他的眼神中的善意和同情打动了我，看来五郎真的很担心我。"
-    ""
+    "The kindness and sympathy in his eyes touched me, and it seemed that Wu Lang was really worried about me."
 
 # game/businessGirl.rpy:30
 translate english part1_fa9daa75:
 
     # "在我失踪的这段时间，他还这么想念我，看来他也是一个善良的人。"
-    ""
+    "During the time I was missing, he still missed me so much."
+    "It seems that he is also a kind person."
 
 # game/businessGirl.rpy:31
 translate english part1_ea8f98a3:
 
     # "这一瞬间， 我放开了三郎的衣袖。"
-    ""
+    "At this moment, I let go of San Lang's sleeves."
 
 # game/businessGirl.rpy:33
 translate english part1_444e7436:
 
     # "在这几乎空荡的前厅，四郎注视着所有人的神情，把我细微的举动收入眼中，轻轻皱眉，不知道想着什么。"
-    ""
+    "In this almost empty front hall, Si Lang watched everyone's expressions,"
+    "and took my subtle actions into his eyes, frowning slightly, not knowing what he was thinking."
 
 # game/businessGirl.rpy:34
 translate english part1_b832eb7e:
 
     # "我最在乎谁的感受？"
-    ""
+    "Who's feelings do I care most about?"
 
 # game/businessGirl.rpy:47
 translate english part1_1_3a71240b:
 
     # mc2 "姐姐我福大命大，没死，只是现在再不吃饭的话，一定离死不远了。"
-    mc2 ""
+    mc2 "I am blessed and alive. But if I don't eat now, I will be close to death"
 
 # game/businessGirl.rpy:48
 translate english part1_1_f2ccf146:
 
     # five "（放开手，走向厨房）哦，稍等片刻，我把厨房的烧鸡给你带过来。"
-    five ""
+    five "(Let go of his hand and walk to the kitchen) Oh, give me a second, I will bring you the roast chicken from the kitchen"
 
 # game/businessGirl.rpy:50
 translate english part1_1_4affc04b:
 
     # four "（递给我一杯茶）萧姑娘这几天去哪里了？令堂与五弟甚是担心。"
-    four ""
+    four "(Hands me a cup of tea) Miss Xiao, where have you gone these days?"
+    four "Your mother and my fifth brother were very worried about your well-being."
 
 # game/businessGirl.rpy:51
 translate english part1_1_803e386e:
 
     # mc2 "（接过茶杯）你三哥请我喝茶去了。山上的路可不好走，有豺狼虎豹，又有山贼。"
-    mc2 ""
+    mc2 "(Receiving the teacup) Your third brother invited me to have tea. "
+    mc2 "The road on the mountain is long and winding."
+    mc2 "There are wolves, tigers and leopards, and bandits."
 
 # game/businessGirl.rpy:54
 translate english part1_1_41320e4c:
 
     # five "（端出美酒与佳肴）那岂不是很危险？"
-    five ""
+    five "(Bringing out wine and food) Isn't that dangerous?"
 
 # game/businessGirl.rpy:55
 translate english part1_1_e21da789:
 
     # mc2 "姐姐我可是京都的大姐大，谁敢欺负我啊。 就是被路上的小白猫抓了几下。"
-    mc2 ""
+    mc2 "In our capital city, I am known as a woman with valor. Who dares to bully me?"
+    mc2 "I was just scratched by a little white kitty down the road."
 
 # game/businessGirl.rpy:57
 translate english part1_1_b259e1a3:
 
     # three "（心不在焉）七郎可在？既然他不想见到我， 我还是先离开吧。"
-    three ""
+    three "(Absent-minded) Is Qi Lang here? Since he still doesn't want to see me, I'll leave first."
 
 # game/businessGirl.rpy:58
 translate english part1_1_a48ef2fd:
 
     # mc2 "别走，你在山上这么“照顾”我， 你的情谊我怎么还呀。"
-    mc2 ""
+    mc2 "Hey you, stay still!"
+    mc2 "You took care of me so much on the mountain, how can I repay your friendship?"
 
 # game/businessGirl.rpy:60
 translate english part1_1_576654fb:
 
     # mc2 "（小声）你要是走了，我怎么和我父母说清楚呢？你说我是遇见了一只白猫还是白虎呀？"
-    mc2 ""
+    mc2"(Whispering) If you leave now, how do I explain to my parents? Did I meet a white kitty or a white tiger?"
 
 # game/businessGirl.rpy:61
 translate english part1_1_66c94ce6:
 
     # three "（轻笑）我只见过市井无赖，可是还没见过像姑娘这样猖狂的无赖。你就不怕你们的酒楼被我拆了？"
-    three ""
+    three "(Chuckles) I have only seen rogues in the street, but I didn't know there is one in front of me. "
+    three "Aren't you afraid that your restaurant will be demolished by me?"
 
 # game/businessGirl.rpy:63
 translate english part1_1_5f492aab:
 
     # mc2 "你才不会呢，小白虎是守卫西凉的神兽，而我在路上遇到的小白猫是一个送我回家的小甜心哈哈。"
-    mc2 ""
-
+    mc2 "You won't. The little white tiger is a deity that guards Xiliang, "
+    mc2 "and the little white cat I met on the road is a little sweetheart who sent me home haha."
+    
 # game/businessGirl.rpy:64
 translate english part1_1_1f45ed17:
 
     # mc2 "（递给他一个抹布）小七平时都在打扫客房，你去二楼，帮帮他吧。"
-    mc2 ""
+    mc2 " (Hands him a towel) Xiao Qi usually cleans the guest room."
+    mc2 " Why don't you go to the second floor and help him?"
 
 # game/businessGirl.rpy:66
 translate english part1_1_ad08eafa:
 
     # three "（食指遮住双唇）既然你这么相信我，我就暂时留下。"
-    three ""
-
+    three "(Covers his lips with his index finger) Since you trust me so much, I will stay for now. "
+    
 # game/businessGirl.rpy:67
 translate english part1_1_8d0e35b4:
 
     # three "（接着抹布，眼睛转了转）我先上楼看看。"
-    three ""
+    three "(Takes the washcloth towel, thinking about something) I'll go upstairs to take a look."
 
 # game/businessGirl.rpy:68
 translate english part1_1_18963af4:
 
     # "此时，表叔刚刚从昏迷中苏醒，奈何眼前的三郎，在表叔眼里就像是阴间的鬼差。"
-    ""
+    "As my uncle got up, he looked at San Lang, who he mistook as a ghost from the underworld."
 
 # game/businessGirl.rpy:69
 translate english part1_1_3683ebf0:
 
     # "当三郎和表叔对视时，表叔又被吓晕过去了。"
-    ""
+    "Thus, when San Lang and my uncle exchanged stares, my uncle was shocked and fainted again."
 
 # game/businessGirl.rpy:71
 translate english part1_1_cbd4b177:
 
     # "以我看来，三郎和小七的关系不太好，我应该询问谁好呢？"
-    ""
+    "In my opinion, the relationship between San Lang and Xiao Qi is not very good, who should I ask?"
 
 # game/businessGirl.rpy:76
 translate english part1_1_c1758e72:
 
     # mc2 "三郎和小七之间有什么矛盾吗？"
-    mc2 ""
+    mc2 "Are there any problems between San Lang and Xiao Qi?"
 
 # game/businessGirl.rpy:78
 translate english part1_1_ccdcb47b:
 
     # four "萧姑娘好像很在乎我三哥？"
-    four ""
+    four "Miss Xiao, you seem to care about my third brother a lot?"
 
 # game/businessGirl.rpy:79
 translate english part1_1_66c86656:
 
     # mc2 "问问不行吗？"
-    mc2 ""
+    mc2 "I mean, it's just a question."
 
 # game/businessGirl.rpy:81
 translate english part1_1_f49bb71f:
 
     # four "（微微一笑）你看起来很疲惫，今天好好休息，明日我再告诉你吧。"
-    four ""
+    four " (slightly smiles) You look tired. Take a good rest today. I'll tell you tomorrow."
 
 # game/businessGirl.rpy:82
 translate english part1_1_34ef8ad5:
 
     # mc2 "明天我就忘了呀。"
-    mc2 ""
+    mc2 "By tomorrow, I won't remember to ask this question again."
 
 # game/businessGirl.rpy:83
 translate english part1_1_5d8532e5:
 
     # four "那就后天再说吧。(指着客房)令尊令堂好像醒了，快去看看他们吧。"
-    four ""
+    four "Then let's talk about it the day after tomorrow."
+    four "(Pointing to the guest room) Your parents are awake, why don't you visit them first."
 
 # game/businessGirl.rpy:84
 translate english part1_1_e3fc5824:
 
     # "四郎好像不太喜欢聊八卦这类的东西，看来我是问错人了。"
-    ""
+    "Si Lang doesn't seem to like to gossip. I most likely asked the wrong person."
 
 # game/businessGirl.rpy:89
 translate english part1_1_f7772ee0:
 
     # five "（点点头，一脸八卦）哇，何止矛盾啊，那简直是三天三夜说不完—"
-    five ""
+    five "(Nodding, looks very interested in the subject) There's a lot going on. "
+    five "Well, I can talk about it for at least three days and three nights."
 
 # game/businessGirl.rpy:91
 translate english part1_1_66233399:
 
     # four " (手肘轻垂五郎的手臂）先让萧姑娘好好休息吧。"
-    four ""
+    four "(Elbowed Wu Lang) Why don't you let Miss Xiao rest first."
 
 # game/businessGirl.rpy:93
 translate english part1_1_cb1fe29b:
 
     # five "对，对。你先好好休息，要是晚上睡不着，我可以给你做宵夜。"
-    five ""
+    five "Yep. You should take a good rest first. "
+    five "If you can't sleep at night, I can make you a midnight snack"
 
 # game/businessGirl.rpy:94
 translate english part1_1_4de08e6f:
 
     # mc2 "我要是三更半夜突然饿了呢？"
-    mc2 ""
+    mc2 "What if I suddenly become hungry after midnight?"
 
 # game/businessGirl.rpy:96
 translate english part1_1_31fa7f80:
 
     # five "就算是三更半夜， 我也会起来的。"
-    five ""
+    five "Then I will get up and get you some food."
 
 # game/businessGirl.rpy:97
 translate english part1_1_d392522c:
 
     # mc2 "怎么对我这么好？（敲了敲他的脑袋）是不是在想心术不正的东西？"
-    mc2 ""
+    mc2 "Why are you so good to me? (Knocking his head) Are you planning on something?"
 
 # game/businessGirl.rpy:98
 translate english part1_1_fa3566d4:
 
     # five "天地良心，我可是一片冰心在玉壶。姐姐你刚刚逢凶化吉，我心疼还来不及，怎么会有歹念？"
-    five ""
+    five "Only if Heaven and Earth can see my sincerity. My intentions are good and pure."
+    five "I was distressed by the idea that you went through so much adversity."
+    five "I have no evil thoughts at all."
 
 # game/businessGirl.rpy:100
 translate english part1_1_3ee58d11:
 
     # mc2 "我怎么知道你怎么想的？哦，你是不是一贯喜欢用美食讨女孩子欢心啊？"
-    mc2 ""
+    mc2 "How do I know what you are thinking?"
+    mc2 "Oh, do you always like to please girls with food? Is this your tactic?"
 
 # game/businessGirl.rpy:101
 translate english part1_1_c05e6565:
 
     # five "当然不是，我还是第一次特地给女孩子做饭。"
-    five ""
+    five "Of course not, except for you, there is no girl in the world worthy of me doing this."
+    five "This is the first time that I specially cook for a girl."
 
 # game/businessGirl.rpy:102
 translate english part1_1_44d8223e:
 
     # mc2 "胡说八道，我们店里女顾客的食物不是你做的？"
-    mc2 ""
+    mc2 "Liar, you did not make food for the female customers in our restaurant?"
 
 # game/businessGirl.rpy:104
 translate english part1_1_98913e65:
 
     # five "当然不一样啦，给顾客做饭是我店里的义务，给可爱的女孩子做饭是我自己的决定。"
-    five ""
+    five "Of course it's different."
+    five "It's my duty to cook for customers, but it's my own decision to cook for a cute girl."
 
 # game/businessGirl.rpy:108
 translate english part1_2_c44a55f9:
 
     # "三言两语后，我向爹娘解释了我为何在山上呆了两三天。"
-    ""
-
+    "After a few words, I explained to my parents why I stayed on the mountain for two or three days. "
+   
 # game/businessGirl.rpy:109
 translate english part1_2_a9c5ad0f:
 
     # "我先是胡乱编了一个故事，陈述这离奇的遭遇。"
-    ""
+    "I first made up a story on top of my head to state this bizarre experience."
 
 # game/businessGirl.rpy:111
 translate english part1_2_fe274d89:
 
     # mom "你说你一个女孩子在山上遇险，这两三天竟没有被豺狼虎豹吞噬，而且皮肤看起来还白里透红的，这是怎么回事啊。"
-    mom ""
+    mom "In great danger on the mountain, you were lucky that you were not swallowed by the jackal, tiger or leopard in these two or three days."
+    mom "But your skin also looks moisturized and good. How is that possible?"
 
 # game/businessGirl.rpy:113
 translate english part1_2_a82c1887:
 
     # mc2 "（振振有词）山上有一个蒙着面的高人说什么我是文曲星下凡，日日夜夜与我谈心，他说我只要经历九九八十一难就能成仙啦。"
-    mc2 ""
+    mc2 "(Very plausible) I met a masked hermit on the mountain who said that I was a Goddess in my previous life."
+    mc2 "We talked for many days and nights. He said that I had to overcome eighty-one difficulties to become an immortal."
 
 # game/businessGirl.rpy:114
 translate english part1_2_2c17968c:
 
     # mc2 "他此次下凡就为了保护我的，可惜第三天的时候，三郎在山上与我相遇时，那位神仙就不翼而飞了。"
-    mc2 ""
+    mc2 "As his mission, he went down to protect me, "
+    mc2 "but unfortunately on the third day, when San Lang met me on the mountain, the fairy disappeared."
 
 # game/businessGirl.rpy:115
 translate english part1_2_d3f7e142:
 
     # mom "这怎么听起来有点耳熟呢？"
-    mom ""
+    mom "Why does this sound familiar?"
 
 # game/businessGirl.rpy:117
 translate english part1_2_511d72ef:
 
     # z "可不是嘛，这不就是西游记和七侠五义吗？"
-    z ""
+    z "I thought too? It reminds me of some stories we were told as kids."
+    z "Right, isn't this a mashup combining the Journey to the West and the Seven Heroes and Five Righteousnesses?"
 
 # game/businessGirl.rpy:119
 translate english part1_2_4ccd9992:
 
     # mc2 "（咳了一声）有那么简单就好了，这事可没完呢，这仙君还问了我一些很玄奥的问题呢"
-    mc2 ""
+    mc2 "(Coughing) It's not as simple as that. I didn't finish my story yet. "
+    mc2 "The fairy asked me some very intricate questions."
 
 # game/businessGirl.rpy:121
 translate english part1_2_b22d8864:
 
     # mom "什么问题啊？"
-    mom ""
+    mom "What questions?"
 
 # game/businessGirl.rpy:123
 translate english part1_2_16e7061d:
 
     # mc2 "（绞尽脑汁，想起来说书的一个段子）何水无鱼? 何山无石? 何树无枝? 何子无父? 何女无夫? 何城无市？"
-    mc2 ""
+    mc2 "(Thinking on my feet, I blurt out a riddle I once heard) What kind of water has no fish?"
+    mc2 "What kind of mountain has no stone? What kind of tree has no branches?"
+    mc2 "What kind of son has no father? What kind of women has no husband? What kind of city has no town?"
 
 # game/businessGirl.rpy:124
 translate english part1_2_998dce53:
 
     # mom "这听起来的确有些深奥，你们觉得答案是什么啊。"
-    mom ""
+    mom "This does sound a little abstruse, what do you think the answer is?"
 
 # game/businessGirl.rpy:126
 translate english part1_2_d0809122:
 
     # "三郎嘴角轻扬，不知道是已经知道了答案还是被我娘的反应逗笑了。"
-    ""
+    "San Lang's lips curved up. I wonder if he already knew the answer or if he was simply amused by my mother's reaction."
 
 # game/businessGirl.rpy:127
 translate english part1_2_0e037c52:
 
     # "五郎的眼神飘向了我，眼睛眨了眨，似乎想到了什么好玩的事。"
-    ""
+    "Wu Lang looked at me as he blinked, as if thinking of something funny."
 
 # game/businessGirl.rpy:128
 translate english part1_2_bcead4e2:
 
     # "四郎看起来很宁静，不过倒是对我的那个题目有些感兴趣。我最期待谁的答案？"
-    ""
+    "Si Lang looked peaceful, but he shows interest in my riddles."
+    "Whose answer do I wish to hear first?"
 
 # game/businessGirl.rpy:133
 translate english part1_2_1584c9e2:
 
     # three "（小声）本尊曾经听过这个段子。比起答案，你说谎却不脸红的样子更有趣"
-    three ""
+    three "(Whispering) I have heard this riddle before."
+    three "However, compared to the answer, it's more interesting to see you lying without blushing"
 
 # game/businessGirl.rpy:134
 translate english part1_2_231867e5:
 
     # three "（坐下） 五弟，你平时不是鬼点子最多了吗？何不说说？逗大家开心？"
-    three ""
+    three "(Sit down) Fifth brother, you're pretty cunning and creative."
+    three "Why don't you tell us what you think and offer us some belly laughs?"
 
 # game/businessGirl.rpy:139
 translate english part1_2_fe8ebec1:
 
     # four "此题听起来倒是像释迦佛陀曾说过的一句话。"
-    four ""
+    four "This question sounds like a statement once said by Buddha."
 
 # game/businessGirl.rpy:140
 translate english part1_2_19f21641:
 
     # four "（南）水无鱼，（无）山无石，（阿）人无父，（弥）女无夫，（陀）树无枝，（佛）城无市。（双手合拢）南无阿弥陀佛。"
-    four ""
+    four "With some Buddhist translations, the answer to your questions is Nammo Amitabha."
+    four "(Folding hands together) It means Namo Buddha of Infinite Life, which is often served as a prayer during meditations."
 
 # game/businessGirl.rpy:142
 translate english part1_2_9d8bae04:
 
     # three "你在九华山修行，看来是真的沉迷佛法了。"
-    three ""
+    three "As a devout Buddhist, You cultivate lessons and learn from your grandmaster in the Jiuhua Mountain."
+    three "I think you are really addicted to Buddhism."
 
 # game/businessGirl.rpy:144
 translate english part1_2_f7990d54:
 
     # mom "（没反应过来）什么意思？难道说瑀瑀遇见了佛门高僧不成？"
-    mom ""
+    mom "(Slowly reacts) What do you mean? Could it be that my daughter, Yu Yu, met a powerful Buddhist monk?"
 
 # game/businessGirl.rpy:145
 translate english part1_2_0806f8ff:
 
     # z "（双手拍响）神了，神了。"
-    z ""
+    z "(Hands clapping) That's incredible."
 
 # game/businessGirl.rpy:152
 translate english part1_3a_c6f74f35:
 
     # five "（端起一壶茶）这个题挺简单的呀，我先来解一解吧。"
-    five ""
+    five "(Holds a pot of tea) This question is quite simple, let me solve it first."
 
 # game/businessGirl.rpy:153
 translate english part1_3a_97089ef5:
 
     # five " 死水无鱼， 金山无石， 枯树无枝， 老子无父， 玉女无夫， 孤城无市"
-    five ""
+    five "There are no fish in the stagnant water, no stones in the golden mountains, no branches on dead trees."
+    five "An old son is without father, a virgin doesn't have a husband, and a ghost city has no town."
 
 # game/businessGirl.rpy:155
 translate english part1_3a_058d88e4:
 
     # mom "什么死水无鱼，孤城无市，太不吉利了。"
-    mom ""
+    mom "stagnant water, dead trees, and ghost city all sound inauspicious."
 
 # game/businessGirl.rpy:157
 translate english part1_3a_8129424c:
 
     # five "哦，这个就是一个谜语啊。解谜的方式万千，我只是说了其中的一个而已。那出题的仙人还忘了一句，何人无妇？"
-    five ""
+    five "Well, this is a riddle. There are so many ways to solve the mystery, I just said one of them."
+    five "The deity who asked the question also forgot a question, \"what kind of men doesn't have a wife\""
 
 # game/businessGirl.rpy:158
 translate english part1_3a_17a2a1d6:
 
     # three "（看向五郎）你比那出题的人还了解题目吗？"
-    three ""
+    three "(Look at Wu Lang, with some mockery) Are you more knowledgeable than the person who came up with the riddle?"
 
 # game/businessGirl.rpy:159
 translate english part1_3a_26dea6b4:
 
     # five "萧姐姐，你猜一猜呀？"
-    five ""
+    five "(Ignores San Lang) Sis, why don't you take a guess?"
 
 # game/businessGirl.rpy:162
 translate english part1_3a_0819f578:
 
     # "五郎好感 + 10"
-    ""
+    "Affinity points for Wu Lang + 10"
 
 # game/businessGirl.rpy:163
 translate english part1_3a_aa203f63:
 
     # five "（微笑）这天上的仙郎多的就和东门的云彩一样多，而得到各个仙女姐姐爱慕之心最多的就属于天帝的第五个儿子了。"
-    five ""
+    five "(Smiling) There are as many deities in the heaven as there are clouds above the east gate."
+    five "Among the sons of the Heavenly Emperor, his fifth son is the most popular among the fairy sisters."
 
 # game/businessGirl.rpy:164
 translate english part1_3a_5f37c98a:
 
     # five "这位仙君至今还没有婚约呢。"
-    five ""
+    five "He is single with no engagement."
 
 # game/businessGirl.rpy:166
 translate english part1_3a_b7a567ce:
 
     # five "他英俊潇洒，仪表堂堂，最喜欢到南海游玩。这百年间，他都随着观世音菩萨修炼，把人间情爱看得很淡。"
-    five ""
+    five "He is handsome and distinguished, and likes to visit the South China Sea the most."
+    five "Over the past hundred years, he has practiced with Avalokitesvara Bodhisattva, paying a little to no attention to love."
 
 # game/businessGirl.rpy:167
 translate english part1_3a_6d175210:
 
     # five "初到人间，他竟然对一位人间女子一见钟情。"
-    five ""
+    five "Yet when he first arrived in the mortal world, he fell in love with a human girl at first sight."
 
 # game/businessGirl.rpy:168
 translate english part1_3a_503e874c:
 
     # five "(自恋) 可是他的天命必须是和一位仙子结缘。天命真的可以违背吗？作为天帝最喜爱的儿子，他会和这位人间的女子白头偕老吗？"
-    five ""
+    five "(Narcissistic) But his destiny must be to marry a fairy. Can destiny really be challenged? "
+    five "As the emperor's favorite son, can he marry and grow old with his first crush?"
 
 # game/businessGirl.rpy:170
 translate english part1_3a_5e70f546:
 
     # z "这关我们啥事啊？这天帝的儿子也不可能下界到我们这个破烂的酒楼光顾啊。"
-    z ""
+    z "What does this have to do with us?"
+    z "It is impossible for the son of the Heavenly Emperor to visit our shabby restaurant."
 
 # game/businessGirl.rpy:171
 translate english part1_3a_9a76701f:
 
     # z "这西街的明月楼才是我们京都一等一的大酒楼。"
-    z ""
+    z "He will probably visit somewhere more grandiose."
+    z "The Bright Moon Chamber in the west street is considered as first-class restaurant."
 
 # game/businessGirl.rpy:172
 translate english part1_3a_4e1ff4a3:
 
     # z "稍微有点品味的人都不会特地来我们这儿住店。"
-    z ""
+    z "People with a little taste will not specifially come to our shop."
 
 # game/businessGirl.rpy:174
 translate english part1_3a_296042b6:
 
     # five "凡事不能看表面啊。这个酒楼虽然长年失修，主厨呢也厨艺不精，掌柜也是个铁公鸡，一毛不拔，店员各个穿衣没有任何品味. "
-    five ""
+    five "There's more to the book than the cover. You can't look at the surface of everything. Although this restaurant has been in disrepair for many years,"
+    "the chef is not good at cooking, the shopkeeper is very frugal, and the staff team has no sense of fashion"
 
 # game/businessGirl.rpy:175
 translate english part1_3a_6f6453b6:
 
     # five "可是这天帝的儿子是不会计较这么多的，毕竟他是学过佛法的弟子。众生平等嘛。"
-    five ""
+    five "the son of the emperor won't mind. After all, he is a disciple who has studied Buddhism. All beings are created equal."
 
 # game/businessGirl.rpy:176
 translate english part1_3a_c3da1275:
 
     # mom "哟，这天帝的儿子还很大度啊？"
-    mom ""
+    mom "Oh, the son of the Heavenly Emperor is quite generous?"
 
 # game/businessGirl.rpy:177
 translate english part1_3a_2f1a26f0:
 
     # five "不可置否。"
-    five ""
+    five "That's undeniable."
 
 # game/businessGirl.rpy:179
 translate english part1_3a_5b9d4153:
 
     # mom "天帝的儿子什么样我不知道。可是你尖嘴猴腮，一脸丧气，这辈子是肯定娶不到老婆了。还不赶快去干活。"
-    mom ""
+    mom "I don't know how a Heavenly Prince look like."
+    mom "But with your sharp-mouthed monkey cheeks, full of despair, you will definitely not be able to find a wife in your life."
+    mom "Hurry up and get back to work."
 
 # game/businessGirl.rpy:180
 translate english part1_3a_e2b7a08b:
 
     # five "喂，大姑，要不要这么损我啊？"
-    five ""
+    five "Hello, old auntie, why are you being rude and hurt me like this?"
 
 # game/businessGirl.rpy:181
 translate english part1_3a_f10a7cc2:
 
     # mom "你叫我什么？兔崽子，我有那么老吗？"
-    mom ""
+    mom "What did you call me? Liitle bastard, am I that old?"
 
 # game/businessGirl.rpy:182
 translate english part1_3a_2bc32356:
 
     # "没等娘继续和五郎争吵，我把他拉到厨房让他好好反省。"
-    ""
+    "To intervene their argument, I dragged Wu Lang to the kitchen and asked him to do a self-reflection."
 
 # game/businessGirl.rpy:185
 translate english part1_3a_731d22a4:
 
     # five "你的答案没错，可是看来我们还没有到心有灵犀的境界."
-    five ""
+    five "Your answer is correct, but it seems that we have not reached the state of being soul mates."
+    five "You can't guess my thoughts."
 
 # game/businessGirl.rpy:187
 translate english part1_3a_29653362:
 
     # five "除了小儿无妇，悍夫无妇以外，（眨眨眼）某位仙郎也是无妇哦。"
-    five ""
+    five "Other than the fact that a child can't have a wife and an aggressive man has no wife,"
+    five "(blinks) the fifth son of the Heavenly Emperor is also single and ready to meet the love of his life."
 
 # game/businessGirl.rpy:191
 translate english part1_3_934448d5:
 
     # "想不到我胡乱编造的东西，大家还真的较真了。"
-    ""
+    "I can't believe that everyone really believed in the things I made up."
 
 # game/businessGirl.rpy:192
 translate english part1_3_1b0d61fe:
 
     # "可能是因为我的演技太好了，店里的伙计们都没有质疑我 "
-    ""
+    "Maybe it's because my acting skills are so good, so that no one questioned me"
 
 # game/businessGirl.rpy:193
 translate english part1_3_f625ffb1:
 
     # mom "竟然你都回来了，我们赶快抓紧时间把店里恢复原样，继续营业，怎么样？"
-    mom ""
+    mom "Since you're back, let's hurry up and restore the store to its original condition and continue business, how is that?"
 
 # game/businessGirl.rpy:195
 translate english part1_3_64784a93:
 
     # dad "少赚几个钱怎么了？让孩子上楼休息吧。"
-    dad ""
+    dad "What's wrong with making a little less money? Let her go upstairs and rest."
 
 # game/businessGirl.rpy:196
 translate english part1_3_7b0b6aba:
 
     # "我爹平时吊儿郎当的，但是他也很疼我。我看到他的黑眼圈，我就有些心疼。"
-    ""
+    "My father is usually easy-going and carefree, but he also loves me very much."
+    "I saw the dark circles under his eyes, and I felt a little saddened."
 
 # game/businessGirl.rpy:197
 translate english part1_3_b68bc740:
 
     # mom "就你一个人心疼女儿啊？现在还没到睡觉的时间呢？她以后会继承我们的酒楼，多吃点苦没啥。"
-    mom ""
+    mom "You aren't the only one who loves our daughter. It's not even time to go to bed. "
+    mom "She will inherit our restaurant in the future, so it's okay to do more and learn more."
 
 # game/businessGirl.rpy:198
 translate english part1_3_aeabe56f:
 
     # dad "那还有啥要做的？都交给我。"
-    dad ""
+    dad "What else is there to do? Leave it to me."
 
 # game/businessGirl.rpy:200
 translate english part1_3_6c40f0a9:
 
     # mom "你的腿脚又不利索，只会添麻烦。"
-    mom ""
+    mom "You are too slow at serving our customers, which will only bring us more trouble."
 
 # game/businessGirl.rpy:201
 translate english part1_3_ccded2c3:
 
     # mc2 "娘，我今天还想去街上买元宵节的礼品呢。今天能不能早点关门啊？"
-    mc2 ""
+    mc2 "Mom, I still want to buy gifts for the Lantern Festival today. Can we close early today?"
 
 # game/businessGirl.rpy:202
 translate english part1_3_214fc8db:
 
     # mom "先把门外的两位客人招待好吧。"
-    mom ""
+    mom "Well, we have two more customers coming in."
 
 # game/businessGirl.rpy:204
 translate english part1_3_e3212b97:
 
     # dad "行，瑀瑀这一桌做完就出门玩。"
-    dad ""
+    dad "Okay. That's the last table she needs to serve before going out."
 
 # game/businessGirl.rpy:205
 translate english part1_3_092f5da0:
 
     # "今晚可以去逛街让我很开心，唯一遗憾的是我爹娘还要继续营业，不能一起出门。"
-    ""
+    "I am very happy to be able to go shopping tonight. "
+    "My only regret is that my parents still working and cannot go out together."
 
 # game/businessGirl.rpy:206
 translate english part1_3_391993c3:
 
     # "不知道他们成婚后有多久没有一起出门散心了。内心深处，我知道他们都很关心彼此，就是嘴上吵吵架。"
-    ""
+    "I don't know how long it has been since they last went out together for fun."
+    "Deep down, I know that they care about each other alot, but they just like to argue sometimes."
 
 # game/businessGirl.rpy:209
 translate english part1_3_031c556b:
 
     # "因为今天是元宵佳节，所以整个京都灯火通明。"
-    ""
+    "Because today is the Lantern Festival, the whole city is brightly lit."
 
 # game/businessGirl.rpy:210
 translate english part1_3_2238ea1f:
 
     # "门外传来了热闹的人潮声，一对登对的少年少女似乎有些嫌弃我们永安酒楼的设施和装潢。"
-    ""
+    "There was a lively crowd outside the door, and a pair of youth seemed a bit disappointed with the facilities and decoration of our Yong'an restaurant."
 
 # game/businessGirl.rpy:212
 translate english part1_3_c7ddead6:
 
     # "他们二人肤如凝脂，唇红齿白，一入店就引起了大家的关注。"
-    ""
+    "Both of them are fair with clear skin, red lips and white teeth."
+    "They attracted everyone's attention as soon as they entered the restaurant."
 
 # game/businessGirl.rpy:214
 translate english part1_3_5ad11c10:
 
     # girl_2 "把你们这里最好吃的菜都上来，反正本小姐有的是钱。"
-    girl_2 ""
+    girl_2 "Bring up the best food you have here, money is not an issue. I am rich anyways."
 
 # game/businessGirl.rpy:215
 translate english part1_3_1e644e0c:
 
     # "这位姑娘看起来气度不凡，很有可能是来自富贵之家，他们只有两个人，我应该上多少菜呢？（影响金钱/收入）"
-    ""
+    "This girl looks extraordinarily beautiful, probably from a rich family."
+    "There are only two of them. How many dishes should I serve? (Affect money/income)"
+
 
 # game/businessGirl.rpy:216
 translate english part1_3_fd46d280:
 
     # "多余的钱日后可以用来买有用的东西。"
-    ""
+    "Note: the extra money can be used to buy useful things in the future"
 
 # game/businessGirl.rpy:219
 translate english part1_3_d6db6a85:
 
     # "+ 20 金钱"
-    ""
+    " + 20 coins"
 
 # game/businessGirl.rpy:221
 translate english part1_3_21e92501:
 
     # five "（气急败坏）到底是哪一桌要本郎君烧这么多菜？他们是带着祖孙三代来吃饭吗？我的手切菜都切不过来了。"
-    five ""
+    five "(Angrily) Which table is the one that wants me to cook so many dishes?"
+    five "Are they bringing three generations of families here tonight? I can't cut this much vegetables by hand anymore."
 
 # game/businessGirl.rpy:223
 translate english part1_3_c1327df8:
 
     # " +45 金钱"
-    ""
+    " + 45 coins"
 
 # game/businessGirl.rpy:225
 translate english part1_3_21e92501_1:
 
     # five "（气急败坏）到底是哪一桌要本郎君烧这么多菜？他们是带着祖孙三代来吃饭吗？我的手切菜都切不过来了。"
-    five ""
+    five "(Angrily) Which table is the one that wants me to cook so many dishes?"
+    five "Are they bringing three generations of families here tonight? I can't cut this much vegetables by hand anymore."
 
 # game/businessGirl.rpy:227
 translate english part1_3_2011527c:
 
     # "+ 90 金钱"
-    ""
+    "+ 90 coins"
 
 # game/businessGirl.rpy:228
 translate english part1_3_ff060c28:
 
     # "看来今天有这位富贵花在我们店，我们是不会亏本了。"
-    ""
+    "With a rich lady like her, our shop will only gain the maximum profit."
 
 # game/businessGirl.rpy:230
 translate english part1_3_543f99a3:
 
     # five "（气急败坏）到底是哪一桌要本郎君烧二十道菜？他们是带着祖孙三代来吃饭吗？我的手切菜都切不过来了。"
-    five ""
+    five "(Angrily) Which table is the one that wants me to cook about 20 dishes?"
+    five "Are they bringing three generations of families here tonight? I can't cut this much vegetables by hand anymore."
 
 # game/businessGirl.rpy:231
 translate english part1_3_63f10cef:
 
     # b "（悠哉）我就知道一定有客人一次会点不止十三道菜."
-    b ""
+    b "(Chill) See, I was right. I knew somebody was going to order over 13 dishes at once."
 
 # game/businessGirl.rpy:232
 translate english part1_3_ec7986f3:
 
     # b "之前你们还不听我的把酒楼扩大，现在遭罪了吧。（从厨房搬走了一个大西瓜，回到了前厅）"
-    b ""
+    b "You guys didn't take my advice and expand the restaurant, "
+    b "now you're dealing with this. (Moved a big watermelon from the kitchen and returned to the front hall)"
 
 # game/businessGirl.rpy:234
 translate english part1_4_20bbb35a:
 
     # mc2 "（摇摇头）就两个人吃，随便切切，炒炒不就好了。三郎，你也帮帮忙吧。"
-    mc2 ""
+    mc2 "(Shaking my head) It's just for two people, just cut and whatever."
+    mc2 "San Lang, you can help too."
 
 # game/businessGirl.rpy:236
 translate english part1_4_d7a49400:
 
     # three "（看到表叔去了前厅）就算太阳从西边出来，本尊也不会为凡人做事。"
-    three ""
+    three "(Seeing my uncle leave for the front hall) Even if the sun comes out from the west, I will not work for any mortals."
 
 # game/businessGirl.rpy:241
 translate english part1_4_0a17e239:
 
     # five "（瞳孔扩大）三哥，你怎么—难道说萧萧早就知道了我们的身份？"
-    five ""
+    five "(Pupil dilates) Third brother, what are you — could it be that Xiao Xiao knew our identity a long time ago?"
 
 # game/businessGirl.rpy:242
 translate english part1_4_bc5a4e03:
 
     # mc2 "当然了，我怎么说也是励志成为京都第一小富婆的女人，这点小事我早就知晓了。什么能逃过我的眼睛？"
-    mc2 ""
+    mc2 "Of course, I aspire to become the richest woman in the capital city."
+    mc2 "I have known your other identities a long time ago. No one can trick me."
 
 # game/businessGirl.rpy:244
 translate english part1_4_3afb4801:
 
     # five "原来如此，早说嘛（轻笑，默念了几句法术）"
-    five ""
+    five "If that's the case, you should have told me earlier (chuckles, read a few spells silently)"
 
 # game/businessGirl.rpy:245
 translate english part1_4_edf38f54:
 
     # "只有一瞬间的功夫，二十道菜就马上出现在我们面前。"
-    ""
+    "With only a second, twenty dishes immediately appeared in front of us."
 
 # game/businessGirl.rpy:247
 translate english part1_4_933e4a8c:
 
     # mc2 "噢，被我抓住你的小辫子了吧，你竟然偷偷使用仙术。不过你三哥估计只能打打妖怪，像这种物归原位的仙术就不行了吧？"
-    mc2 ""
+    mc2 "Oh, I just caught you secretly using your ability power. But I guess your third brother can only fight monsters."
+    mc2 "I suppose his ability power isn't that strong overall."
 
 # game/businessGirl.rpy:248
 translate english part1_4_46ad5990:
 
     # mc2 "比如说什么清洗盘子和筷子，扫除厨房地板灰尘之类的？"
-    mc2 ""
+    mc2 "Other than fighting monsters, I guess he can't do basic kitchen cleaning spells, right?"
 
 # game/businessGirl.rpy:250
 translate english part1_4_8b7fa0a9:
 
     # "三郎转身和我相视，食指在空中画了几化，顿时，厨房变得比新建时还新。"
-    ""
+    "San Lang turned around and looked at me, his index finger drew a few lines in the air, and suddenly, "
+    "the kitchen became newer than when it was first built."
 
 # game/businessGirl.rpy:251
 translate english part1_4_591c7f93:
 
     # three "你不就是想早点出去在集市玩吗？怎么还不走？"
-    three ""
+    three "Don't you just want to go out early and play at the market? Why are you still here?"
 
 # game/businessGirl.rpy:254
 translate english part1_4_ce3e58f0:
 
     # "店外的灯火和天上的星星照亮了路上行人的脸庞。"
-    ""
+    "The lights outside the store and the stars in the sky illuminate the faces of pedestrians on the road."
 
 # game/businessGirl.rpy:255
 translate english part1_4_4f2bc745:
 
     # "人潮中的男女个个都是成双成对，明显地衬出了我，三郎，四郎，和五郎的格格不入。"
-    ""
+    "The men and women in the crowd are all in pairs, except for San Lang, Si Lang, Wu Lang, and me."
 
 # game/businessGirl.rpy:257
 translate english part1_4_7741d4de:
 
     # "街道旁有一对男女用打量的眼神看向了我们，两人先是窃窃私语，然后对着我们嬉笑。"
-    ""
+    "On the other side of the street, a young man and a woman gazed at us."
+    "The two of them first whispered and then giggled at each other."
 
 # game/businessGirl.rpy:258
 translate english part1_4_fcdb4f12:
 
     # "我觉的是因为"
-    ""
+    "I assume it's because"
 
 # game/businessGirl.rpy:264
 translate english part1_4_ac18853f:
 
     # "善良 + 10"
-    ""
+    "Virtue points + 10"
 
 # game/businessGirl.rpy:268
 translate english part1_5_63e62d7a:
 
     # "为了掩盖我的尴尬，我走到了一个卖糖人的小店旁。"
-    ""
+    "In order to cover up my embarrassment, I walked up to a small candy seller."
 
 # game/businessGirl.rpy:269
 translate english part1_5_ed06065e:
 
     # "这个卖糖果的老板似乎用糖浆捏了好多了模型，还没等我开口，五郎就随手拿起了一个糖人。"
-    ""
+    "The candy seller seemed to have made a lot of different shapes with syrup. "
+    "Before I could speak, Wu Lang picked up a candy with ease."
 
 # game/businessGirl.rpy:270
 translate english part1_5_a0f29b46:
 
     # five "老板，这个是什么啊？（看到身后的小朋友吃着刚买好的小糖人）哇，原来这个可以吃啊？ 萧萧，你也买一个吧。"
-    five ""
+    five "what is this? (Seeing a kid eating the candy) Wow, so this can be eaten? Xiao Xiao, you should buy one too"
 
 # game/businessGirl.rpy:272
 translate english part1_5_e9b0a1d3:
 
     # mc2 "你能不能不要露出一脸没见过世面的样子啊。"
-    mc2 ""
+    mc2 "Can you not tell the world that you've been living under a rock?"
 
 # game/businessGirl.rpy:273
 translate english part1_5_107bcb66:
 
     # mc2 "这个就是一个普通的市井小玩意而已，姐姐我小时候后不知道吃了多少呢。"
-    mc2 ""
+    mc2 "This is just a snack. I'd eaten them since I was a child."
 
 # game/businessGirl.rpy:274
 translate english part1_5_ee36357b:
 
     # dude5 "姑娘，我这个摊子卖的可都是以我们西凉神兽模型而雕刻成的糖人，这祖传的技术可不是什么普通的东西。"
-    dude5 ""
+    dude5 "Lady, my candies are inspired by our former heavenly guardians. My carving skills are passed from generation to generation."
+    dude5 "This is nothing unremarkable."
 
 # game/businessGirl.rpy:275
 translate english part1_5_65cb6de7:
 
     # "四郎和五郎盯着这些“稀奇”的糖果，对这老板投向了些赞赏的眼神。"
-    ""
+    "Si Lang and Wu Lang stared at these \"exotic\" candies, and cast some admiring glances at the seller."
 
 # game/businessGirl.rpy:276
 translate english part1_5_d183e700:
 
     # "对我而言，这老板只是说的好听，糖浆就是糖浆，他的手艺只能算中等，姐姐我小时候不知道捏了多少呢。"
-    ""
+    "To me, the seller is just exaggerating his skills, syrup is sugar, and his craftsmanship can only be considered medium."
+    "He simply did not know how many candies I made when I was a kid."
 
 # game/businessGirl.rpy:278
 translate english part1_5_394150c5:
 
     # four "（盯着糖果，有些期待）老板，不知你的摊子可有卖像麒麟的糖人？"
-    four ""
+    four "(Staring at the candies with some expectation) Seller, I wonder if you sell any candy that looks like Qilin in your shop?"
 
 # game/businessGirl.rpy:279
 translate english part1_5_8f5483ed:
 
     # five "(找寻着什么) 对了，有没有朱雀？"
-    five ""
+    five "(Looking for something) By the way, is there any phoenix?"
 
 # game/businessGirl.rpy:280
 translate english part1_5_a9cc78d6:
 
     # three "（见老板未答复，有些失望）看来老板的生意很好，似乎这里只有少许的糖人了，可有白虎？"
-    three ""
+    three "(A little disappointed that the seller didn't answer his brothers' questions) You sold a lots of candies today. "
+    three "Since there's only a few left, do you have any with the shape of the white tiger?"
 
 # game/businessGirl.rpy:282
 translate english part1_5_b8f5049f:
@@ -2644,51 +2706,51 @@ translate english strings:
 
     # businessGirl.rpy:160
     old "仙郎无妇 "
-    new ""
+    new "A Heavenly Prince has no wife"
 
     # businessGirl.rpy:160
     old "小儿无妇"
-    new ""
+    new "A child has no wife"
 
     # businessGirl.rpy:217
     old "五道菜"
-    new ""
+    new "Five dishes"
 
     # businessGirl.rpy:217
     old "十道菜"
-    new ""
+    new "Ten dishes"
 
     # businessGirl.rpy:217
     old "二十道菜"
-    new ""
+    new "Twenty dishes"
 
     # businessGirl.rpy:259
     old " 他们误会了什么"
-    new ""
+    new "They misunderstood something"
 
     # businessGirl.rpy:259
     old " 他们在聊其他事情"
-    new ""
+    new "They were talking about something else"
 
     # businessGirl.rpy:312
     old "麒麟"
-    new ""
+    new "Qilin"
 
     # businessGirl.rpy:312
     old "朱雀"
-    new ""
+    new "Phoenix"
 
     # businessGirl.rpy:312
     old "白虎"
-    new ""
+    new "White Tiger"
 
     # businessGirl.rpy:355
     old "姐姐"
-    new ""
+    new "Sister"
 
     # businessGirl.rpy:355
     old "未婚妻"
-    new ""
+    new "fiancée"
 
     # businessGirl.rpy:497
     old "这次必死无疑了"
