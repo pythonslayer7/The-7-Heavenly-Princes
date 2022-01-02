@@ -4603,7 +4603,7 @@ translate english a_4_9_73f15cff:
 
     # "晶莹剔透的雨珠犹如千万颗点缀在黑夜之上的星星，默默发亮。彻夜难眠，我觉得这刺眼的闪电一闪一闪的，加上大风刮开了窗子更让自己有些害怕。"
     "The crystal raindrops glow like a thousand stars scattered in the night. "
-    "I can’t sleep with the constant flashes and rumblings."
+    "I can't sleep with the constant flashes and rumblings."
     "A strong wind busts the window open, scaring me even more."
 
 # game/script.rpy:778
@@ -4617,14 +4617,14 @@ translate english a_4_9_630e515e:
 translate english a_4_9_fac493aa:
 
     # "虽然有些害怕，我不愿麻烦宫人。独自一人在这个可怕的夜晚度过了。"
-    "Even though I am a little scared, I don’t want to bother the people in the court."
+    "Even though I am a little scared, I don't want to bother the people in the court."
     "So, I spent the terrible night alone."
 
 # game/script.rpy:786
 translate english a_4_10a_5708c85c:
 
     # mc_1 "(声音颤抖) 快来人!"
-    mc_1 "Call someone-"
+    mc_1 "(Voice shaking) Someone please come forward-"
 
 # game/script.rpy:787
 translate english a_4_10a_684ed9f0:
@@ -4662,7 +4662,7 @@ translate english a_4_10a_b03fb398:
 
     # six "(擦了擦我额头上的汗珠) 阿轩姐姐说你最害怕闪电打雷。她今晚受了风寒，不能来照顾你。我在偏殿听到你的声音就来了。"
     six "(Wiping the beads of sweat from my forehead) Ah-Xuan said your biggest fear is thunder and lightning."
-    six "She has a cold and can’t take care of you tonight."
+    six "She has a cold and can't take care of you tonight."
     six "I came as soon as I heard your voice."
 
 # game/script.rpy:793
@@ -4670,7 +4670,7 @@ translate english a_4_10a_f65f0772:
 
     # mc_1 "(看着他单薄的白色衣衫，面色发红) 可是男女有别。本宫可不想其他人说闲话。"
     mc_1 "(Looking at his thin, white shirt, blushing) But men and women… are different."
-    mc_1 "I don’t want others to gossip."
+    mc_1 "I don't want others to gossip."
 
 # game/script.rpy:794
 translate english a_4_10a_03b4732c:
@@ -4695,7 +4695,7 @@ translate english a_4_10a_068f6594:
 translate english a_4_10a_dc2ce1d5:
 
     # six "(握住我的手)不必害怕，这打雷下雨都是雷神电母和龙王的责任。"
-    six "(Holding my hand in his) Don’t be afraid. "
+    six "(Holding my hand in his) Don't be afraid. "
     six "The god of thunder and Dragon King are in charge of the thunder and the lightning."
 
 # game/script.rpy:798
@@ -4724,7 +4724,7 @@ translate english a_4_10a_d97b5e73:
     # six "哦，那就讲讲我师父去青龙潭捉到魔龙的故事吧。青龙潭早些年尸横遍野，因为里面住的魔龙常常捕捉凡人来吃—"
     six "Eh, okay. Let me tell you of a time when my master went to The Pond of Blue Dragon to catch a dragon demon. "
     six "It was a wild place in the past because of a magical dragon that lived there. "
-    six "The dragon often captured the mortals to eat--"
+    six "The dragon often captured mortals as his next meal--"
 
 # game/script.rpy:802
 translate english a_4_10a_1bcc7816:
@@ -4759,14 +4759,14 @@ translate english a_4_10a_4bec1af6:
 
     # "我抬眸与他相望却被这暧昧的气氛感染，久久相对无言却又胜过千言万语。"
     "When I raised my eyes to look up at him, the warmth of the atmosphere engulfed me."
-    "I am without words, but certain things are better left unsaid."
+    "I am speechless, but certain things are better left unsaid."
     "Sometimes silence is better than a thousand spoken words."
 
 # game/script.rpy:807
 translate english a_4_10a_76412b35:
 
     # "他突然按住我的手腕，神情好似是压抑着一些我不明白的情感。身体倾斜，他慢慢地离我越来越近。"
-    "Unexpectedly, grasped my wrist tightly, his expression suppressing hidden emotions I didn't quite understand."
+    "Unexpectedly, he grasped my wrist tightly, as if he was suppressing hidden emotions I didn't quite understand."
     "Leaning in, he's trying to close space between us."
 
 # game/script.rpy:808
@@ -4774,7 +4774,7 @@ translate english a_4_10a_2639e276:
 
     # "被烛火照耀着的六郎看起来有些迷人，在朦胧的视线下看起来有着羞涩却认真男子的模样。"
     "Illuminated by the flickering candlelight, Liu Lang looked a little charming. "
-    "He had the appearance of being vulnerable, yet serious, under the dim lighting. "
+    "He looked shy and attentive under the dim lighting. "
 
 # game/script.rpy:809
 translate english a_4_10a_9c7fadf1:
@@ -4801,13 +4801,13 @@ translate english a_4_10a_3e9b8781:
 
     # six "我虽在老君身边修炼百年，但也是终日与丹药和炼丹炉打交道。虽说明白人间情意，却不曾自身体会。"
     six "In the centuries that I have been cultivating with my grandmaster, I have dealt with elixirs and alchemy furnaces all day long. "
-    six "Even though I am aware of human affections, I’ve never experienced it myself."
+    six "Even though I am aware of human affections, I've never experienced it myself."
 
 # game/script.rpy:815
 translate english a_4_10a_bec719f9:
 
     # "我顾不得这个小傻子又在胡说些什么，只是对他的行为有些不解。"
-    "I don’t really care what nonsense this little fool is talking about, his behavior is somewhat puzzling."
+    "I don't really care what nonsense this little fool is talking about, his behavior is somewhat puzzling."
 
 # game/script.rpy:816
 translate english a_4_10a_4f2ccb71:
@@ -4831,7 +4831,7 @@ translate english a_4_10a_950fc7c3:
 translate english a_4_10a_1be4542b:
 
     # six "（想到些什么）我该听从师父教诲，若是心乱了就要虔心打坐"
-    six "(Thinking of something) I should follow the master’s teachings."
+    six "(Thinking of something) I should follow my master's teachings."
     six "If my heart is not at peace, I should meditate."
 
 # game/script.rpy:820
@@ -4903,7 +4903,7 @@ translate english a_4_10a_f6139f67:
 translate english a_4_10a_2e715423:
 
     # mc_1 "那好，现在仙女要就寝了，明日再与我相谈吧。"
-    mc_1 "Well, right now this fairy wants to go to bed, let’s talk tomorrow."
+    mc_1 "Well, right now this fairy wants to go to bed, let's talk tomorrow."
 
 # game/script.rpy:833
 translate english a_4_10a_15376c9c:
@@ -4949,14 +4949,14 @@ translate english a_4_11_cd85a695:
 translate english a_4_11_e7372774:
 
     # "红色的血染红了他的衣衫，可是我很快的发现了这个人是我熟悉的男子。 "
-    "Bright red blood stained the man’s clothes. "
+    "Bright red blood stained the man's clothes. "
     "Looking at him closely, I realize that he is someone that I know very well. "
 
 # game/script.rpy:842
 translate english a_4_11_44b9e415:
 
     # mc_1 "神仙哥哥，怎么还不替我解除法术？你怎么受伤了？"
-    mc_1 "Fairy brother, why don’t you remove the spell from me?"
+    mc_1 "Fairy brother, why don't you remove the spell from me?"
     mc_1 "Why are you hurt?"
 
 # game/script.rpy:843
@@ -4971,14 +4971,14 @@ translate english a_4_11_480c58b3:
 translate english a_4_11_5f35a914:
 
     # one "这宫里住了一个妖孽，昨夜潜入东海，偷了龙宫的宝物。本尊也被其打伤。"
-    one "There’s an evildoer that lives in this palace. "
+    one "There's an evildoer that lives in this palace. "
     one "Yesterday, he infiltrated the Eastern Sea and stole the treasures of the Dragon Palace, and wounded me."
 
 # game/script.rpy:845
 translate english a_4_11_ce76b98a:
 
     # mc_1 "难道是国师？他确实法力无边，先不说这个了。本公主带你去疗伤，皇宫里有这么多御医，他们肯定能保你安然无恙。"
-    mc_1 "Could that be the Prime Minister? He really is powerful, let’s not talk about this now. "
+    mc_1 "Could that be the Prime Minister? He really is powerful, let's not talk about this now. "
     mc_1 "Let me take you to get your wounds treated. "
     mc_1 "There are many imperial doctors in the palace, they can keep you safe and sound."
 
@@ -5007,7 +5007,7 @@ translate english a_4_11_0cff85c8:
 translate english a_4_11_d12e9150:
 
     # six "兄长，怎么是他！(脸突然变得惨白)"
-    six "It’s my brother, why is he here... (his face suddenly turned pale)"
+    six "It's my brother, why is he here... (his face suddenly turned pale)"
 
 # game/script.rpy:850
 translate english a_4_11_4171917b:
@@ -5058,7 +5058,7 @@ translate english a_4_11_48a80683:
     # mc_1 "西凉的神仙早就离开了。自从我的父皇开始拜祭恶鬼，世世代代保佑我们西凉的北冥帝君就再也不庇佑这个国家。"
     mc_1 "The deities of Xiliang left a long time ago. "
     mc_1 "Ever since my father started to worship demons, "
-    mc_1 "the Netherworld Emperor that had protected generation after generation of us had never returned to our country."
+    mc_1 "the Netherworld Emperor that protected us never returned again."
 
 # game/script.rpy:857
 translate english a_4_11_1b31823f:
@@ -5077,7 +5077,7 @@ translate english a_4_11_a0f14f64:
 
     # six "上一个北冥帝君已经下来了。如今，父亲会在我们几个兄弟里选择一人为北冥帝君。"
     six "The last Netherworld Emperor has stepped down."
-    sox "Now, our father will have to choose a new one among his sons."
+    six "Now, our father will have to choose a new one among his sons."
 
 # game/script.rpy:860
 translate english a_4_11_313af7f8:

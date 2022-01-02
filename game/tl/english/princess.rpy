@@ -22,7 +22,7 @@ translate english p_1_d0e17896:
     # six "白天我用的仙法太多，身体有些疲惫。到了夜晚，本想找当地土地问话。可却被你拦下了。我不向凡人求助是因为仙人不得和凡人走的太近。"
     six "I used most of my magic powers that day, so I was too exhausted by the time you found me. "
     six "I was going to ask the Lord of the Soil and Ground for help, but you took me to an inn. "
-    six "I usually don't ask mortals for help because I am not supposed to be friends with mortals."
+    six "I usually don't ask humans for help because I am not supposed to be friends with mortals."
 
 # game/princess.rpy:5
 translate english p_1_a4157bbd:
@@ -34,14 +34,14 @@ translate english p_1_a4157bbd:
 translate english p_1_1166a9d1:
 
     # six "我的弟弟，七郎，和一个叫做董永的凡人成了亲。"
-    six "My seventh brother, Qi Lang, married a mortal named Dong Yong."
+    six "My seventh brother, Qi Lang, married a human girl named Dong Yong."
 
 # game/princess.rpy:7
 translate english p_1_49a263d1:
 
     # six "可是天帝不许仙人与凡人有任何瓜葛。若是和凡人太亲近了， 我担心自己也会向弟弟一样，坠入凡尘，永世不得回天界。"
-    six "But the Heavenly Emperor does not allow immortals to have any contact with mortals. "
-    six "If I get too close to a mortal, I’m afraid that I will fall into the mortal world like my brother and never return to heaven."
+    six "But the Heavenly Emperor does not allow deities to have any contact with mortals. "
+    six "If I get too close to a person, I'm afraid that I will fall into the mortal world like my brother and never return to heaven."
 
 # game/princess.rpy:8
 translate english p_1_f1edd86b:
@@ -186,7 +186,7 @@ translate english p_1_5327eb29:
 translate english p_2_3f105cfa:
 
     # "我小心翼翼地守在大郎的床边，时不时为他擦去额头上的汗珠。"
-    "I cautiously waited by Da Lang’s bedside, periodically wiping beads of sweat from his forehead."
+    "I cautiously waited by Da Lang's bedside, periodically wiping beads of sweat from his forehead."
 
 # game/princess.rpy:31
 translate english p_2_6f2445be:
@@ -250,7 +250,7 @@ translate english p_2_4109390f:
 translate english p_2_1494e9a2:
 
     # "虽说是生死有命，难道想要他好好活着就这么困难吗？ 几滴泪水不受控制的落了下来。"
-    "Although life and death are predetermined, am I asking for too much for him to be alive? "
+    "Although life and death are predetermined, am I asking too much for him to stay alive? "
     "A few tears streamed down my face involuntarily."
 
 # game/princess.rpy:41
@@ -290,14 +290,14 @@ translate english p_2_4d26bad3:
 translate english p_2_686d4b91:
 
     # one "（有些不解）本尊在世已久，听闻凡人最喜爱的莫过于荣华富贵，求得好姻缘了。为何你却宁愿抛弃这些只为换我的平安？"
-    one "(Looking somewhat puzzled) I have lived for a long time and I have known mortals to only love  glory, wealth and even a happy marriage"
+    one "(Looking somewhat puzzled) I have lived for a long time and I have known mortals to only love  glory, wealth and even a happy marriage,"
     one "yet you would abandon them all for my well being. Why?"
 
 # game/princess.rpy:47
 translate english p_2_4a5b91dc:
 
     # mc_1 "大郎既然已经修道成仙，不必再受轮回之苦，那自然也能明白其中道理。"
-    mc_1 "Since you’re a powerful deity who no longer needs to suffer the wheel of reincarnation"
+    mc_1 "Since you're a powerful deity who no longer needs to suffer the wheel of reincarnation,"
     mc_1 "you must be more knowledgeable than mortals. Why don't you tell me instead?"
 
 # game/princess.rpy:48
@@ -333,7 +333,8 @@ translate english p_2_f6cb2059:
     # mc_1 "你和朝廷里那些谄媚的官员不一样。他们只想讨好我，完全因为我是公主罢了。 我觉得大郎虽然有些冷淡，但实则是外冷内热，是一个真性情的好郎君。"
     mc_1 "You are different from the court officials who only want to flatter me. "
     mc_1 "They try to please me, simply because I am a princess. "
-    mc_1 "I think that you seem indifferent on the outside, but inside you are caring. I think you are genuine."
+    mc_1 "I think that you are indifferent in the abstract, but in reality, you are actually very caring."
+    mc_1 "I think you are genuine."
 
 # game/princess.rpy:53
 translate english p_2_d70c372e:
@@ -384,7 +385,7 @@ translate english p_2_a7d48009:
 translate english p_2_03472b4d:
 
     # "看来让一个仙君爱上凡人其实不是那么容易的事情。这千年里他是不是遇见过什么人？"
-    "I guess it isn’t easy to make an Immortal fall in love with a human. "
+    "I guess it isn't easy to make an Immortal fall in love with a human. "
     "I wonder in these thousand years, has he ever spent time with anyone?"
 
 # game/princess.rpy:61
@@ -436,7 +437,7 @@ translate english p_3_7c276d84:
 translate english p_3_5f800626:
 
     # npc1 "微臣方才卜了一卦，公主和西凉的命数有必要的关系。若是公主能在这个月出嫁，那么她可保西凉的太平。"
-    npc1 "Your humble servant just had a divination, the princess and Xiliang's fates are intertwined."
+    npc1 "I just had a divination, the princess and Xiliang's fate are intertwined."
     npc1 "If the princess can marry this month, then she can protect Xiliang's peace."
 
 # game/princess.rpy:71
@@ -449,7 +450,7 @@ translate english p_3_ebefc82a:
 translate english p_3_214358e7:
 
     # npc1 "微臣只是善于卜卦，听从天意。"
-    npc1 "Your humble servant is only good at reading signs and obeys the will of the Gods."
+    npc1 "I'm only good at reading signs and obeys the will of the Gods."
 
 # game/princess.rpy:73
 translate english p_3_7713fe91:
@@ -560,7 +561,7 @@ translate english p_3_e7bc0296:
 translate english p_3_2056e4c2:
 
     # two "嗯？ 今天不是祭天大典吗？ 哈哈，小生就是来这里凑个热闹。"
-    two "Ah? Isn't today the ceremony to worship the heavens? "
+    two "Ah? Isn't today the day for sacrifices and worships? "
     two "Haha, I am just here to join the crowd and have some fun."
 
 # game/princess.rpy:90
@@ -626,8 +627,8 @@ translate english p_3_b57d46a4:
 
     # two "我在帝都多日，听到百鸟啼叫，本是喜事，却也看见地方官员的腐败制度，民不聊生。 这和上次来拜访的时候差的太多了。"
     two "I have been in the Imperial Capital many days, hearing the birds singing. "
-    two "This was supposed to be a harbinger of good things, but I also saw the corruption of the local officials. "
-    two "The people don't have any way to make a living. This is very different from the last time I visited."
+    two "This was supposed to be a harbinger of good things, but I also witnessed the corruption of local officials. "
+    two "Many people here are struggling. This is very different from the last time I visited."
 
 # game/princess.rpy:100
 translate english p_3_dba75cb0:
@@ -658,13 +659,13 @@ translate english p_3_fa0218c7:
 
     # mc_1 "（感叹) 五百多年前的西凉还信奉神仙，而现在贵族们都只信邪魔歪道了。之前保佑我们的北冥帝君也不再出现了。"
     mc_1 "(I sighed deeply) Five hundred years ago, Xiliang still believed in the Immortals, "
-    mc_1 "but now the nobles only follow evil ways. The Netherland Emperor, who once blessed us, is forever gone."
+    mc_1 "but now the nobles only follow evil ways. The Netherworld Emperor, who once blessed us, is forever gone."
 
 # game/princess.rpy:105
 translate english p_3_652aac5d:
 
     # two "北冥那个地方不仅人烟稀少，而且还常年下雪。 说不定神仙们也不想去那里上任呢。"
-    two "The Netherlands is not only sparsely populated, but it also snows all year long."
+    two "The Netherworld is not only sparsely populated, but it also snows all year long."
     two "Maybe the Immortals don't want to take office there, either."
 
 # game/princess.rpy:106
@@ -849,7 +850,7 @@ translate english p_4_a775e0ca:
 translate english p_4_87427b6f:
 
     # boy "哈哈，我可不敢惹猴子。上一次认识的那个猴王都已经得到真身。公主想要入海可是需要宝物的。"
-    boy "Haha, I don’t dare mess with monkeys. "
+    boy "Haha, I don't dare mess with monkeys. "
     boy "The Monkey King I met last already achieved nirvana. "
     boy "If you want to enter the sea as a mortal, then you will need some celestial items."
 
@@ -908,7 +909,7 @@ translate english p_4_ac1f5b3b:
 translate english p_4_0d309e07:
 
     # boy "哈哈，公主应当运用些仙法才是，不然是拿不到这定水珠的。"
-    boy "Haha, You should use some Immortal magic, otherwise you won't be able to get the water pearl."
+    boy "Haha, You should use some ability power, otherwise you won't be able to get the water pearl."
 
 # game/princess.rpy:149
 translate english p_4_f5cdd50c:
@@ -933,7 +934,7 @@ translate english p_4_dc2e9552:
 translate english p_4_1a1d9306:
 
     # "虽说现在仙法还不行，但是我的武术还是能排得上用场的。"
-    "I may not know Immortal magic, but my martial arts can still be of use."
+    "I may not know how to use any ability power, but my martial arts can still be of use."
 
 # game/princess.rpy:153
 translate english p_4_97564705:
@@ -990,7 +991,7 @@ translate english p_4_27864ad2:
 translate english p_4_f68c3091:
 
     # "这个少年水性极好，不仅带着我游到海底深处，而且我们很快就到了龙宫。"
-    "This young man was a good swimmer"
+    "This young man is a good swimmer,"
     "not only did he take me to the deepest parts of the sea, but in no time, we were quickly at the Dragon Palace."
 
 # game/princess.rpy:162
@@ -1004,13 +1005,13 @@ translate english p_4_b4204096:
 translate english p_4_9e55c65b:
 
     # "我虽然不去龙王庙上香，但是现在才突然记起来是龙王的大寿。"
-    "I don’t usually go to the Dragon King Temple to offer incense, but I suddenly recalled that it was the Dragon King's birthday today."
+    "I don't usually go to the Dragon King Temple to offer incense, but I suddenly recalled that it was the Dragon King's birthday today."
 
 # game/princess.rpy:164
 translate english p_4_e069b9d2:
 
     # "今日虽然来了许多神仙祝贺，但是我在远处就发现了九妹。 看来这个少年真的是仙人。"
-    "Though many Immortals came over to greet me, today, I noticed Jiu Mei in the distance. "
+    "Though many deities came over to greet the Dragon King, today, I noticed Jiu Mei in the distance. "
     "I guess that this young man really is an Immortal."
 
 # game/princess.rpy:165
@@ -1024,13 +1025,13 @@ translate english p_4_c7505bee:
 
     # boy "姑娘在岸上就已经问我这个问题了。我乃是西海储君，摩昂太子。"
     boy "You already asked me this on the beach. "
-    boy "I am the crown prince of the Western Sea, Prince Mo’ang."
+    boy "I am the crown prince of the Western Sea, Prince Mo'ang."
 
 # game/princess.rpy:167
 translate english p_4_583f4f06:
 
     # dude9 "数百年前，我的弟弟小白龙曾拜高僧玄奘为师，并与其一起西行取得真经。"
-    dude9 "Hundreds of years ago, my little brother, the White Dragon, once worshiped the famous Monk Xuan Zang, his teacher, "
+    dude9 "Hundreds of years ago, my little brother, the White Dragon, followed the famous Monk Xuan Zang, his teacher, "
     dude9 "and they went West to obtain holy scriptures."
 
 # game/princess.rpy:168
@@ -1055,7 +1056,7 @@ translate english p_4_0bd6332f:
 translate english p_5_f8046ce1:
 
     # f1 "原来如此。表兄仙术高强，法力无边，他倒是能教你好多仙术。"
-    f1 "That’s how you got here. My cousin is highly skilled and powerful, his magical power is limitless."
+    f1 "That's how you got here. My cousin is highly skilled and powerful, his magical power is limitless."
     f1 "He can teach you a lot of Immortal techniques."
 
 # game/princess.rpy:178
@@ -1068,7 +1069,7 @@ translate english p_5_4fe8668a:
 translate english p_5_d3464655:
 
     # dude9 "我虽然有些神通，但是论天赋，还是九妹更胜一筹。"
-    dude9 "Although I have some supernatural abilities, in terms of talents, Jiu Mei is better."
+    dude9 "Although I have some supernatural abilities, but in terms of talents, Jiu Mei is better."
 
 # game/princess.rpy:180
 translate english p_5_cdb5a806:
@@ -1093,8 +1094,8 @@ translate english p_5_2164af0e:
 translate english p_5_68dd02b9:
 
     # f1 "阿凌姐姐不必担心，我的父王不是小气之人。再说，你是我的客人，谁会为难于你呢？"
-    f1 "Ah-Ling, don’t worry. My father is not a petty person."
-    f1 "What’s more, you're my guest. No one is going to bat an eye."
+    f1 "Ah-Ling, don't worry. My father is not a petty person."
+    f1 "Plus, you're my guest. No one is going to bat an eye."
 
 # game/princess.rpy:184
 translate english p_5_eb6aa737:
@@ -1106,13 +1107,13 @@ translate english p_5_eb6aa737:
 translate english p_5_3f664194:
 
     # "听到这里，我安心许多，于是和九妹一同坐下。"
-    "听到这里，我安心许多，于是和九妹一同坐下。"
+    "Hearing this, I felt more relieved and sat down with her."
 
 # game/princess.rpy:187
 translate english p_5_b24d1096:
 
     # "测试版到此结束，您是否想查看游戏的更多更新？"
-    "测试版到此结束，您是否想查看游戏的更多更新？"
+    "Demo is over, do you want to see more updates？"
 
 # game/princess.rpy:190
 translate english p_5_723b1c7e:
@@ -1176,229 +1177,258 @@ translate english p_3_e66eea70:
 translate english p_3_79b18397:
 
     # mc_1 "（感叹) 五百多年前的西凉还信奉神仙，而现在贵族们都只信邪魔歪道了。之前保佑我们的北冥帝君也不再出现了。"
-    mc_1 " "
+    mc_1 "(I sighed deeply) Five hundred years ago, Xiliang still believed in gods, "
+    mc_1 "but now the nobles only follow the Demon Lord. "
+    mc_1 "The Netherworld Emperor, who once blessed us, is forever gone."
 
 # game/princess.rpy:162
 translate english p_3_e7809b99:
 
     # two "无事。小生还有些事要去办，今日撞见公主实乃巧合。 下一次若是有缘再见吧。"
-    two ""
+    two "Nothing important, I need to take care of some matters."
+    two "I also need to run some errands, let's talk again next time."
 
 # game/princess.rpy:181
 translate english p_4_58c56635:
 
     # "或许有些失措了，我决定离开这里。"
-    ""
+    "Before I could recollect myself, I decided to leave here."
 
 # game/princess.rpy:182
 translate english p_4_af95d132:
 
     # "还是去别处看看吧。我跟着自己的直觉去了大郎的房间。"
-    ""
+    "Maybe it's a better idea to go somewhere else. I followed my intuition and went to visit Da Lang."
 
 # game/princess.rpy:183
 translate english p_4_260f9747:
 
     # "果不其然，房间内传来的是二郎和大郎的谈话声。"
-    ""
+    "Expectedly, I can hear the conversation between Er Lang and Da Lang."
 
 # game/princess.rpy:185
 translate english p_4_ce805572:
 
     # two "兄长，原来你被公主所救。看来如今你的伤势已经好了，这样我和弟弟们也不用担心你了。"
-    two ""
+    two "Brother, so you're saved by the princess. You're almost recovered."
+    two "I guess the rest of us don't need to worry about your wounds anymore."
 
 # game/princess.rpy:186
 translate english p_4_7a7049da:
 
     # one "再过一个时辰，等我恢复所有的仙法，我们就一同离开皇宫。"
-    one ""
+    one "Just two more hours I will get my ability powers back."
+    one "We will leave the palace then."
 
 # game/princess.rpy:187
 translate english p_4_20c76bec:
 
     # one "这个妖孽比我想象中还要厉害许多。若是只用武力，我们并非他的对手。"
-    one ""
+    one "This demon is stronger than I expected."
+    one "If we're just gonna challenge him without a plan, we're not gonna win."
 
 # game/princess.rpy:188
 translate english p_4_74932d60:
 
     # two "哟，你舍得离开吗？"
-    two ""
+    two "Oh, do you really want to leave?"
 
 # game/princess.rpy:189
 translate english p_4_b367aff3:
 
     # two "这西凉的公主对你有意，她又有国色天香之貌，你可舍得现在走？就不去道别？"
-    two ""
+    two "The princess obviously likes you, she's stunningly beautiful."
+    two "Are you really going to leave without saying good-bye to her?"
 
 # game/princess.rpy:190
 translate english p_4_e2595585:
 
     # one "人仙有别，纵使她有西施之貌，我也对她并无任何感情。"
-    one ""
+    one "Humans and deities aren't meant to be friends. We're inherently different."
+    one "Even if she's the most beautiful woman on earth, I still wouldn't love her."
 
 # game/princess.rpy:191
 translate english p_4_d40ab053:
 
     # one "我既然对她并无意，现在走，以后走都不会改变什么。"
-    one ""
+    one "And if I have no feelings for her, it won't matter if I leave now or later."
+    one "Nothing is going to change my mind."
 
 # game/princess.rpy:192
 translate english p_4_d705d3c2:
 
     # two "兄长现在把话说得这么死，以后可不要后悔才好。那个时候可就晚了。"
-    two ""
+    two "If you're saying this now, you better not regret your words one day."
+    two "It will be too late by then."
 
 # game/princess.rpy:193
 translate english p_4_92a6f003:
 
     # one "后悔？与人相恋就好比是水中捞月，到头来只是一场空。"
-    one ""
+    one "Regret? Falling in love with a mortal is like trying to catch the reflection of the moon on a pond,"
+    one "You can't grasp anything. It's just an illusion."
 
 # game/princess.rpy:194
 translate english p_4_87e98da6:
 
     # one "何等狂人才会把千年修为作为赌注，只为和一介凡人相守区区数十载的光阴？"
-    one ""
+    one "What kind of mad man will exchange a thousand years of cultivation experience for few decades of time,"
+    one "Just so that he can spend a few decades with a mortal? It's pointless."
 
 # game/princess.rpy:195
 translate english p_4_7894c9f3:
 
     # two "（想到什么）还是因为你心有所属，其他凡间女子你早就不放在眼里了？"
-    two ""
+    two "(Thinks about something) Or maybe because you're already in love with someone else,"
+    two "so you won't consider any other woman."
 
 # game/princess.rpy:196
 translate english p_4_5525855a:
 
     # two "怎么说阿凌是金枝玉叶，你要是直接拒绝人家，那她会多伤心啊。"
-    two ""
+    two "But Ah-Ling is a person of royal blood, if you just reject her,"
+    two "she must be really sad."
 
 # game/princess.rpy:197
 translate english p_4_37f09517:
 
     # one "（摇头）众生在我眼里皆为平等，不管是公主还是平民百姓，我都一视同仁。"
-    one ""
+    one "(Shakes head) Every living thing is equal in my eyes, "
+    one "it doesn't matter if she's a princess or a commoner, they are all the same to me."
 
 # game/princess.rpy:198
 translate english p_4_664f8eec:
 
     # one "作为仙人，我们应该惩治恶人，赏罚分明，不该给凡人不切实际的希望。"
-    one ""
+    one "As deities, we should punish the evil and reward the good,"
+    one "and we should never offer mortals any unrealistic hope."
 
 # game/princess.rpy:199
 translate english p_4_e57dbf11:
 
     # one "我心意已决，不管后果如何，我都不会接受公主的心意。"
-    one ""
+    one "I'm not going to change my mind, and no matter the consequences,"
+    one "I will not accept the princess's affection."
 
 # game/princess.rpy:200
 translate english p_4_ba043241:
 
     # one "我等仙人并非公主的良人。"
-    one ""
+    one "Deities aren't meant to be lovers of mortals."
 
 # game/princess.rpy:202
 translate english p_4_d4775676:
 
     # "听到这里，我都快心碎了。大郎是我在人世间第一个心动的人。"
-    ""
+    "As I hear this, my heart breaks into a thousand pieces."
+    "Da Lang is the first guy that I actually cared about."
 
 # game/princess.rpy:203
 translate english p_4_376b1ced:
 
     # "想到我第一次遇见他时，有一个小贼趁我微服私访时偷了我的钱包。"
-    ""
+    "When I first met him, a thief stole my wallet."
 
 # game/princess.rpy:204
 translate english p_4_2ea53916:
 
     # "他不等我道谢，就把那贼人惩治。当我问他是否要银两还是报酬来感谢他的义举，他也冷淡地拒绝了。"
-    ""
+    "He punished the thief without expecting anything."
+    "I offered him gold and gifts, but he declined all of them."
 
 # game/princess.rpy:205
 translate english p_4_17d966b0:
 
     # "如今我才明白当时大郎只是以仙人的身份来惩治不法之徒。"
-    ""
+    "Now I see that it's because he's a deity."
+    "He's using his power to punish the bad."
 
 # game/princess.rpy:206
 translate english p_4_bec5f7a4:
 
     # "我们萍水相逢，并不是像戏曲里说得那么好听。"
-    ""
+    "This isn't a fairy tale. We met randomly, and there is no happy ending."
 
 # game/princess.rpy:207
 translate english p_4_3d15cc27:
 
     # "我对他的好感也是基于他不像朝里那些献媚讨好的官员们。"
-    ""
+    "I liked him because he's different from the offials in court."
+    "He doesn't flatter me because I'm a princess."
 
 # game/princess.rpy:208
 translate english p_4_3bdec8b2:
 
     # "时至今日，我都是一厢情愿。我一刻都不想在皇宫里待下去了。"
-    ""
+    "But our feelings aren't mutual. Now I don't want to stay in the palace anymore."
 
 # game/princess.rpy:234
 translate english p_4_69f44603:
 
     # boy "此乃神通，不是妖法。还给你，那好啊。要是姑娘能拿到此物，我就还给你。"
-    boy ""
+    boy "This is supernatural power from a deity, not a demon."
+    boy "If you can reach the water pearl, then I will give it back to you."
 
 # game/princess.rpy:288
 translate english p_5_bd8088a1:
 
     # dking "今日各位大仙来到龙宫为吾祝寿，本王甚是感动。各位请用膳吧。"
-    dking ""
+    dking "I'm overjoyed to have all the gods and goddesses here, celebrating my birthday."
+    dking "Please everyone, enjoy your meals and have a good time."
 
 # game/princess.rpy:290
 translate english p_5_dfc28eb1:
 
     # "还没等我拿起筷子，我就发现了上座的一些神仙们。"
-    ""
+    "Before I pick up the chopsticks, I notice a lot of deities from myths."
 
 # game/princess.rpy:292
 translate english p_5_bddf84ce:
 
     # "不仅赤脚大仙，八仙，和五庄观的元稹子都来赴宴，而且还有百年前西行回来的猴王孙悟空和他的师弟猪八戒。"
-    ""
+    " Not only the Bare-Foot Immortal and the Eight Immortals, but also Yuan Zhenzi from the Wuzhuang Temple came to the banquet. "
+    "Sun Wukong (the Monkey King), who had gone to the West a hundred years ago, and Pigsy also came."
+     
 
 # game/princess.rpy:294
 translate english p_5_088ce734:
 
     # "其他海的龙王们也纷纷赶来祝贺敬酒，一时间好不热闹。"
-    ""
+    "Dragon kings from other sea areas also hurried to congratulate and toast him, it was very lively for a while."
 
 # game/princess.rpy:295
 translate english p_5_ed195c47:
 
     # "这些本都是说书先生嘴里的神话人物突然出现在我身边，我对他们都充满了好奇心。"
-    ""
+    "These mythical figures that I had only heard of from the storyteller suddenly appeared in front of me;"
+    "I was very curious about them."
 
 # game/princess.rpy:297
 translate english p_5_a0f488d8:
 
     # monkey "老头，当年西行之路阻扰甚多，多亏了你们及时帮忙，不然俺老孙还不知道要走多少冤枉路呢。"
-    monkey ""
+    monkey "Old man, the road to the West had a lot of obstacles back then. "
+    monkey "Had we not received your help, we would've taken many wrong paths.  "
+     
 
 # game/princess.rpy:298
 translate english p_5_cea6b463:
 
     # monkey "如今赶上了你大寿，我就在不周山带了些宝物来。"
-    monkey ""
+    monkey "Now that it's time for your birthday, I brought some treasures from Buzhou Mountain."
 
 # game/princess.rpy:299
 translate english p_5_208d2798:
 
     # dking "佛爷真是客气了。当年都是举手之劳。要不是你们师徒，我的侄儿小白龙也不会得道。"
-    dking ""
+    dking "Monkey King, you"
+    dking "If it were not for your mentorship, my nephew Xiao Bailong would not have gained the way. "
 
 # game/princess.rpy:300
 translate english p_5_2228487f:
 
     # dking "说起来，还得感谢佛爷呢。"
-    dking ""
+    dking "Speaking of which, I have to thank you,  Monkey King."
 
 # game/princess.rpy:302
 translate english p_5_c5d8c47b:
