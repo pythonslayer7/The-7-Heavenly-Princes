@@ -1,18 +1,27 @@
 ﻿# 游戏的脚本可置于此文件中。
 
+
+
+
 # Imagemaps
 screen chooseRoute:
     imagemap:
-        ground "routeChoiceUnhover.png"
-        hover "routeChoice1.png"
+        ground "images/thirdRoute/chooseRouteUnhovered.png"
+        hover "images/thirdRoute/chooseRouteUnhovered.png"
 
-        hotspot(1, 2, 398, 533)  action Jump ("scene_b") hovered [Play ("sound", "audio/swoosh.mp3")] focus_mask True
-        hotspot(522, 2, 436, 531) action Jump ("scene_a") hovered [Play ("sound", "audio/swoosh.mp3")] focus_mask True
-
+        hotspot(838, 57, 63, 63)  action Jump ("scene_a") hovered [Play ("sound", "audio/swoosh.mp3"), ShowTransient("chooseImg", img="thirdRoute/chooseRoute1.png")] focus_mask True unhovered Hide("chooseImg") 
+        
+        hotspot(841, 238, 65, 61)  action Jump ("scene_b") hovered [Play ("sound", "audio/swoosh.mp3"), ShowTransient("chooseImg", img="thirdRoute/chooseRoute2.png")] focus_mask True unhovered Hide("chooseImg") 
+        
+        hotspot(839, 440, 72, 65)  action Jump ("scene_c") hovered [Play ("sound", "audio/swoosh.mp3"), ShowTransient("chooseImg", img="thirdRoute/chooseRoute3.png")] focus_mask True unhovered Hide("chooseImg") 
+        
+screen chooseImg(img):
+    add img pos (0, 0)
 # 声明此游戏使用的角色。颜色参数可使角色姓名着色。
 init:
     $ style.default.font = "NotoSerifSC-Regular.otf"
     $ style.default.language = "eastasian"
+    $ flash = Fade(.25, 0, .75, color="#fff")
     define mc = Character(_("忘尘仙子/我"))
     define mc_1 = Character(_("慕容凌/我"))
     define one = Character(_("大郎"))
@@ -53,7 +62,12 @@ init:
     define p2 = Character(_("普男二" ))
     define p3 = Character(_("普男三" ))
     define dad = Character(_("爹"))
-    
+    define placeholder = Character(_("我"))
+    define matchmaker =  Character(_("月老"))
+    define unknown = Character(_("???"))
+    define ming = Character(_("觉明"))
+    define mc3 = Character(_("宓瑶"))
+
 
 # 游戏在此开始。
 
@@ -75,10 +89,13 @@ label start:
     $ four_l = 0
     $ five_l = 0
     $ six_l = 0
+    $ seven_l = 0
     $ dr_l = 0
     $ friend_x = 0
     $ virtue = 0
     $ det = 0
+    $ reason = 0
+    $ sensib = 0
     play music "audio/music0.mp3"
     scene 20
     "人人都知道天帝有七个儿子，而每位仙君传说都是春闺少女的梦中人。"
@@ -150,6 +167,9 @@ label start:
                 show 52 with dissolve
                 "三郎 好感 + 5"
                 jump scene1_2
+            "多愁善感":
+                $ seven_l += 5
+                "七郎 好感 + 5"
     label scene1_2:
         scene 01 with dissolve
         "望着远方，我看到二郎在仙雾竹林里采药。"
@@ -207,6 +227,7 @@ label start:
         dude2 "你有两种选择，一是成为西凉国的公主，享受着荣华富贵。二是投胎为商人的女儿，勤俭持家。"
         dude2 "这两种命格都是祸福参半，你要谨慎选择。"
         "仙子，走什么线？"
+        "\[将鼠标悬停在右侧的不同数字上并选择您的路线\]"
         call screen chooseRoute with dissolve
     label scene_a:
         hide chooseRoute

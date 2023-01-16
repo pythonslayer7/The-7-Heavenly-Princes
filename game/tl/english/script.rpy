@@ -5429,3 +5429,43 @@ translate english strings:
     old "爹"
     new "Dad"
 
+# TODO: Translation updated at 2023-01-15 13:03
+
+# game/script.rpy:172
+translate english scene1_1_85161bd5:
+
+    # "七郎 好感 + 5"
+    ""
+
+# game/script.rpy:230
+translate english scene1_2_ebb534ab:
+
+    # "[[将鼠标悬停在右侧的不同数字上并选择您的路线]"
+    "Please hover over the numbers at the right side of the screen to choose routes."
+
+translate english strings:
+
+    # game/script.rpy:65
+    old "我"
+    new "Me"
+
+    # game/script.rpy:66
+    old "月老"
+    new "Yue Lao"
+
+    # game/script.rpy:67
+    old "???"
+    new "???"
+
+    # game/script.rpy:68
+    old "觉明"
+    new "Jueming"
+
+    # game/script.rpy:69
+    old "宓瑶"
+    new "Miyao"
+
+    # game/script.rpy:139
+    old "多愁善感"
+    new "Sentimental"
+
